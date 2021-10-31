@@ -30,9 +30,10 @@
             <div class="col-sm-12 col-lg-6 img-col jango-intro">
             </div>  
         </div>
+    </div>
 </section>
 <section class="work-section">
-    <div class="center-box">
+    <div class="container-fluid center-box">
         <div class="row text-col blurb">
             <div class="col-sm-12 col-lg-6 blurb-heading">
                 <h2>01 RESEARCH</h2>
@@ -43,11 +44,11 @@
         </div>
     </div>
     <div class="flex center">
-        <img src="../images/jango-trial-img.png" alt="">
+        <img class="img-fluid" src="../images/jango-trial-img.png" alt="">
     </div>
 </section>
 <section class="work-section white">
-    <div class="center-box">
+    <div class="container-fluid center-box">
         <div class="row text-col blurb">
             <div class="col-sm-12 col-lg-6 blurb-heading">
                 <h2>02 DESIGN</h2>
@@ -57,27 +58,24 @@
             </div>
         </div>
     </div>
-    <div class="flex center">
+    <div class="slider-container">
         <main>
-        <div class="wrapper">
-            <ul class="items">
-                <li class="item">0</li>
-                <li class="item">1</li>
-                <li class="item">2</li>
-                <li class="item">3</li>
-                <li class="item">4</li>
-                <li class="item">5</li>
-                <li class="item">6</li>
-                <li class="item">7</li>
-                <li class="item">8</li>
-                <li class="item">9</li>
-            </ul>
-        </div>
+            <div class="jango-user-slider">
+                <div class="item">
+                    <img class="img-fluid slider-image" src="../images/jango-user-1.png" alt="">
+                </div>
+                <div class="item">
+                    <img class="img-fluid slider-image" src="../images/jango-user-2.png" alt="">
+                </div>
+                <div class="item">
+                    <img class="img-fluid slider-image" src="../images/jango-user-3.png" alt="">
+                </div>
+            </div>
         </main>
     </div>
 </section>
 <section class="work-section">
-    <div class="center-box">
+    <div class="container-fluid center-box">
         <div class="row text-col blurb">
             <div class="col-sm-12 col-lg-6 blurb-heading">
                 <h2>03 VALIDATION</h2>
@@ -88,11 +86,11 @@
         </div>
     </div>
     <div class="flex center">
-        <img src="../images/jango-trial-img.png" alt="">
+        <img class="img-fluid" src="../images/jango-trial-img.png" alt="">
     </div>
 </section>
 <section class="work-section white">
-    <div class="center-box">
+    <div class="container-fluid center-box">
         <div class="row text-col blurb">
             <div class="col-sm-12 col-lg-6 blurb-heading">
                 <h2>FINAL</h2>
@@ -102,8 +100,23 @@
             </div>
         </div>
     </div>
-    <div class="flex center">
-        <img src="../images/jango-trial-img.png" alt="">
+    <div class="slider-container">
+        <main>
+            <div class="jango-final-slider">
+                <div class="item">
+                    <img class="img-fluid slider-image" src="../images/jango-final-1.jpg" alt="">
+                </div>
+                <div class="item">
+                    <img class="img-fluid slider-image" src="../images/jango-final-2.jpg" alt="">
+                </div>
+                <div class="item">
+                    <img class="img-fluid slider-image" src="../images/jango-final-3.jpg" alt="">
+                </div>
+                <div class="item">
+                    <img class="img-fluid slider-image" src="../images/jango-final-4.jpg" alt="">
+                </div>
+            </div>
+        </main>
     </div>
 </section>
 

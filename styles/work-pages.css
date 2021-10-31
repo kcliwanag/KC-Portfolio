@@ -58,12 +58,14 @@
 }
 
 .img-col {
-  height: 100vh;
+  height: 450px;
 }
 
 .jango-intro {
   background-image: url(../images/jango-trial-img.png);
-  background-size: cover;
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
 }
 
 .blurb {
@@ -79,6 +81,15 @@
 }
 
 @media (min-width: 992px) {
+  .img-col {
+    height: 100vh;
+  }
+
+  .jango-intro {
+    background-size: cover;
+    background-position: left top;
+  }
+
   .padding-left-right {
     padding: 0px 0px 0px 150px;
   }
