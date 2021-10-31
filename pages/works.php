@@ -8,7 +8,7 @@
     <div class="work-preview-wrapper">
         <?php foreach($projects as $project) { ?>
             <a href="<?php echo $project['link']?>" title="View <?php echo $project['title']?>">
-                <div class="work-preview work-bg-<?php echo $project['bg_prefix']?>">
+                <div class="work-preview work-bg-<?php echo $project['bg_prefix']?>" data-aos="fade-up" data-aos-anchor-placement="top-center">
                     <div class="work-preview-overlay"></div>    
                     <div class="work-preview-text text-uppercase">
                         <h3 class="less-opacity"><?php echo $project['role']?></h3>

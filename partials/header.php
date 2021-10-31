@@ -9,6 +9,7 @@
         <link rel="stylesheet" href="../styles/reset.css">
         <link rel="stylesheet" href="../styles/navbar.css">
         <link rel="stylesheet" href="../styles/works.css">
+        <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
         <link rel="stylesheet" href="../styles/about.css">
         <link rel="stylesheet" href="../styles/contact.css">
         <link rel="stylesheet" href="../styles/get-in-touch.css">

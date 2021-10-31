@@ -17,6 +17,7 @@
     </div>
 </div> 
 <section class="work-section" id="introduction">
+    <div class="container-fluid">
         <div class="row center-box">
             <div class="col-sm-12 col-lg-6 text-col padding-left-right">
                 <h2>Introduction</h2>
@@ -31,6 +32,11 @@
             </div>  
         </div>
     </div>
+</section>
+<section class="work-section white with-divider">
+    <div class="divider-revert"></div>
+    <h1>HELLO HELLO</h1>
+    <div class="divider"></div>
 </section>
 <section class="work-section">
     <div class="container-fluid center-box">
