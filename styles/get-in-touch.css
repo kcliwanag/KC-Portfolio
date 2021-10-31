@@ -1,0 +1,37 @@
+.get-in-touch {
+  background-color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 100px 40px;
+  text-align: center;
+  line-height: 2.8em;
+}
+
+.get-in-touch p {
+  margin-top: 30px;
+}
+
+.get-in-touch a {
+  color: #babaf9;
+  text-decoration: none;
+  border-bottom: 1.5px solid #babaf9;
+  padding-bottom: 2px;
+}
+
+@media (min-width: 768px) {
+  .get-in-touch {
+    justify-content: flex-start;
+    align-items: center;
+    padding: 200px 130px;
+    text-align: left;
+  }
+
+  .get-in-touch p {
+    margin-top: 30px;
+  }
+
+  .see-works {
+    height: 300px;
+  }
+}

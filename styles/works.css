@@ -1,0 +1,148 @@
+.home-intro {
+  padding: 100px 0px;
+}
+
+.home-intro h1 {
+  padding: 0px 50px;
+  line-height: 1.6em;
+}
+
+.home-intro span {
+  color: #babaf9;
+}
+
+.see-works {
+  border-right: 1px solid #707070;
+  display: flex;
+  justify-content: flex-end;
+  opacity: 0.5;
+  height: 250px;
+  font-size: 1.2em;
+}
+
+.work-preview-wrapper {
+  padding-bottom: 50px;
+}
+
+.work-preview {
+  background-position: right center;
+  background-size: cover;
+  height: 65vh;
+  margin: 10px;
+  border-radius: 10px;
+  position: relative;
+}
+
+.work-preview a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.work-bg-jango {
+  background-image: url(../images/jango-cover-sm.jpg);
+}
+.work-bg-oceanfins {
+  background-image: url(../images/ocean-fins-cover-sm.jpg);
+}
+.work-bg-cibo {
+  background-image: url(../images/cibo-cover.jpg);
+}
+.work-bg-yummy {
+  background-image: url(../images/yummy-cover-sm.jpg);
+}
+.work-bg-deepend {
+  background-image: url(../images/deep-end-cover-sm.jpg);
+}
+.work-bg-mariscos {
+  background-image: url(../images/mariscos-cover-sm.jpg);
+}
+.work-bg-valoir {
+  background-image: url(../images/valoir-cover-sm.jpg);
+}
+
+.work-preview-text {
+  padding: 50px 50px;
+  color: white;
+  z-index: 2;
+  position: absolute;
+}
+
+.work-preview-text h2 {
+  padding: 40px 0px;
+}
+
+.view-work-btn {
+  visibility: hidden;
+}
+
+.view-work-btn a {
+  color: white;
+  text-decoration: none;
+  text-transform: none;
+  font-size: 1.4em;
+}
+
+.view-work-btn img {
+  height: 10px;
+  margin-left: 10px;
+}
+
+.work-preview-overlay {
+  background: rgba(0, 0, 0, 0.2);
+  height: 65vh;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1;
+  border-radius: 10px;
+}
+@media (min-width: 768px) {
+  .home-intro {
+    padding: 130px 0px 100px 100px;
+  }
+  .work-preview {
+    display: flex;
+    align-items: center;
+    height: 80vh;
+    margin: 4vh;
+    border-radius: 20px;
+  }
+  .work-preview-overlay {
+    height: 80vh;
+    border-radius: 20px;
+  }
+  .work-preview-text {
+    padding: 100px 100px;
+  }
+  .work-preview-text h2 {
+    padding: 40px 0px;
+    max-width: 60%;
+  }
+  .work-bg-jango {
+    background-image: url(../images/jango-cover.jpg);
+  }
+  .work-bg-oceanfins {
+    background-image: url(../images/ocean-fins-cover.jpg);
+  }
+  .work-bg-cibo {
+    background-image: url(../images/cibo-cover.jpg);
+  }
+  .work-bg-yummy {
+    background-image: url(../images/yummy-cover2.jpg);
+  }
+  .work-bg-deepend {
+    background-image: url(../images/deep-end-cover.jpg);
+  }
+  .work-bg-mariscos {
+    background-image: url(../images/mariscos-cover.jpg);
+  }
+  .work-bg-valoir {
+    background-image: url(../images/valoir-cover.jpg);
+  }
+
+  .view-work-btn {
+    font-size: 1.6em;
+    visibility: visible;
+  }
+}

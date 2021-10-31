@@ -1,0 +1,135 @@
+.work-header {
+  background-size: cover;
+  height: 80vh;
+  background-position: right;
+}
+
+.work-header .work-preview-overlay {
+  height: 80vh;
+  border-radius: 0px;
+}
+
+.work-header img {
+  height: 10px;
+  transform: rotate(180deg);
+  padding-left: 20px;
+}
+
+.back-btn {
+  display: flex;
+  align-items: center;
+  padding-bottom: 80px;
+}
+
+.back-btn a {
+  color: white;
+  text-decoration: none;
+  font-size: 1.6em;
+}
+
+.goal {
+  padding-top: 60px;
+}
+
+.goal p {
+  padding-top: 10px;
+  max-width: 50vh;
+  line-height: 1.5em;
+}
+
+.work-nav {
+  visibility: hidden;
+}
+
+/* Overlay */
+.overlay-jango {
+  background: rgb(69, 0, 104);
+  background: linear-gradient(0deg, rgba(69, 0, 104, 1) 0%, rgba(35, 0, 52, 0.05) 100%);
+}
+
+.overlay-oceanfins {
+  background: rgb(59, 112, 165);
+  background: linear-gradient(0deg, rgba(59, 112, 165, 1) 0%, rgba(35, 0, 52, 0.05) 100%);
+}
+
+.overlay-cibo {
+  background: rgb(208, 225, 204);
+  background: linear-gradient(0deg, rgba(208, 225, 204, 1) 0%, rgba(13, 68, 0, 0.3) 100%);
+}
+
+.overlay-deepend {
+  background: rgb(0, 53, 75);
+  background: linear-gradient(0deg, rgba(0, 53, 75, 1) 0%, rgba(0, 53, 75, 0.05) 100%);
+}
+
+.overlay-mariscos {
+  background: rgb(68, 158, 156);
+  background: linear-gradient(0deg, rgba(68, 158, 156, 1) 0%, rgba(0, 43, 42, 0.05) 100%);
+}
+
+.overlay-yummy {
+  background: rgb(244, 112, 169);
+  background: linear-gradient(0deg, rgba(244, 112, 169, 1) 0%, rgba(68, 0, 29, 0.05) 100%);
+}
+
+.overlay-valoir {
+  background: rgb(235, 138, 64);
+  background: linear-gradient(0deg, rgb(235, 138, 64) 0%, rgba(41, 17, 0, 0.05) 100%);
+}
+
+@media (min-width: 992px) {
+  .work-header {
+    height: 92vh;
+  }
+
+  .work-header .work-preview-overlay {
+    height: 92vh;
+  }
+
+  .work-header h2 {
+    font-size: 6em;
+  }
+
+  .goal h5 {
+    font-size: 3em;
+  }
+
+  .work-nav {
+    visibility: visible;
+    color: white;
+  }
+
+  .work-nav .row {
+    height: 8vh;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  .nav-color-jango {
+    background-color: #32044a;
+  }
+
+  .nav-color-oceanfins {
+    background-color: #235990;
+  }
+
+  .nav-color-valoir {
+    background-color: #de6b13;
+  }
+
+  .nav-color-deepend {
+    background-color: #002a3c;
+  }
+
+  .nav-color-mariscos {
+    background-color: #138c8a;
+  }
+
+  .nav-color-yummy {
+    background-color: #de4c8b;
+  }
+  .nav-color-cibo {
+    background-color: rgb(143, 198, 131);
+  }
+}

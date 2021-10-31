@@ -1,0 +1,81 @@
+/* Navigation Menu */
+
+.bg-light {
+  background-color: transparent !important ;
+}
+
+.navbar img {
+  min-height: 70px;
+}
+
+.navbar {
+  padding: 30px 40px;
+  text-transform: uppercase;
+}
+
+.navbar-light .navbar-toggler {
+  border-color: transparent;
+}
+
+.navbar-light .navbar-toggler-icon {
+  background-image: url(../images/mobile-menu-icon.svg);
+}
+
+.btn-close {
+  height: 5em;
+  width: 5em;
+  background: transparent
+    url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23000'%3e%3cpath d='M.293.293a1 1 0 011.414 0L8 6.586 14.293.293a1 1 0 111.414 1.414L9.414 8l6.293 6.293a1 1 0 01-1.414 1.414L8 9.414l-6.293 6.293a1 1 0 01-1.414-1.414L6.586 8 .293 1.707a1 1 0 010-1.414z'/%3e%3c/svg%3e")
+    center/1.7em auto no-repeat;
+}
+
+@media (min-width: 768px) {
+  .navbar-collapse {
+    justify-content: end;
+  }
+  .navbar-nav .nav-item:not(:last-child) {
+    padding-right: 3.5rem;
+  }
+
+  .navbar-light .navbar-nav .active > .nav-link {
+    color: #babaf9;
+  }
+
+  .navbar {
+    padding: 50px 60px;
+    font-size: 1.6em;
+  }
+}
+
+/* Mobile Menu */
+
+#nav-modal .modal-header {
+  border-bottom: 0px;
+}
+
+#nav-modal .modal-body {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  text-transform: uppercase;
+}
+
+#nav-modal .navbar-nav {
+  text-align: center;
+  font-size: 3em;
+  align-items: center;
+  justify-content: center;
+}
+
+#nav-modal .navbar-nav li {
+  padding: 40px 0;
+}
+
+#nav-modal .nav-link {
+  color: #707070;
+}
+
+#nav-modal .nav-link:hover {
+  color: #babaf9;
+}

@@ -1,0 +1,100 @@
+ul {
+  padding: 0;
+}
+
+li {
+  list-style: none;
+}
+
+main {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 50px 0;
+}
+
+main h1 {
+  margin-bottom: 50px;
+}
+
+.wrapper {
+  position: relative;
+}
+
+.wrapper :before,
+:after {
+  position: absolute;
+  top: 0;
+  z-index: 1;
+
+  content: '';
+  display: block;
+  /* width: $margin; */
+  height: 100%;
+}
+
+.wrapper :before {
+  left: 0;
+  background: linear-gradient(90deg, red, transparent);
+}
+
+.wrapper :after {
+  right: 0;
+  background: linear-gradient(-90deg, red, transparent);
+}
+
+.items {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  white-space: nowrap;
+  font-size: 0;
+  cursor: pointer;
+}
+
+.items .active {
+  cursor: grab;
+}
+
+.item {
+  display: inline-block;
+
+  user-select: none;
+
+  background: tomato;
+  width: 50%;
+  height: 500px;
+  /* color: $bg-color; */
+  font-size: 33px;
+  font-weight: bold;
+  line-height: 130px;
+}
+
+.item :last-child {
+  /* margin-right: $margin; */
+}
+
+.item :last-child {
+  /* margin-right: $margin; */
+}
+
+@media (min-width: 500px) {
+  .item {
+    width: 33%;
+  }
+}
+
+@media (min-width: 800px) {
+  .item {
+    width: 25%;
+  }
+}
+
+@media (min-width: 1200px) {
+  .wrapper {
+    /* margin-left: -$margin; */
+  }
+
+  .item {
+    width: 20%;
+  }
+}

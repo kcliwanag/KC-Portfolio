@@ -1,0 +1,85 @@
+.color-jango {
+  color: #32044a;
+}
+
+.color-oceanfins {
+  color: #235990;
+}
+
+.color-valoir {
+  color: #de6b13;
+}
+
+.color-deepend {
+  color: #002a3c;
+}
+
+.color-mariscos {
+  color: #138c8a;
+}
+
+.color-yummy {
+  color: #de4c8b;
+}
+.color-cibo {
+  color: rgb(143, 198, 131);
+}
+
+.center-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.padding-left-right {
+  padding: 0px 50px;
+}
+
+.work-section {
+  padding-top: 30px;
+}
+
+.text-box {
+  margin: 50px 0px;
+}
+
+.text-col h2 {
+  font-size: 2.5em;
+}
+
+.pdf-link {
+  font-size: 1.5em;
+  text-decoration: none;
+}
+
+.arrow {
+  height: 15px;
+  padding-left: 20px;
+}
+
+.img-col {
+  height: 100vh;
+}
+
+.jango-intro {
+  background-image: url(../images/jango-trial-img.png);
+  background-size: cover;
+}
+
+.blurb {
+  padding: 50px;
+}
+
+.blurb-heading {
+  margin-bottom: 30px;
+}
+
+.white {
+  background-color: white;
+}
+
+@media (min-width: 992px) {
+  .padding-left-right {
+    padding: 0px 0px 0px 150px;
+  }
+}

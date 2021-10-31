@@ -1,0 +1,25 @@
+/* Footer Links */
+
+.footer {
+  /* border-top: 1px solid rgba(0, 0, 0, 0.1); */
+  padding: 30px 0px;
+}
+
+.footer .col {
+  letter-spacing: 1.2px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  font-size: 1.3em;
+}
+
+.footer i {
+  margin-left: 20px;
+  font-size: 2.3em;
+}
+
+.footer .copy {
+  justify-content: flex-start;
+}
+
+/* More Projects */

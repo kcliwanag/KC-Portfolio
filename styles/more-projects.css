@@ -1,0 +1,41 @@
+.view-all-btn a {
+  color: #707070;
+  text-decoration: none;
+}
+
+.view-all-btn img {
+  height: 10px;
+}
+
+.view-all-btn {
+  justify-content: flex-end;
+  display: flex;
+  font-size: 1.4em;
+}
+
+.more-projects-container {
+  background-color: #f5f5f5;
+  border-bottom: solid #d7d7d7 1.3px;
+}
+
+.more-projects {
+  padding: 60px 0px;
+}
+
+.more-projects-preview .col-sm-12 {
+  height: 350px;
+  margin-bottom: 60px;
+}
+
+.more-projects-bg {
+  background-size: cover;
+  background-position: right;
+}
+@media (min-width: 768px) {
+  .center {
+    display: block;
+  }
+  .view-all-btn {
+    justify-content: flex-end;
+  }
+}

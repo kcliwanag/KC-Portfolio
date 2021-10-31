@@ -1,0 +1,50 @@
+.contact a {
+  text-decoration: none;
+  color: white;
+}
+
+.contact h4 {
+  font-size: 2.3em;
+}
+
+.contact-bg {
+  background-color: rgba(186, 186, 249, 1);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.contact .modal {
+  opacity: 1;
+}
+
+.contact-row {
+  color: white;
+  padding: 0px 30px;
+}
+
+.contact-linkedin hr {
+  height: 1px;
+  opacity: 1;
+}
+
+.contact-row h2 {
+  margin-bottom: 60px;
+}
+
+.contact-row h3 {
+  margin: 15px 0px;
+}
+
+.modal-header {
+  border-bottom: none;
+}
+
+@media (min-width: 768px) {
+}
+
+@media (min-width: 992px) {
+  .contact-linkedin {
+    padding-left: 80px;
+  }
+}
