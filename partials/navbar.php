@@ -7,8 +7,8 @@
   </button>
   <div class="collapse navbar-collapse flex" id="navbarNav">
     <ul class="navbar-nav">
-      <li class="nav-item active">
-        <a class="nav-link" href="../index.php" title="View My Works">Works</a>
+      <li class="nav-item">
+        <a class="nav-link" href="../index.php#works" title="View My Works">Works</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="../pages/about.php" title="About Me">About</a>

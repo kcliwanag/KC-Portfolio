@@ -9,7 +9,7 @@
                 "goal"          => "To understand the iterative UX process: research, design and validation.",
             ),
 
-            "oceanfins" => array(
+            "ocean-fins" => array(
                 "bg_prefix"     => "oceanfins",
                 "role"          => "Information Architect | UX Designer",
                 "title"         => "Ocean Fins Design Brief",
@@ -27,7 +27,7 @@
                 "goal"          => "To develop an app pitch and create app prototypes. ",
             ),
 
-            "deepend" => array(
+            "deep-end-diving" => array(
                 "bg_prefix"     => "deepend",
                 "role"          => "Graphic Designer | Branding",
                 "title"         => "Deep End Diving",
@@ -36,7 +36,7 @@
                 "goal"          => "To develop a visual identity system for a company's brand.",
             ),
 
-            "mariscos" => array(
+            "mariscos-el-guerro" => array(
                 "role"          => "Graphic Designer | Branding",
                 "title"         => "Mariscos El Guerro",
                 "bg_prefix"     => "mariscos",
@@ -45,16 +45,16 @@
                 "goal"          => "To brand and re-design a menu with consideration to design principles and elements of design.",
             ),
 
-            "yummy" => array(
+            "yummy-milk" => array(
                 "bg_prefix"     => "yummy",
                 "role"          => "Graphic Designer | Branding",
                 "title"         => "Yummy Milk",
-                "link"          => "pages/yummy.php",
+                "link"          => "pages/yummy-milk.php",
                 "date"          => "OCT 2020 - DEC 2020",
                 "goal"          => "To explore and utilize Adobe Photoshop's vector and 3D modeling features.",
             ),
 
-            "valoir" => array(
+            "valoir-collective" => array(
                 "bg_prefix"     => "valoir",
                 "role"          => "Graphic Designer | Social Media Manager ",
                 "title"         => "Valoir Collective",

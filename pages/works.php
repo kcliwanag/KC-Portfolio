@@ -4,7 +4,7 @@
 
 ?>      
 
-<section>
+<section id="works">
     <div class="work-preview-wrapper">
         <?php foreach($projects as $project) { ?>
             <a href="<?php echo $project['link']?>" title="View <?php echo $project['title']?>">

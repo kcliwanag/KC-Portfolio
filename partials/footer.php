@@ -5,10 +5,10 @@
                         &copy; <script>document.write(new Date().getFullYear())</script> KC Liwanag
                     </div>
                     <div class="col">
-                        <a href="#" title="LinkedIn">
+                        <a href="#" title="LinkedIn" target=”_blank”>
                             <i class="fab fa-linkedin purple"></i>
                         </a>
-                        <a href="#" title="Behance">
+                        <a href="#" title="Behance" target=”_blank”>
                             <i class="fab fa-behance-square purple"></i>
                         </a>
                     </div>

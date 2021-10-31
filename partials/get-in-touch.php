@@ -4,7 +4,7 @@
         <p>Connect with me through 
             <a href="#" title="Send Email">email</a>
             or 
-            <a href="#" title="Go To LinkedIn">LinkedIn</a>
+            <a href="#" title="Go To LinkedIn" target=”_blank”>LinkedIn</a>
         – let’s create something great!
         </p>
     </div>

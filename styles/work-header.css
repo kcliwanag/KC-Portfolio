@@ -41,6 +41,10 @@
   visibility: hidden;
 }
 
+.work-nav a {
+  color: white;
+}
+
 /* Overlay */
 .overlay-jango {
   background: rgb(69, 0, 104);

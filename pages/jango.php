@@ -6,8 +6,17 @@
     require_once("../partials/work-header.php");
 
 ?>
-
-<section class="work-section">
+<div class="container-fluid work-nav sticky-top nav-color-<?php echo $data['bg_prefix']?>">
+    <div class="row">
+        <div class="col"><a href="#introduction" title=""><h3>Introduction</h3></a></div>
+        <div class="col"><a href="#challenge" title=""><h3>Challenge</h3></a></div>
+        <div class="col"><a href="#research" title=""><h3>Reasearch</h3></a></div>
+        <div class="col"><a href="#design" title=""><h3>Design</h3></a></div>
+        <div class="col"><a href="#validation" title=""><h3>Validation</h3></a></div>
+        <div class="col"><a href="#final" title=""><h3>Final</h3></a></div>
+    </div>
+</div> 
+<section class="work-section" id="introduction">
         <div class="row center-box">
             <div class="col-sm-12 col-lg-6 text-col padding-left-right">
                 <h2>Introduction</h2>

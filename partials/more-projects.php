@@ -22,7 +22,16 @@
     <div class="container">
         <div class="more-projects-preview row">
             <?php foreach($random_keys as $key){ ?>
-                <div class="col-sm-12 col-lg-4 more-projects-bg work-bg-<?php echo $projects[$key]['bg_prefix']?>"></div>
+                    <div class="col-sm-12 col-lg-4 more-projects-bg work-bg-<?php echo $projects[$key]['bg_prefix']?>">
+                        <a href="../<?php echo $projects[$key]['link']?>">
+                        <div class="more-projects-overlay nav-color-<?php echo $projects[$key]['bg_prefix']?>">
+                            <div class="more-projects-title">
+                                <h5><?php echo $projects[$key]['role']?></h5>
+                                <h4><?php echo $projects[$key]['title']?></h4>
+                            </div>
+                        </div>
+                        </a>
+                    </div>
             <?php } ?>
         </div>
     </div>

@@ -33,14 +33,5 @@
                     </div>
             </div>   
         </div> 
-        <div class="container-fluid work-nav sticky-top nav-color-<?php echo $data['bg_prefix'] ?>">
-            <div class="row">
-                    <div class="col"><h3>Introduction</h4></div>
-                    <div class="col"><h3>Challenge</h4></div>
-                    <div class="col"><h3>Reasearch</h4></div>
-                    <div class="col"><h3>Design</h4></div>
-                    <div class="col"><h3>Validation</h4></div>
-                    <div class="col"><h3>Final</h4></div>
-                </div>
-        </div> 
+
         
