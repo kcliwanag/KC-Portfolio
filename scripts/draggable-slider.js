@@ -1,12 +1,12 @@
 $(document).ready(function () {
-  $(".jango-user-slider").slick({
+  $('.jango-user-slider').slick({
     slidesToShow: 1,
     slidesToScroll: 1,
     infinite: false,
     dots: true,
   });
 
-  $(".jango-final-slider").slick({
+  $('.gallery-slider').slick({
     centerMode: true,
     slidesToShow: 3,
     infinite: false,

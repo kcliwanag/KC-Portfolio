@@ -28,15 +28,19 @@ a {
   color: rgba(186, 186, 249, 1);
 }
 
+.white-text {
+  color: #fff;
+}
+
 /* Typography */
 
 @font-face {
-  font-family: "Silka";
-  src: local("Silka") url("silka-regular-webfont.woff") format("woff");
+  font-family: 'Silka';
+  src: local('Silka') url('silka-regular-webfont.woff') format('woff');
 }
 
 body {
-  font-family: "Silka";
+  font-family: 'Silka';
   letter-spacing: 0.2em;
   font-size: 62.5%;
   color: #707070;
@@ -61,6 +65,10 @@ h4 {
   font-size: 1.4em;
 }
 
+h5 {
+  font-size: 1.4em;
+}
+
 p {
   font-size: 1.4em;
   letter-spacing: 0.1em;
@@ -75,7 +83,7 @@ p {
 }
 
 .divider {
-  background-image: url("../images/divider-gray.svg");
+  background-image: url('../images/divider-gray.svg');
   background-size: 100% 60px;
   bottom: 0;
   height: 60px;
@@ -84,12 +92,24 @@ p {
 }
 
 .divider-revert {
-  background-image: url("../images/divider-gray.svg");
+  background-image: url('../images/divider-gray.svg');
   background-size: 100% 60px;
   bottom: 0;
   height: 60px;
   z-index: 1;
   transform: rotateY(0) rotateX(180deg);
+}
+
+.shadow {
+  -webkit-box-shadow: 5px 3px 10px -3px rgba(0, 0, 0, 0.32);
+  box-shadow: 5px 3px 10px -3px rgba(0, 0, 0, 0.32);
+}
+
+.parallax {
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 @media (min-width: 768px) {

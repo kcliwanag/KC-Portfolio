@@ -12,15 +12,16 @@
         <link rel="stylesheet" href="../styles/works.css">
         <link rel="stylesheet" href="../styles/work-header.css">
         <link rel="stylesheet" href="../styles/work-pages.css">
+        <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
         <link rel="stylesheet" href="../styles/draggable-slider.css">
         <link rel="stylesheet" href="../styles/more-projects.css">
         <link rel="stylesheet" href="../styles/footer.css">
         <link rel="stylesheet" href="../styles/main.css">
     </head>
     <body>
-        <div class="work-header work-bg-<?php echo $data['bg_prefix'] ?>">
+        <div class="parallax container-fluid work-header work-bg-<?php echo $data['bg_prefix'] ?>">
             <div class="work-preview-overlay overlay-<?php echo $data['bg_prefix'] ?>"></div>  
-            <div class="work-preview-text-wrapper">
+            <div class="work-preview-text-wrapper" data-aos="fade-right">
                     <div class="work-preview-text">  
                         <div class="back-btn flex">
                             <a href="../index.php"><img src="../images/white-arrow.svg" alt="White Arrow">Back to Projects</a>

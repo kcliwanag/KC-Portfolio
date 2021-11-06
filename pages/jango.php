@@ -108,7 +108,7 @@
     </div>
     <div class="slider-container">
         <main>
-            <div class="jango-final-slider">
+            <div class="gallery-slider">
                 <div class="item">
                     <img class="img-fluid slider-image" src="../images/jango-final-1.jpg" alt="">
                 </div>

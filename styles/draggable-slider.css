@@ -15,6 +15,9 @@ main {
 .slider-container {
   overflow: hidden;
 }
+.slick-dots {
+  bottom: -80px;
+}
 
 @media (min-width: 768px) {
   main {
