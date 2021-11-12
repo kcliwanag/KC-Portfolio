@@ -17,41 +17,40 @@
     </div>
 </div> 
 
-<section id="introduction">
-    <div class="parallax container-fluid dive-intro">
-    <div class="center-wrapper dive-blurb-bg">
-    <div class="section-text-wrapper" data-aos="fade-up" >
-            <div class="row text-col blurb work-section">
-                <div class="col-sm-12 col-md-12 col-lg-4  color-deepend">
-                    <h2 class="white-text">Introduction</h2>
-                </div>
-                <div class="col-sm-12 col-md-12 col-lg-8">
-                    <p class="white-text">Diving is a fictitious company owned by diving professionals. They offer scuba diving courses as well as rent out and sell gear, equipment and apparel for divers, snorkelers, swimming and other water sports. One of their best sellers is their protective wet suits.</p>
+<section id="introduction" class="relative">
+    <div class="gradient-bg <?php echo $data['bg_prefix'] ?>-gradient"></div>
+    <div class="parallax container-fluid <?php echo $data['bg_prefix'] ?>-intro work-intro">
+        <div class="center-wrapper" data-aos="fade-up">
+            <div class="section-text-wrapper">
+                <div class="row work-section">
+                    <div class="col-sm-12 col-md-12 col-lg-4">
+                        <h2 class="white-text">Introduction</h2>
+                    </div>
+                    <div class="col-sm-12 col-md-12 col-lg-8">
+                        <p class="white-text">Diving is a fictitious company owned by diving professionals. They offer scuba diving courses as well as rent out and sell gear, equipment and apparel for divers, snorkelers, swimming and other water sports. One of their best sellers is their protective wet suits.</p>
+                    </div>
                 </div>
             </div>
-    </div>
-    </div>
+        </div>
     </div>
 </section>
 <section id="logo" class="work-section">
-    <div  data-aos="fade-up" >
+    <div data-aos="fade-up">
         <div class="center-wrapper">
             <div class="section-text-wrapper">
-                <div class="container-fluid ">
-                    <div class="row text-col blurb">
-                        <div class="col-sm-12 col-md-12 col-lg-12 color-deepend main-section-heading">
-                            <h5>01</h5>
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col-sm-12 col-md-12 col-lg-12 color-<?php echo $data['bg_prefix'] ?>">
+                            <h4>01</h4>
                             <br>
                             <h2>Logo</h2>
                         </div>
-                        <div class="col-sm-12 col-md-12 col-lg-12">
-                        </div>
                     </div>
                 </div>
-                <div class="container-fluid ">
-                    <div class="row text-col blurb">
-                        <div class="col-sm-12 col-md-12 col-lg-4  color-deepend">
-                            <h3 class="color-deepend">Thumbnails</h3>
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col-sm-12 col-md-12 col-lg-4 color-<?php echo $data['bg_prefix'] ?>">
+                            <h3 class="color-<?php echo $data['bg_prefix'] ?>">Thumbnails</h3>
                         </div>
                         <div class="col-sm-12 col-md-12 col-lg-8">
                             <p>The design process begins with initial ideas. After sketching out thumbnails on paper, I chose the best 5 and digitally re-created their shapes on Adobe Illustrator.</p>
@@ -61,36 +60,34 @@
             </div>  
         </div>
         <div class="slider-container">
-            <main>
-                <div class="gallery-slider">
-                    <div class="item">
-                        <img class="img-fluid slider-image" src="../images/deepend-img/SVG/thumb-1.svg" style="max-height:300px;" alt="">
-                    </div>
-                    <div class="item">
-                    <img class="img-fluid slider-image" src="../images/deepend-img/SVG/thumb-2.svg" style="max-height:300px;" alt="">
-                    </div>
-                    <div class="item">
-                    <img class="img-fluid slider-image" src="../images/deepend-img/SVG/thumb-3.svg" style="max-height:300px;" alt="">
-                    </div>
-                    <div class="item">
-                    <img class="img-fluid slider-image" src="../images/deepend-img/SVG/thumb-4.svg" style="max-height:300px;" alt="">
-                    </div>
-                    <div class="item">
-                    <img class="img-fluid slider-image" src="../images/deepend-img/SVG/thumb-5.svg" style="max-height:300px;" alt="">
-                    </div>
+            <div class="gallery-slider deepend-logo-gallery">
+                <div class="item">
+                    <img class="img-fluid slider-image" src="../images/deepend-img/SVG/thumb-1.svg" alt="">
                 </div>
-            </main>
+                <div class="item">
+                    <img class="img-fluid slider-image" src="../images/deepend-img/SVG/thumb-2.svg" alt="">
+                </div>
+                <div class="item">
+                    <img class="img-fluid slider-image" src="../images/deepend-img/SVG/thumb-3.svg" alt="">
+                </div>
+                <div class="item">
+                    <img class="img-fluid slider-image" src="../images/deepend-img/SVG/thumb-4.svg" alt="">
+                </div>
+                <div class="item">
+                    <img class="img-fluid slider-image" src="../images/deepend-img/SVG/thumb-5.svg" alt="">
+                </div>
+            </div>
         </div>
     </div>
 </section>
-<section class="work-section white">
-    <div  data-aos="fade-up" >
+<section class="work-section white-section">
+    <div data-aos="fade-up">
         <div class="center-wrapper">
             <div class="section-text-wrapper">
-                <div class="container-fluid ">
-                    <div class="row text-col blurb">
-                        <div class="col-sm-12 col-md-12 col-lg-4 color-deepend">
-                            <h3 class="color-deepend">ROUGHS</h3>
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col-sm-12 col-md-12 col-lg-4 color-<?php echo $data['bg_prefix'] ?>">
+                            <h3 class="color-<?php echo $data['bg_prefix'] ?>">ROUGHS</h3>
                         </div>
                         <div class="col-sm-12 col-md-12 col-lg-8">
                             <p>The design process begins with initial ideas. After sketching out thumbnails on paper, I chose the best 5 and digitally re-created their shapes on Adobe Illustrator.</p>
@@ -100,39 +97,38 @@
             </div>  
         </div>
         <div class="slider-container">
-            <main>
-                <div class="gallery-slider">
+            <div class="gallery-slider deepend-logo-gallery">
                 <div class="item">
-                    <img class="img-fluid slider-image" src="../images/deepend-img/SVG/rough-3.svg" style="max-height:300px;" alt="">
-                    </div>
-                    <div class="item">
-                    <img class="img-fluid slider-image" src="../images/deepend-img/SVG/rough-4.svg" style="max-height:300px;" alt="">
-                    </div>
-                    <div class="item">
-                    <img class="img-fluid slider-image" src="../images/deepend-img/SVG/rough-5.svg" style="max-height:300px;" alt="">
-                    </div>
-                    <div class="item">
-                    <img class="img-fluid slider-image" src="../images/deepend-img/SVG/rough-6.svg" style="max-height:300px;" alt="">
-                    </div>
-                    <div class="item">
-                        <img class="img-fluid slider-image" src="../images/deepend-img/SVG/rough-1.svg" style="max-height:300px;" alt="">
-                    </div>
-                    <div class="item">
-                    <img class="img-fluid slider-image" src="../images/deepend-img/SVG/rough-2.svg" style="max-height:300px;" alt="">
-                    </div>
+                    <img class="img-fluid slider-image" src="../images/deepend-img/SVG/rough-3.svg"  alt="">
                 </div>
-            </main>
+                <div class="item">
+                    <img class="img-fluid slider-image" src="../images/deepend-img/SVG/rough-4.svg"  alt="">
+                </div>
+                <div class="item">
+                    <img class="img-fluid slider-image" src="../images/deepend-img/SVG/rough-5.svg"  alt="">
+                </div>
+                <div class="item">
+                    <img class="img-fluid slider-image" src="../images/deepend-img/SVG/rough-6.svg"  alt="">
+                </div>
+                <div class="item">
+                    <img class="img-fluid slider-image" src="../images/deepend-img/SVG/rough-1.svg"  alt="">
+                </div>
+                <div class="item">
+                    <img class="img-fluid slider-image" src="../images/deepend-img/SVG/rough-2.svg"  alt="">
+                </div>
+                </div>
+            </div>
         </div>
     </div>
 </section>
 <section class="work-section">
-    <div data-aos="fade-up" >
+    <div data-aos="fade-up">
         <div class="center-wrapper">
             <div class="section-text-wrapper">
-                <div class="container-fluid ">
-                    <div class="row text-col blurb">
-                        <div class="col-sm-12 col-md-12 col-lg-4  color-deepend">
-                            <h3 class="color-deepend">Final</h3>
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col-sm-12 col-md-12 col-lg-4 color-<?php echo $data['bg_prefix'] ?>">
+                            <h3 class="color-<?php echo $data['bg_prefix'] ?>">Final</h3>
                         </div>
                         <div class="col-sm-12 col-md-12 col-lg-8">
                             <p>The design process begins with initial ideas. After sketching out thumbnails on paper, I chose the best 5 and digitally re-created their shapes on Adobe Illustrator.</p>
@@ -141,30 +137,28 @@
                 </div>
             </div>  
         </div>
-        <div class="flex center">
-            <img class="img-fluid" src="../images/deepend-img/SVG/final.svg" style="max-height:500px" alt="">
+        <div class="center side-padding">
+            <img class="img-fluid max-height-500" src="../images/deepend-img/SVG/final.svg" alt="">
         </div>
     </div>
 </section>
-<section id="3d-mockup" class="work-section white">
-    <div data-aos="fade-up" >
+<section id="3d-mockup" class="work-section white-section">
+    <div data-aos="fade-up">
         <div class="center-wrapper">
             <div class="section-text-wrapper">
                 <div class="container-fluid ">
-                    <div class="row text-col blurb">
-                        <div class="col-sm-12 col-md-12 col-lg-12 color-deepend main-section-heading">
-                            <h5>02</h5>
+                    <div class="row">
+                        <div class="col-sm-12 col-md-12 col-lg-12 color-<?php echo $data['bg_prefix'] ?>">
+                            <h4>02</h4>
                             <br>
                             <h2>3D MOCKUP</h2>
                         </div>
-                        <div class="col-sm-12 col-md-12 col-lg-12">
-                        </div>
                     </div>
                 </div>
-                <div class="container-fluid ">
-                    <div class="row text-col blurb">
-                        <div class="col-sm-12 col-md-12 col-lg-4  color-deepend">
-                            <h3 class="color-deepend">Water Bottle</h3>
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col-sm-12 col-md-12 col-lg-4  color-<?php echo $data['bg_prefix'] ?>">
+                            <h3 class="color-<?php echo $data['bg_prefix'] ?>">ADOBE DIMENSION</h3>
                         </div>
                         <div class="col-sm-12 col-md-12 col-lg-8">
                             <p>The design process begins with initial ideas. After sketching out thumbnails on paper, I chose the best 5 and digitally re-created their shapes on Adobe Illustrator.</p>
@@ -173,7 +167,7 @@
                 </div>
             </div>  
         </div>
-        <div class="flex center">
+        <div class="center side-padding">
             <img class="img-fluid shadow" src="../images/deepend-img/KCLiwanag_PosterMockup.png" alt="">
         </div>
     </div>
@@ -182,42 +176,41 @@
     <div data-aos="fade-up">
         <div class="center-wrapper">
             <div class="section-text-wrapper">
-                <div class="container-fluid ">
-                    <div class="row text-col blurb">
-                        <div class="col-sm-12 col-md-12 col-lg-12 color-deepend main-section-heading">
-                            <h5>03</h5>
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col-sm-12 col-md-12 col-lg-12 color-<?php echo $data['bg_prefix'] ?>">
+                            <h4>03</h4>
                             <br>
                             <h2>STATIONERY SET</h2>
                         </div>
-                        <div class="col-sm-12 col-md-12 col-lg-12">
-                        </div>
                     </div>
                 </div>
-                <div class="container-fluid ">
-                    <div class="row text-col blurb">
-                        <div class="col-sm-12 col-md-12 col-lg-4  color-deepend">
-                            <h3 class="color-deepend">Ideation</h3>
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col-sm-12 col-md-12 col-lg-4  color-<?php echo $data['bg_prefix'] ?>">
+                            <h3 class="color-<?php echo $data['bg_prefix'] ?>">Ideation</h3>
                         </div>
                         <div class="col-sm-12 col-md-12 col-lg-8">
                             <p>The design process begins with initial ideas. After sketching out thumbnails on paper, I chose the best 5 and digitally re-created their shapes on Adobe Illustrator.</p>
+                            <a href="#" class="hover-underline-animation  line-color-<?php echo $data['bg_prefix'] ?> color-<?php echo $data['bg_prefix'] ?>">VIEW PDF</a>
                         </div>
                     </div>
                 </div>
             </div>  
         </div>
-        <div class="flex center">
-            <img class="img-fluid shadow" src="../images/deepend-img/deep-end-mood-board.png" style="max-height:1000px;"alt="">
+        <div class="center side-padding">
+            <img class="img-fluid shadow max-height-1000" src="../images/deepend-img/deep-end-mood-board.png" alt="">
         </div>
     </div>
 </section>
-<section class="work-section white">
-    <div data-aos="fade-up" >
+<section class="work-section white-section">
+    <div data-aos="fade-up">
         <div class="center-wrapper">
             <div class="section-text-wrapper">
                 <div class="container-fluid ">
-                    <div class="row text-col blurb">
-                        <div class="col-sm-12 col-md-12 col-lg-4 color-deepend">
-                            <h3 class="color-deepend">Deliverables</h3>
+                    <div class="row">
+                        <div class="col-sm-12 col-md-12 col-lg-4 color-<?php echo $data['bg_prefix'] ?>">
+                            <h3 class="color-<?php echo $data['bg_prefix'] ?>">Deliverables</h3>
                         </div>
                         <div class="col-sm-12 col-md-12 col-lg-8">
                             <p>The design process begins with initial ideas. After sketching out thumbnails on paper, I chose the best 5 and digitally re-created their shapes on Adobe Illustrator.</p>
@@ -226,19 +219,19 @@
                 </div>
             </div>  
         </div>
-        <div class="flex center pb-5">
-            <div class="business-card">
-                <img class="img-fluid shadow" src="../images/deepend-img/business-card2.png" style="max-height:300px;" alt="">
-                <img class="img-fluid shadow img-top" src="../images/deepend-img/business-card-1.png" alt="">
+        <div class="center pb-5 side-padding">
+            <div class="front-img">
+                <img class="img-fluid shadow max-height-500" src="../images/deepend-img/business-card2.png"  alt="">
+                <img class="img-fluid shadow img-top max-height-500" src="../images/deepend-img/business-card-1.png" alt="">
             </div>
         </div>
-        <div class="flex center pb-5">
-            <div class="business-card">
+        <div class="center pb-5 side-padding">
+            <div class="front-img">
                 <img class="img-fluid shadow" src="../images/deepend-img/envelope-1.png" alt="">
                 <img class="img-fluid shadow img-top" src="../images/deepend-img/envelope-2.png" alt="">
             </div>
         </div>
-        <div class="flex center">
+        <div class="center side-padding">
             <img class="img-fluid shadow" src="../images/deepend-img/letterhead.png" alt="">
         </div>
     </div>
@@ -247,10 +240,10 @@
     <div data-aos="fade-up" >
         <div class="center-wrapper">
             <div class="section-text-wrapper">
-                <div class="container-fluid ">
-                    <div class="row text-col blurb">
-                        <div class="col-sm-12 col-md-12 col-lg-12 color-deepend main-section-heading">
-                            <h5>04</h5>
+                <div class="container-fluid">
+                    <div class="row  ">
+                        <div class="col-sm-12 col-md-12 col-lg-12 color-<?php echo $data['bg_prefix'] ?>">
+                            <h4>04</h4>
                             <br>
                             <h2>Reflection</h2>
                         </div>
@@ -258,10 +251,10 @@
                         </div>
                     </div>
                 </div>
-                <div class="container-fluid ">
-                    <div class="row text-col blurb">
-                        <div class="col-sm-12 col-md-12 col-lg-4  color-deepend">
-                            <h3 class="color-deepend">What I've Learned</h3>
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col-sm-12 col-md-12 col-lg-4  color-<?php echo $data['bg_prefix'] ?>">
+                            <h3 class="color-<?php echo $data['bg_prefix'] ?>">What I've Learned</h3>
                         </div>
                         <div class="col-sm-12 col-md-12 col-lg-8">
                             <p>The design process begins with initial ideas. After sketching out thumbnails on paper, I chose the best 5 and digitally re-created their shapes on Adobe Illustrator.</p>
@@ -270,7 +263,7 @@
                 </div>
             </div>  
         </div>
-        <div class="flex center">
+        <div class="center">
             <img class="img-fluid shadow" src="../images/deepend-img/KC_Liwanag_StationeryMockups.jpg" alt="">
         </div>
     </div>

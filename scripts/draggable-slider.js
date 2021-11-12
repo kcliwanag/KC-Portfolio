@@ -1,11 +1,4 @@
 $(document).ready(function () {
-  $('.jango-user-slider').slick({
-    slidesToShow: 1,
-    slidesToScroll: 1,
-    infinite: false,
-    dots: true,
-  });
-
   $('.gallery-slider').slick({
     centerMode: true,
     slidesToShow: 3,
@@ -16,6 +9,7 @@ $(document).ready(function () {
         breakpoint: 992,
         settings: {
           slidesToShow: 2,
+          centerMode: false,
         },
       },
       {

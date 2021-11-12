@@ -21,11 +21,8 @@
     <body>
         <div class="parallax container-fluid work-header work-bg-<?php echo $data['bg_prefix'] ?>">
             <div class="work-preview-overlay overlay-<?php echo $data['bg_prefix'] ?>"></div>  
-            <div class="work-preview-text-wrapper" data-aos="fade-right">
-                    <div class="work-preview-text">  
-                        <div class="back-btn flex">
-                            <a href="../index.php"><img src="../images/white-arrow.svg" alt="White Arrow">Back to Projects</a>
-                        </div>
+            <div class="work-preview-text-wrapper">
+                    <div class="work-preview-text" data-aos="fade-up">  
                         <h3 class="less-opacity"><?php echo $data['role'] ?></h3>
                         <h2><?php echo $data["title"]?></h2>
                         <h3 class="less-opacity"><?php echo $data['date'] ?></h3>

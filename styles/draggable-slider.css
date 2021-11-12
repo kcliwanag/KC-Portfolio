@@ -1,11 +1,9 @@
-main {
+/* main {
   padding: 10px 0;
-}
+} */
 
 .item {
-  margin-left: 20px;
-  margin-right: 20px;
-  margin-bottom: 20px;
+  margin: 50px 20px;
 }
 
 .slider-image {
@@ -15,12 +13,12 @@ main {
 .slider-container {
   overflow: hidden;
 }
-.slick-dots {
-  bottom: -80px;
-}
 
 @media (min-width: 768px) {
   main {
     padding: 20px 0 50px 0;
+  }
+  .item {
+    margin: 50px 20px;
   }
 }
