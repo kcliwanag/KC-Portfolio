@@ -60,6 +60,10 @@
   background-image: url(../images/header-covers/valoir-cover-sm.jpg);
 }
 
+.work-bg-timeoff {
+  background-image: url(../images/header-covers/time-off-cover.png);
+}
+
 .work-preview-text {
   padding: 50px 50px;
   color: white;
@@ -139,6 +143,9 @@
   }
   .work-bg-valoir {
     background-image: url(../images/header-covers/valoir-cover.jpg);
+  }
+  .work-bg-timeoff {
+    background-image: url(../images/header-covers/time-off-cover.png);
   }
 
   .view-work-btn {

@@ -92,7 +92,7 @@
             </div>  
         </div>
         <div class="center side-padding container-fluid">
-            <img class="img-fluid shadow max-height-1000" src="../images/jango-img/jango-user-1.png" alt="">
+            <img class="img-fluid my-shadow max-height-1000" src="../images/jango-img/jango-user-1.png" alt="">
         </div>
     </div>
 </section>
@@ -136,8 +136,7 @@
             </div>  
         </div>
         <div class="center side-padding container-fluid">
-            <!-- <img class="img-fluid shadow max-height-1000" src="../images/jango-img/jango-user-3.png" alt=""> -->
-            <embed class="shadow" src="../images/jango-img/jango-journey-map.pdf" style="height:1000px; width:1200px">
+            <embed class="my-shadow" src="../images/jango-img/jango-journey-map.pdf" style="height:1000px; width:1200px">
         </div>
     </div>
 </section>
@@ -340,13 +339,13 @@
                 <div class="col-sm-12 col-md-12 col-lg-6 before-after-img">
                     <h4>Before</h4>
                     <div class="center">
-                        <img class="img-fluid shadow max-height-1000" src="../images/jango-img/jango-final-3.jpg" alt="">
+                        <img class="img-fluid my-shadow max-height-1000" src="../images/jango-img/before-1.png" alt="">
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-12 col-lg-6 before-after-img">
                     <h4>After</h4>
                     <div class="center">
-                        <img class="img-fluid shadow max-height-1000" src="../images/jango-img/jango-final-4.jpg" alt="">
+                        <img class="img-fluid my-shadow max-height-1000" src="../images/jango-img/after-1.png" alt="">
                     </div>
                 </div>
             </div>
@@ -374,13 +373,13 @@
                 <div class="col-sm-12 col-md-12 col-lg-6 before-after-img">
                     <h4>Before</h4>
                     <div class="center">
-                        <img class="img-fluid shadow max-height-1000" src="../images/jango-img/jango-final-3.jpg" alt="">
+                        <img class="img-fluid my-shadow max-height-1000" src="../images/jango-img/before-2.png" alt="">
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-12 col-lg-6 before-after-img">
                     <h4>After</h4>
                     <div class="center">
-                        <img class="img-fluid shadow max-height-1000" src="../images/jango-img/jango-final-4.jpg" alt="">
+                        <img class="img-fluid my-shadow max-height-1000" src="../images/jango-img/after-2.png" alt="">
                     </div>
                 </div>
             </div>
@@ -408,13 +407,13 @@
                 <div class="col-sm-12 col-md-12 col-lg-6 before-after-img">
                     <h4>Before</h4>
                     <div class="center">
-                        <img class="img-fluid shadow max-height-1000" src="../images/jango-img/jango-final-3.jpg" alt="">
+                        <img class="img-fluid my-shadow max-height-1000" src="../images/jango-img/before-3.png" alt="">
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-12 col-lg-6 before-after-img">
                     <h4>After</h4>
                     <div class="center">
-                        <img class="img-fluid shadow max-height-1000" src="../images/jango-img/jango-final-4.jpg" alt="">
+                        <img class="img-fluid my-shadow max-height-1000" src="../images/jango-img/after-3.png" alt="">
                     </div>
                 </div>
             </div>
@@ -442,13 +441,13 @@
                 <div class="col-sm-12 col-md-12 col-lg-6 before-after-img">
                     <h4>Before</h4>
                     <div class="center">
-                        <img class="img-fluid shadow max-height-1000" src="../images/jango-img/jango-final-3.jpg" alt="">
+                        <img class="img-fluid my-shadow max-height-1000" src="../images/jango-img/before-4.png" alt="">
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-12 col-lg-6 before-after-img">
                     <h4>After</h4>
                     <div class="center">
-                        <img class="img-fluid shadow max-height-1000" src="../images/jango-img/jango-final-4.jpg" alt="">
+                        <img class="img-fluid my-shadow max-height-1000" src="../images/jango-img/after-4.png" alt="">
                     </div>
                 </div>
             </div>
@@ -483,7 +482,7 @@
             </div>  
         </div>
         <div class="center">
-            <img class="img-fluid shadow" src="../images/deepend-img/KC_Liwanag_StationeryMockups.jpg" alt="">
+            <img class="img-fluid max-height-1000" src="../images/jango-img/jango-reflect.png" alt="">
         </div>
     </div>
 </section>

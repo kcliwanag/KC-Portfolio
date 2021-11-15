@@ -93,12 +93,12 @@
             <div class="row side-padding container-fluid">
                 <div class="col-sm-12 col-md-12 col-lg-6 pb-3">
                     <div class="center">
-                        <img class="img-fluid shadow max-height-1000" src="../images/oceanfins-img/audience-1.png" alt="">
+                        <img class="img-fluid my-shadow max-height-1000" src="../images/oceanfins-img/audience-1.png" alt="">
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-12 col-lg-6 pb-3">
                     <div class="center">
-                        <img class="img-fluid shadow max-height-1000" src="../images/oceanfins-img/audience-2.png" alt="">
+                        <img class="img-fluid my-shadow max-height-1000" src="../images/oceanfins-img/audience-2.png" alt="">
                     </div>
                 </div>
             </div>
@@ -124,13 +124,13 @@
         <div class="slider-container">
             <div class="gallery-slider oceanfins-persona-gallery">
                 <div class="item">
-                    <img class="img-fluid shadow slider-image" src="../images/oceanfins-img/persona-1.png"  alt="">
+                    <img class="img-fluid my-shadow slider-image" src="../images/oceanfins-img/persona-1.png"  alt="">
                 </div>
                 <div class="item">
-                    <img class="img-fluid shadow slider-image" src="../images/oceanfins-img/persona-2.png"  alt="">
+                    <img class="img-fluid my-shadow slider-image" src="../images/oceanfins-img/persona-2.png"  alt="">
                 </div>
                 <div class="item">
-                    <img class="img-fluid shadow slider-image" src="../images/oceanfins-img/persona-3.png"  alt="">
+                    <img class="img-fluid my-shadow slider-image" src="../images/oceanfins-img/persona-3.png"  alt="">
                 </div>
             </div>
         </div>
@@ -155,13 +155,13 @@
         <div class="slider-container">
             <div class="gallery-slider oceanfins-persona-gallery">
                 <div class="item">
-                    <img class="img-fluid shadow slider-image" src="../images/oceanfins-img/stats1.png"  alt="">
+                    <img class="img-fluid my-shadow slider-image" src="../images/oceanfins-img/stats1.png"  alt="">
                 </div>
                 <div class="item">
-                    <img class="img-fluid shadow slider-image" src="../images/oceanfins-img/stats2.png"  alt="">
+                    <img class="img-fluid my-shadow slider-image" src="../images/oceanfins-img/stats2.png"  alt="">
                 </div>
                 <div class="item">
-                    <img class="img-fluid shadow slider-image" src="../images/oceanfins-img/stats3.png"  alt="">
+                    <img class="img-fluid my-shadow slider-image" src="../images/oceanfins-img/stats3.png"  alt="">
                 </div>
             </div>
         </div>
@@ -186,13 +186,13 @@
         <div class="slider-container">
             <div class="gallery-slider oceanfins-persona-gallery">
                 <div class="item">
-                    <img class="img-fluid shadow slider-image" src="../images/oceanfins-img/competitive-1.png"  alt="">
+                    <img class="img-fluid my-shadow slider-image" src="../images/oceanfins-img/competitive-1.png"  alt="">
                 </div>
                 <div class="item">
-                    <img class="img-fluid shadow slider-image" src="../images/oceanfins-img/competitive-2.png"  alt="">
+                    <img class="img-fluid my-shadow slider-image" src="../images/oceanfins-img/competitive-2.png"  alt="">
                 </div>
                 <div class="item">
-                    <img class="img-fluid shadow slider-image" src="../images/oceanfins-img/competitive-3.png"  alt="">
+                    <img class="img-fluid my-shadow slider-image" src="../images/oceanfins-img/competitive-3.png"  alt="">
                 </div>
             </div>
         </div>
@@ -224,7 +224,7 @@
             </div>  
         </div>
         <div class="center side-padding">
-            <img class="img-fluid shadow max-height-1000" src="../images/oceanfins-img/site-map.png" alt="">
+            <img class="img-fluid my-shadow max-height-1000" src="../images/oceanfins-img/site-map.png" alt="">
         </div>
     </div>
 </section>
@@ -245,7 +245,7 @@
             </div>  
         </div>
         <div class="center side-padding">
-            <img class="img-fluid shadow" src="../images/oceanfins-img/flowchart.png" alt="">
+            <img class="img-fluid my-shadow" src="../images/oceanfins-img/flowchart.png" alt="">
         </div>
     </div>
 </section>
@@ -277,16 +277,16 @@
         <div class="slider-container">
             <div class="gallery-slider oceanfins-persona-gallery">
                 <div class="item">
-                    <img class="img-fluid shadow slider-image" src="../images/oceanfins-img/desktop-1.png"  alt="">
+                    <img class="img-fluid my-shadow slider-image" src="../images/oceanfins-img/desktop-1.png"  alt="">
                 </div>
                 <div class="item">
-                    <img class="img-fluid shadow slider-image" src="../images/oceanfins-img/desktop-2.png"  alt="">
+                    <img class="img-fluid my-shadow slider-image" src="../images/oceanfins-img/desktop-2.png"  alt="">
                 </div>
                 <div class="item">
-                    <img class="img-fluid shadow slider-image" src="../images/oceanfins-img/desktop-3.png"  alt="">
+                    <img class="img-fluid my-shadow slider-image" src="../images/oceanfins-img/desktop-3.png"  alt="">
                 </div>
                 <div class="item">
-                    <img class="img-fluid shadow slider-image" src="../images/oceanfins-img/desktop-4.png"  alt="">
+                    <img class="img-fluid my-shadow slider-image" src="../images/oceanfins-img/desktop-4.png"  alt="">
                 </div>
             </div>
         </div>
@@ -311,16 +311,16 @@
         <div class="slider-container">
             <div class="gallery-slider oceanfins-persona-gallery">
                 <div class="item">
-                    <img class="img-fluid shadow slider-image" src="../images/oceanfins-img/mobile-1.png"  alt="">
+                    <img class="img-fluid my-shadow slider-image" src="../images/oceanfins-img/mobile-1.png"  alt="">
                 </div>
                 <div class="item">
-                    <img class="img-fluid shadow slider-image" src="../images/oceanfins-img/mobile-2.png"  alt="">
+                    <img class="img-fluid my-shadow slider-image" src="../images/oceanfins-img/mobile-2.png"  alt="">
                 </div>
                 <div class="item">
-                    <img class="img-fluid shadow slider-image" src="../images/oceanfins-img/mobile-3.png"  alt="">
+                    <img class="img-fluid my-shadow slider-image" src="../images/oceanfins-img/mobile-3.png"  alt="">
                 </div>
                 <div class="item">
-                    <img class="img-fluid shadow slider-image" src="../images/oceanfins-img/mobile-4.png"  alt="">
+                    <img class="img-fluid my-shadow slider-image" src="../images/oceanfins-img/mobile-4.png"  alt="">
                 </div>
             </div>
         </div>
@@ -343,7 +343,7 @@
             </div>  
         </div>
         <div class="center side-padding">
-            <img class="img-fluid shadow" src="../images/oceanfins-img/style-tile.png" alt="">
+            <img class="img-fluid my-shadow" src="../images/oceanfins-img/style-tile.png" alt="">
         </div>
     </div>
 </section>
@@ -373,7 +373,7 @@
             </div>  
         </div>
         <div class="center">
-            <img class="parallax img-fluid shadow max-height-1000" src="../images/oceanfins-img/boat.jpg" alt="">
+            <img class="parallax img-fluid my-shadow max-height-1000" src="../images/oceanfins-img/boat.jpg" alt="">
         </div>
     </div>
 </section>

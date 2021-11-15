@@ -9,6 +9,15 @@
                 "goal"          => "To understand the iterative UX process: research, design and validation.",
             ),
 
+            "cibo" => array(
+                "bg_prefix"     => "cibo",
+                "role"          => "UX Designer | UI Designer",
+                "title"         => "Cibo",
+                "link"          => "pages/cibo.php",
+                "date"          => "JUN 2021 - JUL 2021",
+                "goal"          => "To develop an app pitch and create app prototypes. ",
+            ),
+
             "ocean-fins" => array(
                 "bg_prefix"     => "oceanfins",
                 "role"          => "Information Architect | UX Designer",
@@ -18,13 +27,13 @@
                 "goal"          => "To develop a design brief, proposing an improved site with a focus on information architecture.",
             ),
 
-            "cibo" => array(
-                "bg_prefix"     => "cibo",
+            "time-off" => array(
+                "bg_prefix"     => "timeoff",
                 "role"          => "UX Designer | UI Designer",
-                "title"         => "Cibo",
-                "link"          => "pages/cibo.php",
-                "date"          => "JUN 2021 - JUL 2021",
-                "goal"          => "To develop an app pitch and create app prototypes. ",
+                "title"         => "Time/Off",
+                "link"          => "pages/time-off.php",
+                "date"          => "OCT 2021 - NOV 2021",
+                "goal"          => "To design an online store and its ordering process.",
             ),
 
             "deep-end-diving" => array(
@@ -45,14 +54,14 @@
                 "goal"          => "To brand and re-design a menu with consideration to design principles and elements of design.",
             ),
 
-            "yummy-milk" => array(
-                "bg_prefix"     => "yummy",
-                "role"          => "Graphic Designer | Branding",
-                "title"         => "Yummy Milk",
-                "link"          => "pages/yummy-milk.php",
-                "date"          => "OCT 2020 - DEC 2020",
-                "goal"          => "To explore and utilize Adobe Photoshop's vector and 3D modeling features.",
-            ),
+            // "yummy-milk" => array(
+            //     "bg_prefix"     => "yummy",
+            //     "role"          => "Graphic Designer | Branding",
+            //     "title"         => "Yummy Milk",
+            //     "link"          => "pages/yummy-milk.php",
+            //     "date"          => "OCT 2020 - DEC 2020",
+            //     "goal"          => "To explore and utilize Adobe Photoshop's vector and 3D modeling features.",
+            // ),
 
             "valoir-collective" => array(
                 "bg_prefix"     => "valoir",

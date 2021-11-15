@@ -58,44 +58,44 @@
 
 /* Overlay */
 .overlay-jango {
-  background: rgb(69, 0, 104);
-  background: linear-gradient(0deg, rgba(69, 0, 104, 1) 0%, rgba(35, 0, 52, 0.05) 100%);
+  /* background: rgb(69, 0, 104); */
+  /* background: linear-gradient(0deg, rgba(69, 0, 104, 1) 0%, rgba(35, 0, 52, 0.05) 100%); */
   /* background: rgba(0, 0, 0, 0.2); */
 }
 
 .overlay-oceanfins {
-  background: rgb(59, 112, 165);
-  background: linear-gradient(0deg, rgba(59, 112, 165, 1) 0%, rgba(35, 0, 52, 0.05) 100%);
+  /* background: rgb(59, 112, 165); */
+  /* background: linear-gradient(0deg, rgba(59, 112, 165, 1) 0%, rgba(35, 0, 52, 0.05) 100%); */
   /* background: rgba(0, 0, 0, 0.2); */
 }
 
 .overlay-cibo {
-  background: rgb(208, 225, 204);
-  background: linear-gradient(0deg, rgba(208, 225, 204, 1) 0%, rgba(13, 68, 0, 0.3) 100%);
+  /* background: rgb(208, 225, 204); */
+  /* background: linear-gradient(0deg, rgba(208, 225, 204, 1) 0%, rgba(13, 68, 0, 0.3) 100%); */
   /* background: rgba(0, 0, 0, 0.2); */
 }
 
 .overlay-deepend {
-  background: rgb(0, 53, 75);
-  background: linear-gradient(0deg, rgba(0, 53, 75, 1) 0%, rgba(0, 53, 75, 0.05) 100%);
+  /* background: rgb(0, 53, 75); */
+  /* background: linear-gradient(0deg, rgba(0, 53, 75, 1) 0%, rgba(0, 53, 75, 0.05) 100%); */
   /* background: rgba(0, 0, 0, 0.2); */
 }
 
 .overlay-mariscos {
-  background: rgb(68, 158, 156);
-  background: linear-gradient(0deg, rgba(68, 158, 156, 1) 0%, rgba(0, 43, 42, 0.05) 100%);
+  /* background: rgb(68, 158, 156); */
+  /* background: linear-gradient(0deg, rgba(68, 158, 156, 1) 0%, rgba(0, 43, 42, 0.05) 100%); */
   /* background: rgba(0, 0, 0, 0.2); */
 }
 
 .overlay-yummy {
-  background: rgb(244, 112, 169);
-  background: linear-gradient(0deg, rgba(244, 112, 169, 1) 0%, rgba(68, 0, 29, 0.05) 100%);
+  /* background: rgb(244, 112, 169); */
+  /* background: linear-gradient(0deg, rgba(244, 112, 169, 1) 0%, rgba(68, 0, 29, 0.05) 100%); */
   /* background: rgba(0, 0, 0, 0.2); */
 }
 
 .overlay-valoir {
-  background: rgb(235, 138, 64);
-  background: linear-gradient(0deg, rgb(235, 138, 64) 0%, rgba(41, 17, 0, 0.05) 100%);
+  /* background: rgb(235, 138, 64); */
+  /* background: linear-gradient(0deg, rgb(235, 138, 64) 0%, rgba(41, 17, 0, 0.05) 100%); */
   /* background: rgba(0, 0, 0, 0.2); */
 }
 
@@ -161,7 +161,12 @@
   .nav-color-yummy {
     background-color: #de4c8b;
   }
+
   .nav-color-cibo {
-    background-color: rgb(143, 198, 131);
+    background-color: #f1a8a8;
+  }
+
+  .nav-color-timeoff {
+    background-color: #505f2e;
   }
 }

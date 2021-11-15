@@ -23,9 +23,12 @@
   color: #de4c8b;
 }
 .color-cibo {
-  color: rgb(143, 198, 131);
+  color: #f1a8a8;
 }
 
+.color-timeoff {
+  color: #505f2e;
+}
 /* Gradient BG Overlay */
 
 .gradient-bg {
@@ -51,6 +54,16 @@
   background: linear-gradient(180deg, rgba(35, 89, 144, 1) 0%, rgba(35, 89, 144, 0) 100%);
 }
 
+.cibo-gradient {
+  background: rgb(241, 168, 168);
+  background: linear-gradient(180deg, rgba(241, 168, 168, 1) 0%, rgba(241, 168, 168, 0) 100%);
+}
+
+.timeoff-gradient {
+  background: rgb(80, 95, 46);
+  background: linear-gradient(180deg, rgba(80, 95, 46, 1) 0%, rgba(80, 95, 46, 0) 100%);
+}
+
 /* Intro BG */
 .deepend-intro {
   background-image: url(../images/deepend-img/dive.jpg);
@@ -61,6 +74,14 @@
 .oceanfins-intro {
   background-image: url(../images/oceanfins-img/oceanfins-intro3.jpg);
   background-position: center;
+}
+.timeoff-intro {
+  background-image: url(../images/timeoff-img/timeoff-intro.jpeg);
+}
+
+.cibo-intro {
+  background-image: url(../images/cibo-img/cibo-intro-6.jpg);
+  background-position: top;
 }
 
 /* Works Typography */
@@ -273,6 +294,32 @@
 
 .oceanfins-solid-color-blurb {
   border-left: #235990 5px solid;
+}
+
+/* Cibo Specific Elements */
+.cibo-solid-color-bg {
+  background-color: #f1a8a8;
+}
+
+.cibo-solid-color-heading {
+  border-left: #ff8a8a 5px solid;
+}
+
+.cibo-solid-color-blurb {
+  border-left: #f1a8a8 5px solid;
+}
+
+/* Time Off Specific Elements */
+.timeoff-solid-color-bg {
+  background-color: #505f2e;
+}
+
+.timeoff-solid-color-heading {
+  border-left: #849b4d 5px solid;
+}
+
+.timeoff-solid-color-blurb {
+  border-left: #505f2e 5px solid;
 }
 
 @media (min-width: 992px) {
