@@ -41,9 +41,26 @@
   background: linear-gradient(0deg, rgba(0, 42, 60, 0) 0%, rgba(0, 42, 60, 1) 100%);
 }
 
+.jango-gradient {
+  background: rgb(50, 4, 74);
+  background: linear-gradient(180deg, rgba(50, 4, 74, 1) 0%, rgba(50, 4, 74, 0) 100%);
+}
+
+.oceanfins-gradient {
+  background: rgb(35, 89, 144);
+  background: linear-gradient(180deg, rgba(35, 89, 144, 1) 0%, rgba(35, 89, 144, 0) 100%);
+}
+
 /* Intro BG */
 .deepend-intro {
   background-image: url(../images/deepend-img/dive.jpg);
+}
+.jango-intro {
+  background-image: url(../images/jango-img/jango-intro.png);
+}
+.oceanfins-intro {
+  background-image: url(../images/oceanfins-img/oceanfins-intro3.jpg);
+  background-position: center;
 }
 
 /* Works Typography */
@@ -51,6 +68,10 @@
 .work-section h2 {
   font-size: 3em;
   padding-bottom: 50px;
+}
+
+.work-section.no-h2-bottom h2 {
+  padding-bottom: 0px;
 }
 
 .work-section h3 {
@@ -98,6 +119,10 @@
   padding-bottom: 100px;
 }
 
+.no-padding-bottom {
+  padding-bottom: 0px;
+}
+
 .white-section {
   background-color: white;
 }
@@ -108,10 +133,6 @@
   align-items: flex-start;
   background-size: cover;
 }
-
-/* .main-section-heading {
-  padding-bottom: 80px;
-} */
 
 .center-wrapper {
   display: flex;
@@ -145,6 +166,13 @@
   height: 300px;
 }
 
+.jango-gallery .item img {
+}
+
+.max-height-300 {
+  max-height: 300px;
+}
+
 .max-height-500 {
   max-height: 500px;
 }
@@ -155,6 +183,49 @@
 
 .side-padding {
   padding: 0px 30px;
+}
+.before-after-img h4 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  text-align: center;
+}
+
+/* Jango Specific Elements */
+.work-section.solid-color-container {
+  padding-bottom: 20px;
+  padding-top: 150px;
+}
+
+.solid-color-container h3 {
+  font-size: 2em;
+  text-transform: none;
+  line-height: 1.5em;
+  padding-bottom: 0px;
+}
+
+.solid-color-heading {
+  padding-left: 20px;
+}
+
+.solid-color-blurb {
+  padding-top: 40px;
+  padding-left: 20px;
+}
+
+.jango-solid-color-bg {
+  background-color: #32044a;
+}
+
+.jango-solid-color-heading {
+  border-left: rgb(142, 69, 237) 5px solid;
+}
+
+.jango-solid-color-blurb {
+  border-left: #32044a 5px solid;
+}
+
+.main-heading-blurb {
+  margin-bottom: 80px;
 }
 
 @media (min-width: 768px) {
@@ -183,6 +254,25 @@
   .hover-underline-animation:after {
     transform: scaleX(1);
   }
+  .before-after-img h4 {
+    padding-top: 0px;
+  }
+  .work-section.no-h2-bottom h2 {
+    padding-bottom: 80px;
+  }
+}
+
+/* Ocean Fins Specific Elements */
+.oceanfins-solid-color-bg {
+  background-color: #235990;
+}
+
+.oceanfins-solid-color-heading {
+  border-left: #4f8ac4 5px solid;
+}
+
+.oceanfins-solid-color-blurb {
+  border-left: #235990 5px solid;
 }
 
 @media (min-width: 992px) {
@@ -193,8 +283,7 @@
     padding-top: 150px;
     padding-bottom: 150px;
   }
-
-  .section-text-wrapper {
-    padding: 0px 50px 150px 50px;
+  .challenge-container h3 {
+    font-size: 2.3em;
   }
 }

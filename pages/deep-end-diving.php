@@ -27,7 +27,10 @@
                         <h2 class="white-text">Introduction</h2>
                     </div>
                     <div class="col-sm-12 col-md-12 col-lg-8">
-                        <p class="white-text">Diving is a fictitious company owned by diving professionals. They offer scuba diving courses as well as rent out and sell gear, equipment and apparel for divers, snorkelers, swimming and other water sports. One of their best sellers is their protective wet suits.</p>
+                        <p class="white-text">As a graphic designer, I created branding assets for a company using Adobe Illustrator, Photoshop, InDesign and Dimension.</p>
+                        <br><br><br>
+                        <p class="white-text"><i>Deep-End Diving is a fictitious company owned by diving professionals. They offer scuba diving courses and sell gear, equipment and apparel for divers, snorkelers, swimming and other water sports.</i></p>
+                        <br>
                     </div>
                 </div>
             </div>
@@ -53,7 +56,8 @@
                             <h3 class="color-<?php echo $data['bg_prefix'] ?>">Thumbnails</h3>
                         </div>
                         <div class="col-sm-12 col-md-12 col-lg-8">
-                            <p>The design process begins with initial ideas. After sketching out thumbnails on paper, I chose the best 5 and digitally re-created their shapes on Adobe Illustrator.</p>
+                            <p>The design process begins with initial ideas. After sketching out thumbnails on paper, I chose the best 5 to digitally re-create on Adobe Illustrator. Each logo has elements that signify diving or the ocean.</p>
+                            <a href="../images/deepend-img/thumbnails-meanings.pdf" title="View PDF" target="_blank" class="hover-underline-animation  line-color-<?php echo $data['bg_prefix'] ?> color-<?php echo $data['bg_prefix'] ?>"><i>What do these logos represent?</i></a>
                         </div>
                     </div>
                 </div>
@@ -90,7 +94,7 @@
                             <h3 class="color-<?php echo $data['bg_prefix'] ?>">ROUGHS</h3>
                         </div>
                         <div class="col-sm-12 col-md-12 col-lg-8">
-                            <p>The design process begins with initial ideas. After sketching out thumbnails on paper, I chose the best 5 and digitally re-created their shapes on Adobe Illustrator.</p>
+                            <p>I narrowed it down to the three best logos. I incorporated colour and effects such as gradients and gradient mesh. They are fine-tuned and cleanly built with no overlapping shapes – creating killer logos!</p>
                         </div>
                     </div>
                 </div>
@@ -114,7 +118,7 @@
                     <img class="img-fluid slider-image" src="../images/deepend-img/SVG/rough-1.svg"  alt="">
                 </div>
                 <div class="item">
-                    <img class="img-fluid slider-image" src="../images/deepend-img/SVG/rough-2.svg"  alt="">
+                    <img class="img-fluid slider-image" src="../images/deepend-img/SVG/rough-2.jpg"  alt="">
                 </div>
                 </div>
             </div>
@@ -131,7 +135,7 @@
                             <h3 class="color-<?php echo $data['bg_prefix'] ?>">Final</h3>
                         </div>
                         <div class="col-sm-12 col-md-12 col-lg-8">
-                            <p>The design process begins with initial ideas. After sketching out thumbnails on paper, I chose the best 5 and digitally re-created their shapes on Adobe Illustrator.</p>
+                            <p>Ultimately, the diving turtle logo best represent the company. The turtle’s shell signifies the protection and safety of their products. I used geometric shapes to illustrate an edgy look and feel. This logo can withstand any size, media, texture and colour. </p>
                         </div>
                     </div>
                 </div>
@@ -161,7 +165,7 @@
                             <h3 class="color-<?php echo $data['bg_prefix'] ?>">ADOBE DIMENSION</h3>
                         </div>
                         <div class="col-sm-12 col-md-12 col-lg-8">
-                            <p>The design process begins with initial ideas. After sketching out thumbnails on paper, I chose the best 5 and digitally re-created their shapes on Adobe Illustrator.</p>
+                            <p>I created water bottle mockups with material, colour, texture and the final logo. The products are placed in a beach background with a water splash element. To make it as realistic as possible, I matched the product lighting with the beach scene's lighting.</p>
                         </div>
                     </div>
                 </div>
@@ -191,8 +195,8 @@
                             <h3 class="color-<?php echo $data['bg_prefix'] ?>">Ideation</h3>
                         </div>
                         <div class="col-sm-12 col-md-12 col-lg-8">
-                            <p>The design process begins with initial ideas. After sketching out thumbnails on paper, I chose the best 5 and digitally re-created their shapes on Adobe Illustrator.</p>
-                            <a href="#" class="hover-underline-animation  line-color-<?php echo $data['bg_prefix'] ?> color-<?php echo $data['bg_prefix'] ?>">VIEW PDF</a>
+                            <p>To build its visual identity system, I first explored inspirations and finalized the brand look and feel on a mood board. I then sketched thumbnails and digitalized roughs for the set items' layout design.</p>
+                            <a href="../images/deepend-img/stationery_ideation.pdf" title="View PDF" target="_blank" class="hover-underline-animation  line-color-<?php echo $data['bg_prefix'] ?> color-<?php echo $data['bg_prefix'] ?>"><i>What does the full process look like?</i></a>
                         </div>
                     </div>
                 </div>
@@ -213,7 +217,7 @@
                             <h3 class="color-<?php echo $data['bg_prefix'] ?>">Deliverables</h3>
                         </div>
                         <div class="col-sm-12 col-md-12 col-lg-8">
-                            <p>The design process begins with initial ideas. After sketching out thumbnails on paper, I chose the best 5 and digitally re-created their shapes on Adobe Illustrator.</p>
+                            <p>From the best layout designs, I created a final business card, envelope and letterhead on Adobe InDesign. I ensured to follow best practices and general guidelines for print.</p>
                         </div>
                     </div>
                 </div>
@@ -221,13 +225,13 @@
         </div>
         <div class="center pb-5 side-padding">
             <div class="front-img">
-                <img class="img-fluid shadow max-height-500" src="../images/deepend-img/business-card2.png"  alt="">
-                <img class="img-fluid shadow img-top max-height-500" src="../images/deepend-img/business-card-1.png" alt="">
+                <img class="img-fluid shadow max-height-300" src="../images/deepend-img/business-card-1.png"  alt="">
+                <img class="img-fluid shadow img-top max-height-500" src="../images/deepend-img/business-card-2.png" alt="">
             </div>
         </div>
         <div class="center pb-5 side-padding">
             <div class="front-img">
-                <img class="img-fluid shadow" src="../images/deepend-img/envelope-1.png" alt="">
+                <img class="img-fluid shadow  max-height-500" src="../images/deepend-img/envelope-1.png" alt="">
                 <img class="img-fluid shadow img-top" src="../images/deepend-img/envelope-2.png" alt="">
             </div>
         </div>
@@ -257,7 +261,9 @@
                             <h3 class="color-<?php echo $data['bg_prefix'] ?>">What I've Learned</h3>
                         </div>
                         <div class="col-sm-12 col-md-12 col-lg-8">
-                            <p>The design process begins with initial ideas. After sketching out thumbnails on paper, I chose the best 5 and digitally re-created their shapes on Adobe Illustrator.</p>
+                            <p>Branding is about creating the right perception for its audience. For Deep End Diving, I wanted to present a clean, sleek and professional tone.</p>
+                            <br>
+                            <p>Having consistency with the elements used creates unity to the brand's identity system. Thus, establishing brand guidelines is important in a design process.</p>
                         </div>
                     </div>
                 </div>

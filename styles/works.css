@@ -39,25 +39,25 @@
 }
 
 .work-bg-jango {
-  background-image: url(../images/jango-cover-sm.jpg);
+  background-image: url(../images/header-covers/jango-cover-sm.jpg);
 }
 .work-bg-oceanfins {
-  background-image: url(../images/ocean-fins-cover-sm.jpg);
+  background-image: url(../images/header-covers/ocean-fins-cover-sm.jpg);
 }
 .work-bg-cibo {
-  background-image: url(../images/cibo-cover.jpg);
+  background-image: url(../images/header-covers/cibo-cover.jpg);
 }
 .work-bg-yummy {
-  background-image: url(../images/yummy-cover-sm.jpg);
+  background-image: url(../images/header-covers/yummy-cover-sm.jpg);
 }
 .work-bg-deepend {
-  background-image: url(../images/deep-end-cover-sm.jpg);
+  background-image: url(../images/header-covers/deep-end-cover-sm.jpg);
 }
 .work-bg-mariscos {
-  background-image: url(../images/mariscos-cover-sm.jpg);
+  background-image: url(../images/header-covers/mariscos-cover-sm.jpg);
 }
 .work-bg-valoir {
-  background-image: url(../images/valoir-cover-sm.jpg);
+  background-image: url(../images/header-covers/valoir-cover-sm.jpg);
 }
 
 .work-preview-text {
@@ -120,25 +120,25 @@
     max-width: 60%;
   }
   .work-bg-jango {
-    background-image: url(../images/jango-cover.jpg);
+    background-image: url(../images/header-covers/jango-cover.jpg);
   }
   .work-bg-oceanfins {
-    background-image: url(../images/ocean-fins-cover.jpg);
+    background-image: url(../images/header-covers/ocean-fins-cover.jpg);
   }
   .work-bg-cibo {
-    background-image: url(../images/cibo-cover.jpg);
+    background-image: url(../images/header-covers/cibo-cover.jpg);
   }
   .work-bg-yummy {
-    background-image: url(../images/yummy-cover2.jpg);
+    background-image: url(../images/header-covers/yummy-cover2.jpg);
   }
   .work-bg-deepend {
-    background-image: url(../images/deep-end-cover.jpg);
+    background-image: url(../images/header-covers/deep-end-cover.jpg);
   }
   .work-bg-mariscos {
-    background-image: url(../images/mariscos-cover.jpg);
+    background-image: url(../images/header-covers/mariscos-cover.jpg);
   }
   .work-bg-valoir {
-    background-image: url(../images/valoir-cover.jpg);
+    background-image: url(../images/header-covers/valoir-cover.jpg);
   }
 
   .view-work-btn {
