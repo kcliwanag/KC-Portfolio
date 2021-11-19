@@ -27,9 +27,9 @@
                         <h2 class="white-text">Introduction</h2>
                     </div>
                     <div class="col-sm-12 col-md-12 col-lg-8">
-                        <p class="white-text">Music and songwriting had always been important in my life. I often get my inspiration through listening to and exploring new music. Thus, learning about the features of Jango and its unlimited, ad-free music intrigued me.</p>
+                        <p class="white-text">As a food enthusiast and a novice home cook myself, I've tried many recipe apps – most are quite similar and already have the main features I am looking for. Although some apps aim to tackle the costly issue of food waste, many more could advocate for this environmental concern.</p>
                         <br>
-                        <p class="white-text">As a UX student and a music enthusiast, I saw the potential to improve Jango’s site and its functionality for a better and more unique experience. In this case study, I analyze the current site, identify problems, understand its ideal users and find solutions.</p>
+                        <p class="white-text">I've proposed a kitchen app solution that with features that both value and benefit the end-users as well as the environment. I collaborated with a team of UX / UI designers, Nick Turda, Tiffany Chu and Christine Le to design the app's processes and interfaces. </p>
                     </div>
                 </div>
             </div>
@@ -50,10 +50,10 @@
                 <div class="container-fluid">
                     <div class="row">
                         <div class="solid-color-heading <?php echo $data['bg_prefix'] ?>-solid-color-heading">
-                            <h3 class="white-text">Through Cibo, we serve our environment by helping you save money and prevent food waste.</h3>
+                            <h3 class="white-text">Through CIBO, we serve our environment by helping you save money and prevent food waste.</h3>
                         </div>
                         <div class="solid-color-blurb <?php echo $data['bg_prefix'] ?>-solid-color-blurb">
-                            <p class="white-text less-opacity">Cibo is more than a digital cookbook app. It is a kitchen organization tool that will help home cooks be more efficient and save money by keeping track of the ingredients they already have. 
+                            <p class="white-text less-opacity">CIBO is more than a digital cookbook app. It is a kitchen organization tool that will help home cooks be more efficient and save money while integrating eco-friendly practices into their daily life. CIBO would have beneficial features that encourage users to be mindful of their food waste by helping them with keeping track of ingredients portioning, and using up leftovers.
                             </p>
                         </div>
                         </div>
@@ -79,10 +79,39 @@
                 <div class="container-fluid">
                     <div class="row">
                         <div class="col-sm-12 col-md-12 col-lg-4 color-<?php echo $data['bg_prefix'] ?>">
-                            <h3 class="color-<?php echo $data['bg_prefix'] ?>">Target Audience</h3>
+                            <h3 class="color-<?php echo $data['bg_prefix'] ?>">Viability</h3>
                         </div>
                         <div class="col-sm-12 col-md-12 col-lg-8">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+                            <p>The global recipe apps market expects to see a compound annual growth rate of 16% over the next eight years. The impact of COVID-19 has especially affected growth trajectory of user downloads. The key players successfully fulfills the primary needs of this market’s general users. However, there is room to compete in this existing space by targeting a niche audience.</p>
+                            <br><br>
+                            <p>Food waste heavily impacts the environment and is a cause for concern. Developing a competitive app with a focus on reducing food waste would be a unique selling proposition.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>  
+        </div>
+        <div class="center">
+            <div class="row side-padding container-fluid">
+                <div class="col-sm-12 col-md-12 col-lg-12 ">
+                    <div class="center">
+                        <img class="img-fluid my-shadow max-height-1000" src="../images/cibo-img/viability.jpeg" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section id="the-market" class="work-section white-section">
+    <div data-aos="fade-up">
+        <div class="center-wrapper">
+            <div class="section-text-wrapper">
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col-sm-12 col-md-12 col-lg-4 color-<?php echo $data['bg_prefix'] ?>">
+                            <h3 class="color-<?php echo $data['bg_prefix'] ?>">Audience</h3>
+                        </div>
+                        <div class="col-sm-12 col-md-12 col-lg-8">
+                            <p>CIBO would appeal to cooks who are more environmentally or budget conscious. I've created two personas to empathize and understand the frustrations, goals and motivations of the app's ideal users. </p>
                         </div>
                     </div>
                 </div>
@@ -92,12 +121,49 @@
             <div class="row side-padding container-fluid">
                 <div class="col-sm-12 col-md-12 col-lg-6 pb-3">
                     <div class="center">
-                        <img class="img-fluid my-shadow max-height-1000" src="../images/oceanfins-img/audience-1.png" alt="">
+                        <img class="img-fluid my-shadow max-height-1000" src="../images/cibo-img/audience-1.png" alt="">
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-12 col-lg-6 pb-3">
                     <div class="center">
-                        <img class="img-fluid my-shadow max-height-1000" src="../images/oceanfins-img/audience-2.png" alt="">
+                        <img class="img-fluid my-shadow max-height-1000" src="../images/cibo-img/audience-2.png" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="work-section">
+    <div data-aos="fade-up">
+        <div class="center-wrapper">
+            <div class="section-text-wrapper">
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col-sm-12 col-md-12 col-lg-4 color-<?php echo $data['bg_prefix'] ?>">
+                            <h3 class="color-<?php echo $data['bg_prefix'] ?>">Competitors</h3>
+                        </div>
+                        <div class="col-sm-12 col-md-12 col-lg-8">
+                            <p>I explored major recipe apps to analyze their strengths and weaknesses.This helps to recognize how we can refine and enhance CIBO's business strategy to compete within the market.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>  
+        </div>
+        <div class="center">
+            <div class="row side-padding container-fluid">
+                <div class="col-sm-12 col-md-12 col-lg-4 pb-3">
+                    <div class="center">
+                        <img class="img-fluid max-height-1000" src="../images/cibo-img/competitor-1.png" alt="">
+                    </div>
+                </div>
+                <div class="col-sm-12 col-md-12 col-lg-4 pb-3">
+                    <div class="center">
+                        <img class="img-fluid max-height-1000" src="../images/cibo-img/competitor-2.png" alt="">
+                    </div>
+                </div>
+                <div class="col-sm-12 col-md-12 col-lg-4 pb-3">
+                    <div class="center">
+                        <img class="img-fluid max-height-1000" src="../images/cibo-img/competitor-3.png" alt="">
                     </div>
                 </div>
             </div>
@@ -111,71 +177,34 @@
                 <div class="container-fluid">
                     <div class="row">
                         <div class="col-sm-12 col-md-12 col-lg-4 color-<?php echo $data['bg_prefix'] ?>">
-                            <h3 class="color-<?php echo $data['bg_prefix'] ?>">Competitors</h3>
-                        </div>
-                        <div class="col-sm-12 col-md-12 col-lg-8">
-                            <p>I narrowed it down to the three best logos. I incorporated colour and effects such as gradients and gradient mesh. They are fine-tuned and cleanly built with no overlapping shapes – creating killer logos!</p>
-                        </div>
-                    </div>
-                </div>
-            </div>  
-        </div>
-        <div class="slider-container">
-            <div class="gallery-slider deepend-logo-gallery">
-                <div class="item">
-                    <img class="img-fluid slider-image" src="../images/deepend-img/SVG/rough-3.svg"  alt="">
-                </div>
-                <div class="item">
-                    <img class="img-fluid slider-image" src="../images/deepend-img/SVG/rough-4.svg"  alt="">
-                </div>
-                <div class="item">
-                    <img class="img-fluid slider-image" src="../images/deepend-img/SVG/rough-5.svg"  alt="">
-                </div>
-                <div class="item">
-                    <img class="img-fluid slider-image" src="../images/deepend-img/SVG/rough-6.svg"  alt="">
-                </div>
-                <div class="item">
-                    <img class="img-fluid slider-image" src="../images/deepend-img/SVG/rough-1.svg"  alt="">
-                </div>
-                <div class="item">
-                    <img class="img-fluid slider-image" src="../images/deepend-img/SVG/rough-2.jpg"  alt="">
-                </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<section class="work-section">
-    <div data-aos="fade-up">
-        <div class="center-wrapper">
-            <div class="section-text-wrapper">
-                <div class="container-fluid">
-                    <div class="row">
-                        <div class="col-sm-12 col-md-12 col-lg-4 color-<?php echo $data['bg_prefix'] ?>">
                             <h3 class="color-<?php echo $data['bg_prefix'] ?>">Revenue Streams</h3>
                         </div>
                         <div class="col-sm-12 col-md-12 col-lg-8">
-                            <p>Ultimately, the diving turtle logo best represent the company. The turtle’s shell signifies the protection and safety of their products. I used geometric shapes to illustrate an edgy look and feel. This logo can withstand any size, media, texture and colour. </p>
+                            <p>CIBO will be based on a freemium model template which will be subscription based,  supplemented by data monetization. The memberships will be categorize as Basic (Free) and Subscribed (Full Access) for advanced features. Below is the market positioning of CIBO against major competitors in the market </p>
                         </div>
                     </div>
                 </div>
             </div>  
         </div>
         <div class="center side-padding">
-            <img class="img-fluid max-height-500" src="../images/deepend-img/SVG/final.svg" alt="">
+            <img class="img-fluid max-height-1000" src="../images/cibo-img/position.png" alt="">
         </div>
     </div>
 </section>
-<section id="ideation" class="work-section white-section">
+<section id="ideation" class="work-section">
     <div data-aos="fade-up">
         <div class="center-wrapper">
             <div class="section-text-wrapper">
                 <div class="container-fluid ">
                     <div class="row">
-                        <div class="col-sm-12 col-md-12 col-lg-12 color-<?php echo $data['bg_prefix'] ?>">
+                        <div class="col-sm-12 col-md-12 col-lg-4 color-<?php echo $data['bg_prefix'] ?>">
                             <h4>02</h4>
                             <br>
                             <h2>Ideation</h2>
+                        </div>
+                        <div class="col-sm-12 col-md-12 col-lg-8">
+                            <br><br><br>
+                            <p class="main-heading-blurb">After the research and brainstorming process, I created low-fidelity wireframes to illustrate the ideas and additional features that would solve user needs and facilitate in reducing food waste.</p>
                         </div>
                     </div>
                 </div>
@@ -196,7 +225,7 @@
         </div>
     </div>
 </section>
-<section class="work-section">
+<section class="work-section white-section">
     <div data-aos="fade-up">
         <div class="center-wrapper">
             <div class="section-text-wrapper">
@@ -206,14 +235,34 @@
                             <h3 class="color-<?php echo $data['bg_prefix'] ?>">Track Ingredients</h3>
                         </div>
                         <div class="col-sm-12 col-md-12 col-lg-8">
-                            <p>From the best layout designs, I created a final business card, envelope and letterhead on Adobe InDesign. I ensured to follow best practices and general guidelines for print.</p>
+                            <p>Users can list down expiration dates of fridge and pantry items that they have. In this way, they can monitor and use up the food nearing expiration first. Having this list can also prevent buying any duplicates of ingredients.</p>
                         </div>
                     </div>
                 </div>
             </div>  
         </div>
         <div class="center side-padding">
-            <img class="img-fluid " src="../images/cibo-img/wireframe-1.png" alt="">
+            <img class="img-fluid max-height-1000 " src="../images/cibo-img/wireframe-2.png" alt="">
+        </div>
+</section>
+<section class="work-section">
+    <div data-aos="fade-up">
+        <div class="center-wrapper">
+            <div class="section-text-wrapper">
+                <div class="container-fluid ">
+                    <div class="row">
+                        <div class="col-sm-12 col-md-12 col-lg-4 color-<?php echo $data['bg_prefix'] ?>">
+                            <h3 class="color-<?php echo $data['bg_prefix'] ?>">Filter Recipes</h3>
+                        </div>
+                        <div class="col-sm-12 col-md-12 col-lg-8">
+                            <p>Users can input ingredients or food items in the search bar. They can discover recipes that include the ingredients want to cook with or exclude depending on user preferences. The search algorithm will also recommend ideal recipes based on what is currently in the users’ ‘My Fridge’ feature.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>  
+        </div>
+        <div class="center side-padding">
+            <img class="img-fluid max-height-1000 " src="../images/cibo-img/wireframe-4.png" alt="">
         </div>
 </section>
 <section class="work-section white-section">
@@ -226,14 +275,14 @@
                             <h3 class="color-<?php echo $data['bg_prefix'] ?>">Be Notified</h3>
                         </div>
                         <div class="col-sm-12 col-md-12 col-lg-8">
-                            <p>From the best layout designs, I created a final business card, envelope and letterhead on Adobe InDesign. I ensured to follow best practices and general guidelines for print.</p>
+                            <p>The app will also include storing tips and information on how long different food items last. Users can also be notified when a food item is nearing expiration as well as give tips or find recipes that include that item.</p>
                         </div>
                     </div>
                 </div>
             </div>  
         </div>
         <div class="center side-padding">
-            <img class="img-fluid " src="../images/cibo-img/wireframe-1.png" alt="">
+            <img class="img-fluid " src="../images/cibo-img/wireframe-3.png" alt="">
         </div>
 </section>
 <section id="prototypes" class="work-section">
@@ -255,14 +304,27 @@
                             <h3 class="color-<?php echo $data['bg_prefix'] ?>">Onboarding</h3>
                         </div>
                         <div class="col-sm-12 col-md-12 col-lg-8">
-                            <p>The ingredients’ measurements will change according to how many servings the user decides to cook. In this way, they can buy and cook just the right amount of food, preventing food waste and saving money.</p>
+                            <p>Onboarding starts with prompting new users to create an account for saving user preferences. After, they are introduced to the great benefits of CIBO. This welcome carousel helps new users to acclimate to the app's features. </p>
                         </div>
                     </div>
                 </div>
             </div>  
         </div>
-        <div class="center side-padding">
-            <img class="img-fluid " src="../images/cibo-img/wireframe-1.png" alt="">
+        <div class="slider-container">
+            <div class="gallery-slider deepend-logo-gallery">
+                <div class="item">
+                    <img class="img-fluid slider-image" src="../images/cibo-img/onboard-1.png" alt="">
+                </div>
+                <div class="item">
+                    <img class="img-fluid slider-image" src="../images/cibo-img/onboard-2.png" alt="">
+                </div>
+                <div class="item">
+                    <img class="img-fluid slider-image" src="../images/cibo-img/onboard-3.png" alt="">
+                </div>
+                <div class="item">
+                    <img class="img-fluid slider-image" src="../images/cibo-img/onboard-4.png" alt="">
+                </div>
+            </div>
         </div>
     </div>
 </section>
@@ -276,14 +338,27 @@
                             <h3 class="color-<?php echo $data['bg_prefix'] ?>">Major Views</h3>
                         </div>
                         <div class="col-sm-12 col-md-12 col-lg-8">
-                            <p>From the best layout designs, I created a final business card, envelope and letterhead on Adobe InDesign. I ensured to follow best practices and general guidelines for print.</p>
+                            <p>At the top-level navigation of the app, users have quick access to explore recipes, the 'My Fridge' feature to track their ingredients, saved recipes and details to their personal account.</p>
                         </div>
                     </div>
                 </div>
             </div>  
         </div>
-        <div class="center side-padding">
-            <img class="img-fluid " src="../images/cibo-img/wireframe-1.png" alt="">
+        <div class="slider-container">
+            <div class="gallery-slider deepend-logo-gallery">
+                <div class="item">
+                    <img class="img-fluid slider-image" src="../images/cibo-img/major-2.png" alt="">
+                </div>
+                <div class="item">
+                    <img class="img-fluid slider-image" src="../images/cibo-img/major-1.png" alt="">
+                </div>
+                <div class="item">
+                    <img class="img-fluid slider-image" src="../images/cibo-img/major-3.png" alt="">
+                </div>
+                <div class="item">
+                    <img class="img-fluid slider-image" src="../images/cibo-img/major-4.png" alt="">
+                </div>
+            </div>
         </div>
 </section>
 <section class="work-section">
@@ -296,14 +371,24 @@
                             <h3 class="color-<?php echo $data['bg_prefix'] ?>">Adding To Fridge</h3>
                         </div>
                         <div class="col-sm-12 col-md-12 col-lg-8">
-                            <p>From the best layout designs, I created a final business card, envelope and letterhead on Adobe InDesign. I ensured to follow best practices and general guidelines for print.</p>
+                            <p>To add a new ingredient into the fridge, you have to first tap the (+) button. This will bring up an interface to add details about the ingredient such as item name, description, item type and expiry date. Once completed, tap add item. This will be added to the users' 'My Fridge' where all stored ingredients are tracked. </p>
                         </div>
                     </div>
                 </div>
             </div>  
         </div>
-        <div class="center side-padding">
-            <img class="img-fluid " src="../images/cibo-img/wireframe-1.png" alt="">
+        <div class="slider-container">
+            <div class="gallery-slider deepend-logo-gallery">
+                <div class="item">
+                    <img class="img-fluid slider-image" src="../images/cibo-img/major-2.png" alt="">
+                </div>
+                <div class="item">
+                    <img class="img-fluid slider-image" src="../images/cibo-img/onboard-5.png" alt="">
+                </div>
+                <div class="item">
+                    <img class="img-fluid slider-image" src="../images/cibo-img/major-3.png" alt="">
+                </div>
+            </div>
         </div>
 </section>
 <section id="reflection" class="work-section white-section">
@@ -327,9 +412,9 @@
                             <h3 class="color-<?php echo $data['bg_prefix'] ?>">What I've Learned</h3>
                         </div>
                         <div class="col-sm-12 col-md-12 col-lg-8">
-                            <p>Branding is about creating the right perception for its audience. For Deep End Diving, I wanted to present a clean, sleek and professional tone.</p>
+                            <p>There are many business factors to consider in developing a mobile app. With the numerous app products in the market, a unique selling proposition is important to have. The concept and design should provide value and appeal for its users. </p>
                             <br>
-                            <p>Having consistency with the elements used creates unity to the brand's identity system. Thus, establishing brand guidelines is important in a design process.</p>
+                            <p>As a UX / UI designer, I had to brainstorm features and how to simplify its processes for users to have a better experience with CIBO. </p>
                         </div>
                     </div>
                 </div>

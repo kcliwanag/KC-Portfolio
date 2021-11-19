@@ -45,7 +45,7 @@ a {
 
 body {
   font-family: 'Silka';
-  letter-spacing: 0.2em;
+  /* letter-spacing: 0.2em; */
   font-size: 62.5%;
   color: #707070;
 }
@@ -58,15 +58,18 @@ h1 {
 h2 {
   font-size: 3em;
   text-transform: uppercase;
+  letter-spacing: 0.1em;
 }
 
 h3 {
   font-size: 1.4em;
   text-transform: uppercase;
+  letter-spacing: 0.15em;
 }
 
 h4 {
   font-size: 1.4em;
+  letter-spacing: 0.15em;
 }
 
 h5 {
@@ -75,7 +78,7 @@ h5 {
 
 p {
   font-size: 1.4em;
-  letter-spacing: 0.1em;
+  /* letter-spacing: 0.1em; */
   line-height: 1.5em;
 }
 
@@ -126,7 +129,7 @@ p {
     text-transform: uppercase;
   }
   p {
-    font-size: 1.6em;
+    /* font-size: 1.6em; */
     letter-spacing: 0.1em;
   }
 }

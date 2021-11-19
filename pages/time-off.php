@@ -111,7 +111,7 @@
                 <div class="container-fluid">
                     <div class="row">
                         <div class="col-sm-12 col-md-12 col-lg-4 color-<?php echo $data['bg_prefix'] ?>">
-                            <h3 class="color-<?php echo $data['bg_prefix'] ?>">Store Features</h3>
+                            <h3 class="color-<?php echo $data['bg_prefix'] ?>">Site Map</h3>
                         </div>
                         <div class="col-sm-12 col-md-12 col-lg-8">
                             <p>I narrowed it down to the three best logos. I incorporated colour and effects such as gradients and gradient mesh. They are fine-tuned and cleanly built with no overlapping shapes – creating killer logos!</p>

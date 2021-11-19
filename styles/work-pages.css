@@ -63,6 +63,14 @@
   background: rgb(80, 95, 46);
   background: linear-gradient(180deg, rgba(80, 95, 46, 1) 0%, rgba(80, 95, 46, 0) 100%);
 }
+.mariscos-gradient {
+  background: rgb(19, 140, 138);
+  background: linear-gradient(180deg, rgba(19, 140, 138, 1) 0%, rgba(19, 140, 138, 0) 100%);
+}
+.valoir-gradient {
+  background: rgb(222, 107, 19);
+  background: linear-gradient(180deg, rgba(222, 107, 19, 1) 0%, rgba(222, 107, 19, 0) 100%);
+}
 
 /* Intro BG */
 .deepend-intro {
@@ -81,6 +89,14 @@
 
 .cibo-intro {
   background-image: url(../images/cibo-img/cibo-intro-6.jpg);
+  background-position: top;
+}
+.mariscos-intro {
+  background-image: url(../images/mariscos-img/mariscos-intro.jpg);
+  background-position: top;
+}
+.valoir-intro {
+  background-image: url(../images/valoir-img/valoir-intro.jpg);
   background-position: top;
 }
 
@@ -320,6 +336,33 @@
 
 .timeoff-solid-color-blurb {
   border-left: #505f2e 5px solid;
+}
+
+/* Mariscos El Guerro Elements */
+
+.mariscos-solid-color-bg {
+  background-color: #138c8a;
+}
+
+.mariscos-solid-color-heading {
+  border-left: #26dcd9 5px solid;
+}
+
+.mariscos-solid-color-blurb {
+  border-left: #138c8a 5px solid;
+}
+
+/* Valoir Specific Elements */
+.valoir-solid-color-bg {
+  background-color: #de6b13;
+}
+
+.valoir-solid-color-heading {
+  border-left: #f59a54 5px solid;
+}
+
+.valoir-solid-color-blurb {
+  border-left: #de6b13 5px solid;
 }
 
 @media (min-width: 992px) {

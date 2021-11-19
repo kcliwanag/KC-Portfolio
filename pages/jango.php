@@ -9,11 +9,11 @@
 <div class="container-fluid work-nav sticky-top nav-color-<?php echo $data['bg_prefix']?>">
     <div class="row">
         <div class="col"><a href="#introduction" title=""><h3>Introduction</h3></a></div>
-        <div class="col"><a href="#research" title=""><h3>Reasearch</h3></a></div>
+        <div class="col"><a href="#research" title=""><h3>Research</h3></a></div>
         <div class="col"><a href="#design" title=""><h3>Design</h3></a></div>
         <div class="col"><a href="#validation" title=""><h3>Validation</h3></a></div>
         <div class="col"><a href="#final" title=""><h3>Final</h3></a></div>
-        <div class="col"><a href="#reflection" title=""><h3>Refelction</h3></a></div>
+        <div class="col"><a href="#reflection" title=""><h3>Reflection</h3></a></div>
     </div>
 </div> 
 
@@ -328,7 +328,9 @@
                             <h3 class="color-<?php echo $data['bg_prefix'] ?>">EXPLORE PAGE</h3>
                         </div>
                         <div class="col-sm-12 col-md-12 col-lg-8">
-                            <p>The design process begins with initial ideas. After sketching out thumbnails on paper, I chose the best 5 and digitally re-created their shapes on Adobe Illustrator.</p>
+                            <p>I organized the “Find Artists” and “Find Songs” under one main page that is specifically for browsing music. The global and local navigation are seen as two separate groups,which makes it easier to understand.</p>
+                            <br><br>
+                            <p>Instead of a dropdown menu, the main navigation is on the top so that the primary pages and features the site offers are visible right away. The active page is also highlighted with a different colour to clearly show which page the user is currently viewing</p>
                         </div>
                     </div>
                 </div>
@@ -362,7 +364,7 @@
                             <h3 class="color-<?php echo $data['bg_prefix'] ?>">ARTIST PAGE</h3>
                         </div>
                         <div class="col-sm-12 col-md-12 col-lg-8">
-                            <p>The design process begins with initial ideas. After sketching out thumbnails on paper, I chose the best 5 and digitally re-created their shapes on Adobe Illustrator.</p>
+                            <p>With the three columns of different categories of information about the artist, it is quite overwhelming to see them all on one page. Instead, I separated each category so that users can focus on one category of information at a time. I also removed the unnecessary local navigation on the first column as it had the same content or the pages it led to had barely anything in it.</p>
                         </div>
                     </div>
                 </div>
@@ -396,7 +398,9 @@
                             <h3 class="color-<?php echo $data['bg_prefix'] ?>">STATION PLAYER</h3>
                         </div>
                         <div class="col-sm-12 col-md-12 col-lg-8">
-                            <p>The design process begins with initial ideas. After sketching out thumbnails on paper, I chose the best 5 and digitally re-created their shapes on Adobe Illustrator.</p>
+                            <p>Instead of simply names, I put an image of the artist to their names so that users can easily identify who they are as well as to create visual appeal</p>
+                            <br><br>
+                            <p>Customizing a station means adding or removing artists being played from that station. Users may find this difficult to do within a small space. Now, adding artists can be done on the expanded station player page itself. In this way, there is more room, creating a much cleaner look and it is very clear which station is being edited.</p>
                         </div>
                     </div>
                 </div>
@@ -430,7 +434,9 @@
                             <h3 class="color-<?php echo $data['bg_prefix'] ?>">MIX STATIONS</h3>
                         </div>
                         <div class="col-sm-12 col-md-12 col-lg-8">
-                            <p>The design process begins with initial ideas. After sketching out thumbnails on paper, I chose the best 5 and digitally re-created their shapes on Adobe Illustrator.</p>
+                            <p>Instead of the small on/off shuffle buttons at the bottom right of each station, I added a hover state over the whole station where it will show an option to "Add to mix" or "Remove from mix" if it has already been added</p>
+                            <br><br>
+                            <p>The mixing station page was hidden within the "customize station" fly out menu. This is a unique feature that should be visible and easily accessible. So, I added this on the main navigation. I also created a fly out "mixer" that lists out the current stations that are alternating.</p>
                         </div>
                     </div>
                 </div>
@@ -465,8 +471,6 @@
                             <br>
                             <h2>Reflection</h2>
                         </div>
-                        <div class="col-sm-12 col-md-12 col-lg-12">
-                        </div>
                     </div>
                 </div>
                 <div class="container-fluid">
@@ -475,7 +479,10 @@
                             <h3 class="color-<?php echo $data['bg_prefix'] ?>">What I've Learned</h3>
                         </div>
                         <div class="col-sm-12 col-md-12 col-lg-8">
-                            <p>The design process begins with initial ideas. After sketching out thumbnails on paper, I chose the best 5 and digitally re-created their shapes on Adobe Illustrator.</p>
+                            <p><b>The success of a product’s design is determined by its users.</b></p>
+                            <p>I learned the importance of user-centred design. From the start of a project to the result, every decision should be made with the end-users in mind. Creating user personas, scenarios and journey maps allowed me to empathize with the target audience and have a better understanding of the ideal user’s goals and frustrations. It has greatly helped me build solutions for the pain points of Jango’s current site. User testing with my prototypes was another valuable experience for me as this showed me whether or not my solutions improved the issues.</p>
+                            <br><br>
+                            <p>I gained a lot of insights throughout this project. However, this journey doesn’t end here. This design will need more iterations, going through the process of reevaluating design, finding new difficulties and building new solutions, all of which keeping the users as the focus throughout the journey of improving user experience.</p>
                         </div>
                     </div>
                 </div>
