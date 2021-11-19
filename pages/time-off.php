@@ -27,9 +27,7 @@
                         <h2 class="white-text">Introduction</h2>
                     </div>
                     <div class="col-sm-12 col-md-12 col-lg-8">
-                        <p class="white-text">Music and songwriting had always been important in my life. I often get my inspiration through listening to and exploring new music. Thus, learning about the features of Jango and its unlimited, ad-free music intrigued me.</p>
-                        <br>
-                        <p class="white-text">As a UX student and a music enthusiast, I saw the potential to improve Jango’s site and its functionality for a better and more unique experience. In this case study, I analyze the current site, identify problems, understand its ideal users and find solutions.</p>
+                        <p class="white-text">We were tasked to develop an online store concept and produce high-fidelity wireframes to demonstrate the consumers online purchasing process. On this project, I collaborated with a team of graphic and UX/UI designers, Nick Turda, Tiffany Chu and Hossein Rad. As a team we decided on a fictional direct-to-consumer business that sells matcha green tea in Canada.</p>
                     </div>
                 </div>
             </div>
@@ -43,17 +41,17 @@
                 <div class="container-fluid">
                     <div class="row">
                         <div class="col-sm-12 col-md-12 col-lg-12 color-<?php echo $data['bg_prefix'] ?>">
-                            <h2 class="white-text">Time / Off Matcha</h2>
+                            <h2 class="white-text">Time / Off</h2>
                         </div>
-                    </div>
+                    </div> 
                 </div>
                 <div class="container-fluid">
                     <div class="row">
                         <div class="solid-color-heading <?php echo $data['bg_prefix'] ?>-solid-color-heading">
-                            <h3 class="white-text">Through Cibo, we serve our environment by helping you save money and prevent food waste.</h3>
+                            <h3 class="white-text">We supply organic, high-quality tea made from Canada's first tea farm. </h3>
                         </div>
                         <div class="solid-color-blurb <?php echo $data['bg_prefix'] ?>-solid-color-blurb">
-                            <p class="white-text less-opacity">Cibo is more than a digital cookbook app. It is a kitchen organization tool that will help home cooks be more efficient and save money by keeping track of the ingredients they already have. 
+                            <p class="white-text less-opacity">Tea is often the product of tropical and subtropical regions. With Canada's extreme temperatures, it is  difficult to grow tea leaves. A tea farm in Victoria, B.C. has successfully planted, grown and harvested them. Time/off's products comes this local supplier and will be sold to Canadians nationwide.
                             </p>
                         </div>
                         </div>
@@ -82,7 +80,7 @@
                             <h3 class="color-<?php echo $data['bg_prefix'] ?>">Brainstorming</h3>
                         </div>
                         <div class="col-sm-12 col-md-12 col-lg-8">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+                            <p>As a team, we first brainstormed the company, its products and the features that we could include on the online store. It is important to understand the customer's journey from before, during and after their interaction and purchase with the product.</p>
                         </div>
                     </div>
                 </div>
@@ -90,14 +88,9 @@
         </div>
         <div class="center">
             <div class="row side-padding container-fluid">
-                <div class="col-sm-12 col-md-12 col-lg-6 pb-3">
+                <div class="col-sm-12 col-md-12 col-lg-12">
                     <div class="center">
-                        <img class="img-fluid my-shadow max-height-1000" src="../images/oceanfins-img/audience-1.png" alt="">
-                    </div>
-                </div>
-                <div class="col-sm-12 col-md-12 col-lg-6 pb-3">
-                    <div class="center">
-                        <img class="img-fluid my-shadow max-height-1000" src="../images/oceanfins-img/audience-2.png" alt="">
+                        <img class="img-fluid my-shadow max-height-1000" src="../images/timeoff-img/brainstorm.png" alt="">
                     </div>
                 </div>
             </div>
@@ -114,34 +107,21 @@
                             <h3 class="color-<?php echo $data['bg_prefix'] ?>">Site Map</h3>
                         </div>
                         <div class="col-sm-12 col-md-12 col-lg-8">
-                            <p>I narrowed it down to the three best logos. I incorporated colour and effects such as gradients and gradient mesh. They are fine-tuned and cleanly built with no overlapping shapes – creating killer logos!</p>
+                            <p>Because the company only specializes in selling one product, we decided to have clear and simplified site map. There are only a few main pages to guide the customer from the decision to purchasing phase.</p>
                         </div>
                     </div>
                 </div>
             </div>  
         </div>
-        <div class="slider-container">
-            <div class="gallery-slider deepend-logo-gallery">
-                <div class="item">
-                    <img class="img-fluid slider-image" src="../images/deepend-img/SVG/rough-3.svg"  alt="">
-                </div>
-                <div class="item">
-                    <img class="img-fluid slider-image" src="../images/deepend-img/SVG/rough-4.svg"  alt="">
-                </div>
-                <div class="item">
-                    <img class="img-fluid slider-image" src="../images/deepend-img/SVG/rough-5.svg"  alt="">
-                </div>
-                <div class="item">
-                    <img class="img-fluid slider-image" src="../images/deepend-img/SVG/rough-6.svg"  alt="">
-                </div>
-                <div class="item">
-                    <img class="img-fluid slider-image" src="../images/deepend-img/SVG/rough-1.svg"  alt="">
-                </div>
-                <div class="item">
-                    <img class="img-fluid slider-image" src="../images/deepend-img/SVG/rough-2.jpg"  alt="">
-                </div>
+        <div class="center">
+            <div class="row side-padding container-fluid">
+                <div class="col-sm-12 col-md-12 col-lg-12">
+                    <div class="center">
+                        <img class="img-fluid my-shadow max-height-1000" src="../images/timeoff-img/brainstorm.png" alt="">
+                    </div>
                 </div>
             </div>
+        </div>
         </div>
     </div>
 </section>
@@ -164,14 +144,14 @@
                             <h3 class="color-<?php echo $data['bg_prefix'] ?>">Mood Board</h3>
                         </div>
                         <div class="col-sm-12 col-md-12 col-lg-8">
-                            <p>The ingredients’ measurements will change according to how many servings the user decides to cook. In this way, they can buy and cook just the right amount of food, preventing food waste and saving money.</p>
+                            <p>We searched for inspiration for the look and feel of the company's online store. It has a minimalist theme and accompanied by visually appealing images to add texture. We also decided to have a muted and soft green color scheme to match the product. Tiffany designed T/O's teacup logo.</p>
                         </div>
                     </div>
                 </div>
             </div>  
         </div>
         <div class="center side-padding">
-            <img class="img-fluid " src="../images/cibo-img/wireframe-1.png" alt="">
+            <img class="img-fluid shadow" src="../images/timeoff-img/mood-board.png" alt="">
         </div>
     </div>
 </section>
@@ -185,14 +165,27 @@
                             <h3 class="color-<?php echo $data['bg_prefix'] ?>">3D Mockups</h3>
                         </div>
                         <div class="col-sm-12 col-md-12 col-lg-8">
-                            <p>From the best layout designs, I created a final business card, envelope and letterhead on Adobe InDesign. I ensured to follow best practices and general guidelines for print.</p>
+                            <p>These assets are created by Hossein Rad. He used Adobe Dimension with Adobe Photoshop to create 3D product mockups and set them in a realistic scene. These images are used to showcase the products on the online store.</p>
                         </div>
                     </div>
                 </div>
             </div>  
         </div>
-        <div class="center side-padding">
-            <img class="img-fluid " src="../images/cibo-img/wireframe-1.png" alt="">
+        <div class="slider-container">
+            <div class="gallery-slider">
+                <div class="item">
+                    <img class="img-fluid slider-image" src="../images/timeoff-img/product-1.jpeg" alt="">
+                </div>
+                <div class="item">
+                    <img class="img-fluid slider-image" src="../images/timeoff-img/product-2.jpeg" alt="">
+                </div>
+                <div class="item">
+                    <img class="img-fluid slider-image" src="../images/timeoff-img/product-4.png" alt="">
+                </div>
+                <div class="item">
+                    <img class="img-fluid slider-image" src="../images/timeoff-img/product-5.jpeg" alt="">
+                </div>
+            </div>
         </div>
 </section>
 <section id="wireframes" class="work-section">
@@ -221,7 +214,7 @@
             </div>  
         </div>
         <div class="center side-padding">
-            <img class="img-fluid " src="../images/cibo-img/wireframe-1.png" alt="">
+            <img class="img-fluid shadow" src="../images/timeoff-img/home.png" alt="">
         </div>
     </div>
 </section>
@@ -242,7 +235,7 @@
             </div>  
         </div>
         <div class="center side-padding">
-            <img class="img-fluid " src="../images/cibo-img/wireframe-1.png" alt="">
+            <img class="img-fluid shadow" src="../images/timeoff-img/shop.png" alt="">
         </div>
 </section>
 <section class="work-section">
@@ -262,7 +255,7 @@
             </div>  
         </div>
         <div class="center side-padding">
-            <img class="img-fluid " src="../images/cibo-img/wireframe-1.png" alt="">
+            <img class="img-fluid shadow" src="../images/timeoff-img/product-page.png" alt="">
         </div>
 </section>
 <section class="work-section white-section">
