@@ -63,13 +63,13 @@
             //     "goal"          => "To explore and utilize Adobe Photoshop's vector and 3D modeling features.",
             // ),
 
-            "valoir-collective" => array(
-                "bg_prefix"     => "valoir",
-                "role"          => "Graphic Designer | Social Media Manager ",
-                "title"         => "Valoir Collective",
-                "link"          => "pages/valoir-collective.php",
-                "date"          => "JAN 2021 - MAR 2021",
-                "goal"          => "To create and design engaging content as well as manage social media platforms.",
-            ),
+            // "valoir-collective" => array(
+            //     "bg_prefix"     => "valoir",
+            //     "role"          => "Graphic Designer | Social Media Manager ",
+            //     "title"         => "Valoir Collective",
+            //     "link"          => "pages/valoir-collective.php",
+            //     "date"          => "JAN 2021 - MAR 2021",
+            //     "goal"          => "To create and design engaging content as well as manage social media platforms.",
+            // ),
         );
 ?>

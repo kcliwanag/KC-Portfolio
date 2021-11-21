@@ -179,7 +179,7 @@
 
 .section-text-wrapper {
   max-width: 1000px;
-  padding: 0px 30px 60px 30px;
+  padding: 0px 50px 80px 50px;
 }
 /* Hover Over Image */
 .front-img {
@@ -228,10 +228,6 @@
 }
 
 /* Jango Specific Elements */
-.work-section.solid-color-container {
-  padding-bottom: 20px;
-  padding-top: 150px;
-}
 
 .solid-color-container h3 {
   font-size: 2em;
@@ -275,18 +271,13 @@
     padding-bottom: 130px;
   }
 
-  .section-text-wrapper {
-    max-width: 1000px;
-    padding: 0px 50px 130px 50px;
-  }
-
   .side-padding {
     padding: 0px 50px;
   }
 
-  .work-section h2 {
+  /* .work-section h2 {
     padding-bottom: 80px;
-  }
+  } */
 
   .hover-underline-animation:after {
     transform: scaleX(1);
@@ -294,9 +285,9 @@
   .before-after-img h4 {
     padding-top: 0px;
   }
-  .work-section.no-h2-bottom h2 {
+  /* .work-section.no-h2-bottom h2 {
     padding-bottom: 80px;
-  }
+  } */
 }
 
 /* Ocean Fins Specific Elements */

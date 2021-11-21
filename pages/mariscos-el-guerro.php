@@ -9,11 +9,11 @@
 
 <div class="container-fluid work-nav sticky-top nav-color-<?php echo $data['bg_prefix'] ?>">
     <div class="row">
-        <div class="col"><a href="#introduction" title=""><h3>Introduction</h3></a></div>
-        <div class="col"><a href="#audience" title=""><h3>Audience</h3></a></div>
-        <div class="col"><a href="#brand-identity" title=""><h3>Brand Identity</h3></a></div>
-        <div class="col"><a href="#final" title=""><h3>Final</h3></a></div>
-        <div class="col"><a href="#reflection" title=""><h3>Reflection</h3></a></div>
+        <a href="#introduction" class="col" title=""><h3>Introduction</h3></a>
+        <a href="#audience" class="col" title=""><h3>Audience</h3></a>
+        <a href="#brand-identity" class="col" title=""><h3>Brand Identity</h3></a>
+        <a href="#final" class="col" title=""><h3>Final</h3></a>
+        <a href="#reflection" class="col" title=""><h3>Reflection</h3></a>
     </div>
 </div> 
 <section id="introduction" class="relative">
