@@ -20,4 +20,25 @@ $(document).ready(function () {
       },
     ],
   });
+  $('.single-item').slick({
+    dots: true,
+  infinite: true,
+  speed: 500,
+  fade: true,
+  cssEase: 'linear',
+  autoplay: true,
+  autoplaySpeed: 5000,
+  slidesToScroll: 1,
+  slidesToShow: 1,
+  });
+
+  $('.three-item').slick({
+  dots: true,
+  infinite: false,
+  slidesToShow: 1,
+  slidesToScroll:1,
+  });
+  
 });
+
+

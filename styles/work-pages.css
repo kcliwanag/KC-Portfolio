@@ -181,6 +181,10 @@
   max-width: 1000px;
   padding: 0px 50px 80px 50px;
 }
+
+.work-section.reflection {
+  padding-bottom: 0px;
+}
 /* Hover Over Image */
 .front-img {
   position: relative;

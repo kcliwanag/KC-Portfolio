@@ -204,7 +204,7 @@
         </div>
     </div>
 </section>
-<section id="reflection" class="work-section white-section">
+<section id="reflection" class="work-section white-section reflection">
     <div data-aos="fade-up" >
         <div class="center-wrapper">
             <div class="section-text-wrapper">

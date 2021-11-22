@@ -149,7 +149,7 @@
                 </div>
             </div>  
         </div>
-        <div class="center">
+        <!-- <div class="center">
             <div class="row side-padding container-fluid">
                 <div class="col-sm-12 col-md-12 col-lg-4 pb-3">
                     <div class="center">
@@ -165,6 +165,19 @@
                     <div class="center">
                         <img class="img-fluid max-height-1000" src="../images/cibo-img/competitor-3.png" alt="">
                     </div>
+                </div>
+            </div>
+        </div> -->
+        <div class="slider-container">
+            <div class="three-item">
+                <div class="item">
+                    <img class="img-fluid slider-image" src="../images/cibo-img/competitor-1.png" alt="">
+                </div>
+                <div class="item">
+                    <img class="img-fluid slider-image" src="../images/cibo-img/competitor-2.png" alt="">
+                </div>
+                <div class="item">
+                    <img class="img-fluid slider-image" src="../images/cibo-img/competitor-3.png" alt="">
                 </div>
             </div>
         </div>
@@ -311,10 +324,7 @@
             </div>  
         </div>
         <div class="slider-container">
-            <div class="gallery-slider deepend-logo-gallery">
-                <div class="item">
-                    <img class="img-fluid slider-image" src="../images/cibo-img/onboard-1.png" alt="">
-                </div>
+            <div class="single-item">
                 <div class="item">
                     <img class="img-fluid slider-image" src="../images/cibo-img/onboard-2.png" alt="">
                 </div>
@@ -323,6 +333,9 @@
                 </div>
                 <div class="item">
                     <img class="img-fluid slider-image" src="../images/cibo-img/onboard-4.png" alt="">
+                </div>
+                <div class="item">
+                    <img class="img-fluid slider-image" src="../images/cibo-img/onboard-1.png" alt="">
                 </div>
             </div>
         </div>
@@ -345,15 +358,15 @@
             </div>  
         </div>
         <div class="slider-container">
-            <div class="gallery-slider deepend-logo-gallery">
+            <div class="single-item">
                 <div class="item">
                     <img class="img-fluid slider-image" src="../images/cibo-img/major-2.png" alt="">
                 </div>
                 <div class="item">
-                    <img class="img-fluid slider-image" src="../images/cibo-img/major-1.png" alt="">
+                    <img class="img-fluid slider-image" src="../images/cibo-img/major-3.png" alt="">
                 </div>
                 <div class="item">
-                    <img class="img-fluid slider-image" src="../images/cibo-img/major-3.png" alt="">
+                    <img class="img-fluid slider-image" src="../images/cibo-img/major-1.png" alt="">
                 </div>
                 <div class="item">
                     <img class="img-fluid slider-image" src="../images/cibo-img/major-4.png" alt="">
@@ -378,7 +391,7 @@
             </div>  
         </div>
         <div class="slider-container">
-            <div class="gallery-slider deepend-logo-gallery">
+            <div class="single-item">
                 <div class="item">
                     <img class="img-fluid slider-image" src="../images/cibo-img/major-2.png" alt="">
                 </div>
@@ -391,7 +404,7 @@
             </div>
         </div>
 </section>
-<section id="reflection" class="work-section white-section">
+<section id="reflection" class="work-section white-section reflection">
     <div data-aos="fade-up" >
         <div class="center-wrapper">
             <div class="section-text-wrapper">

@@ -278,7 +278,7 @@
             <img class="img-fluid " src="../images/cibo-img/wireframe-1.png" alt="">
         </div>
 </section>
-<section id="reflection" class="work-section white-section">
+<section id="reflection" class="work-section reflection">
     <div data-aos="fade-up" >
         <div class="center-wrapper">
             <div class="section-text-wrapper">

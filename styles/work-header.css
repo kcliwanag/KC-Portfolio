@@ -112,6 +112,80 @@
   /* background: rgba(0, 0, 0, 0.2); */
 }
 
+.nav-color-jango {
+  background-color: #32044a;
+}
+
+.nav-color-jango .row .col:hover {
+  border-bottom: 5px solid rgb(142, 69, 237);
+  padding-top: 10px;
+  color: rgb(142, 69, 237);
+}
+
+.nav-color-oceanfins {
+  background-color: #235990;
+}
+
+.nav-color-oceanfins .row .col:hover {
+  border-bottom: 5px solid #5c9dde;
+  padding-top: 10px;
+  color: #5c9dde;
+}
+
+.nav-color-valoir {
+  background-color: #de6b13;
+}
+
+.nav-color-jango .row .col:hover {
+  border-bottom: 5px solid rgb(142, 69, 237);
+  padding-top: 10px;
+  color: rgb(142, 69, 237);
+}
+
+.nav-color-deepend {
+  background-color: #002a3c;
+}
+
+.nav-color-deepend .row .col:hover {
+  border-bottom: 5px solid #2886ae;
+  padding-top: 10px;
+  color: #2886ae;
+}
+
+.nav-color-mariscos {
+  background-color: #138c8a;
+}
+
+.nav-color-mariscos .row .col:hover {
+  border-bottom: 5px solid #26dcd9;
+  padding-top: 10px;
+  color: #26dcd9;
+}
+
+.nav-color-yummy {
+  background-color: #de4c8b;
+}
+
+.nav-color-cibo {
+  background-color: #f1a8a8;
+}
+
+.nav-color-cibo .row .col:hover {
+  border-bottom: 5px solid #f97676;
+  padding-top: 10px;
+  color: #f97676;
+}
+
+.nav-color-timeoff {
+  background-color: #505f2e;
+}
+
+.nav-color-timeoff .row .col:hover {
+  border-bottom: 5px solid #849b4d;
+  padding-top: 10px;
+  color: #849b4d;
+}
+
 @media (min-width: 768px) {
   .work-header {
     height: 92vh;
@@ -148,79 +222,5 @@
     justify-content: center;
     align-items: center;
     text-align: center;
-  }
-
-  .nav-color-jango {
-    background-color: #32044a;
-  }
-
-  .nav-color-jango .row .col:hover {
-    border-bottom: 5px solid rgb(142, 69, 237);
-    padding-top: 10px;
-    color: rgb(142, 69, 237);
-  }
-
-  .nav-color-oceanfins {
-    background-color: #235990;
-  }
-
-  .nav-color-oceanfins .row .col:hover {
-    border-bottom: 5px solid #5c9dde;
-    padding-top: 10px;
-    color: #5c9dde;
-  }
-
-  .nav-color-valoir {
-    background-color: #de6b13;
-  }
-
-  .nav-color-jango .row .col:hover {
-    border-bottom: 5px solid rgb(142, 69, 237);
-    padding-top: 10px;
-    color: rgb(142, 69, 237);
-  }
-
-  .nav-color-deepend {
-    background-color: #002a3c;
-  }
-
-  .nav-color-deepend .row .col:hover {
-    border-bottom: 5px solid #2886ae;
-    padding-top: 10px;
-    color: #2886ae;
-  }
-
-  .nav-color-mariscos {
-    background-color: #138c8a;
-  }
-
-  .nav-color-mariscos .row .col:hover {
-    border-bottom: 5px solid #26dcd9;
-    padding-top: 10px;
-    color: #26dcd9;
-  }
-
-  .nav-color-yummy {
-    background-color: #de4c8b;
-  }
-
-  .nav-color-cibo {
-    background-color: #f1a8a8;
-  }
-
-  .nav-color-cibo .row .col:hover {
-    border-bottom: 5px solid #f97676;
-    padding-top: 10px;
-    color: #f97676;
-  }
-
-  .nav-color-timeoff {
-    background-color: #505f2e;
-  }
-
-  .nav-color-timeoff .row .col:hover {
-    border-bottom: 5px solid #849b4d;
-    padding-top: 10px;
-    color: #849b4d;
   }
 }

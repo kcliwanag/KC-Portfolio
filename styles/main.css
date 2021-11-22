@@ -74,6 +74,7 @@ h4 {
 
 h5 {
   font-size: 1.4em;
+  letter-spacing: 00.15em;
 }
 
 p {
@@ -113,7 +114,7 @@ p {
 
 .parallax {
   /* Create the parallax scrolling effect */
-  background-attachment: fixed;
+  background-attachment: inherit;
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -132,4 +133,7 @@ p {
     /* font-size: 1.6em; */
     letter-spacing: 0.1em;
   }
+  .parallax {
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
 }

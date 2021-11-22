@@ -8,11 +8,17 @@
 ?>
 <section class="more-projects-container">
     <div class="container">
-        <div class="more-projects row">
-            <div class="col-sm-12 col-lg-6">
+        <div class="more-projects">
+            <!-- <div class="col-sm-12 col-lg-6">
                 <h3>More Projects</h3>
             </div>
             <div class="col-sm-12 col-lg-6 view-all-btn">
+                <a href="../index.php" .                                                                                                                        >View all
+                    <img src="../images/grey-arrow.svg" alt="Grey Arrow">
+                </a>    
+            </div> -->
+            <h3>More Projects</h3>
+            <div class="view-all-btn">
                 <a href="../index.php" .                                                                                                                        >View all
                     <img src="../images/grey-arrow.svg" alt="Grey Arrow">
                 </a>    

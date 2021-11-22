@@ -291,7 +291,7 @@
             </div>  
         </div>
         <div class="slider-container">
-            <div class="gallery-slider jango-gallery">
+            <div class="three-item">
                 <div class="item">
                     <img class="img-fluid slider-image" src="../images/jango-img/user-test-1.png"  alt="">
                 </div>
@@ -460,7 +460,7 @@
         </div>
     </div>
 </section>
-<section id="reflection" class="work-section">
+<section id="reflection" class="work-section reflection">
     <div data-aos="fade-up" >
         <div class="center-wrapper">
             <div class="section-text-wrapper">

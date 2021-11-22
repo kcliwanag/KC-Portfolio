@@ -240,7 +240,7 @@
         </div>
     </div>
 </section>
-<section id="reflection" class="work-section">
+<section id="reflection" class="work-section reflection">
     <div data-aos="fade-up" >
         <div class="center-wrapper">
             <div class="section-text-wrapper">

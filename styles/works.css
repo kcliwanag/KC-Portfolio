@@ -39,29 +39,29 @@
 }
 
 .work-bg-jango {
-  background-image: url(../images/header-covers/jango-cover-sm.jpg);
+  background-image: url(../images/header-covers/jango-cover-sm-2.png);
 }
 .work-bg-oceanfins {
-  background-image: url(../images/header-covers/ocean-fins-cover-sm.jpg);
+  background-image: url(../images/header-covers/ocean-fins-cover-sm-2.png);
 }
 .work-bg-cibo {
-  background-image: url(../images/header-covers/cibo-cover.jpg);
+  background-image: url(../images/header-covers/cibo-cover-sm-2.png);
 }
-.work-bg-yummy {
+/* .work-bg-yummy {
   background-image: url(../images/header-covers/yummy-cover-sm.jpg);
-}
+} */
 .work-bg-deepend {
-  background-image: url(../images/header-covers/deep-end-cover-sm.jpg);
+  background-image: url(../images/header-covers/deep-end-cover-sm-2.png);
 }
 .work-bg-mariscos {
-  background-image: url(../images/header-covers/mariscos-cover-sm.jpg);
+  background-image: url(../images/header-covers/mariscos-cover-sm-2.png);
 }
 .work-bg-valoir {
-  background-image: url(../images/header-covers/valoir-cover-sm.jpg);
+  background-image: url(../images/header-covers/valoir-cover-sm-2.png);
 }
 
 .work-bg-timeoff {
-  background-image: url(../images/header-covers/time-off-cover.png);
+  background-image: url(../images/header-covers/time-off-cover-sm2.png);
 }
 
 .work-preview-text {
@@ -102,6 +102,7 @@
   z-index: 1;
   border-radius: 10px;
 }
+
 @media (min-width: 768px) {
   .home-intro {
     padding: 130px 0px 100px 100px;
@@ -128,7 +129,8 @@
     background-image: url(../images/header-covers/jango-cover.jpg);
   }
   .work-bg-oceanfins {
-    background-image: url(../images/header-covers/ocean-fins-cover.jpg);
+    background-image: url(../images/header-covers/ocean-fins-cover-2.jpg);
+    background-position: center;
   }
   .work-bg-cibo {
     background-image: url(../images/header-covers/cibo-cover.jpg);
@@ -141,6 +143,7 @@
   }
   .work-bg-mariscos {
     background-image: url(../images/header-covers/mariscos-cover.jpg);
+    background-position: center;
   }
   .work-bg-valoir {
     background-image: url(../images/header-covers/valoir-cover.jpg);

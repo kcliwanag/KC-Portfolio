@@ -122,12 +122,12 @@
             </div>  
         </div>
         <div class="slider-container">
-            <div class="gallery-slider oceanfins-persona-gallery">
-                <div class="item">
-                    <img class="img-fluid my-shadow slider-image" src="../images/oceanfins-img/persona-1.png"  alt="">
-                </div>
+            <div class="single-item">
                 <div class="item">
                     <img class="img-fluid my-shadow slider-image" src="../images/oceanfins-img/persona-2.png"  alt="">
+                </div>
+                <div class="item">
+                    <img class="img-fluid my-shadow slider-image" src="../images/oceanfins-img/persona-1.png"  alt="">
                 </div>
                 <div class="item">
                     <img class="img-fluid my-shadow slider-image" src="../images/oceanfins-img/persona-3.png"  alt="">
@@ -153,7 +153,7 @@
             </div>  
         </div>
         <div class="slider-container">
-            <div class="gallery-slider oceanfins-persona-gallery">
+            <div class="three-item">
                 <div class="item">
                     <img class="img-fluid my-shadow slider-image" src="../images/oceanfins-img/stats1.png"  alt="">
                 </div>
@@ -347,7 +347,7 @@
         </div>
     </div>
 </section>
-<section id="reflection" class="work-section white-section">
+<section id="reflection" class="work-section white-section reflection">
     <div data-aos="fade-up">
         <div class="center-wrapper">
             <div class="section-text-wrapper">
