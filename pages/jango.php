@@ -8,12 +8,12 @@
 ?>
 <div class="container-fluid work-nav sticky-top nav-color-<?php echo $data['bg_prefix']?>">
     <div class="row">
-        <a href="#introduction" class="col" title=""><h3>Introduction</h3></a>
-        <a href="#research" class="col"   title=""><h3>Research</h3></a>
-        <a href="#design" class="col"  title=""><h3>Design</h3></a>
-        <a href="#validation" class="col"  title=""><h3>Validation</h3></a>
-        <a href="#final" class="col"  title=""><h3>Final</h3></a>
-        <a href="#reflection" class="col"  title=""><h3>Reflection</h3></a>
+        <a href="#introduction" class="col" title="Introduction"><h3>Introduction</h3></a>
+        <a href="#research" class="col"   title="Research"><h3>Research</h3></a>
+        <a href="#design" class="col"  title="Design"><h3>Design</h3></a>
+        <a href="#validation" class="col"  title="Validation"><h3>Validation</h3></a>
+        <a href="#final" class="col"  title="Final Re-Design"><h3>Final</h3></a>
+        <a href="#reflection" class="col"  title="Reflection"><h3>Reflection</h3></a>
     </div>
 </div> 
 
@@ -30,6 +30,7 @@
                         <p class="white-text">Music and songwriting had always been important in my life. I often get my inspiration through listening to and exploring new music. Thus, learning about the features of Jango and its unlimited, ad-free music intrigued me.</p>
                         <br>
                         <p class="white-text">As a UX student and a music enthusiast, I saw the potential to improve Jango’s site and its functionality for a better and more unique experience. In this case study, I analyze the current site, identify problems, understand its ideal users and find solutions.</p>
+                        <a href="../images/jango-img/Jango_Case_Study.pdf" title="View PDF" target="_blank" class="hover-underline-animation  line-color-<?php echo $data['bg_prefix'] ?> color-white"><i>View Full Case Study</i></a>
                     </div>
                 </div>
             </div>
@@ -92,7 +93,7 @@
             </div>  
         </div>
         <div class="center side-padding container-fluid">
-            <img class="img-fluid my-shadow max-height-1000" src="../images/jango-img/jango-user-1.png" alt="">
+            <img class="img-fluid my-shadow max-height-1000" src="../images/jango-img/jango-user-1.png" alt="The Music Explorer User Persona">
         </div>
     </div>
 </section>
@@ -113,7 +114,7 @@
             </div>  
         </div>
         <div class="center side-padding container-fluid">
-            <img class="img-fluid max-height-1000" src="../images/jango-img/jango-user-2.png" alt="">
+            <img class="img-fluid max-height-1000" src="../images/jango-img/jango-user-2.png" alt="The Music Explorer User Scenario">
         </div>
     </div>
 </section>
@@ -173,7 +174,7 @@
             <div class="row side-padding container-fluid">
                 <div class="col-sm-12 col-md-12 col-lg-12">
                     <div class="center">
-                        <img class="img-fluid max-height-1000" src="../images/jango-img/solution-1.png" alt="">
+                        <img class="img-fluid max-height-1000" src="../images/jango-img/solution-1.png" alt="Low-fidelity wireframe solution for confusing navigation">
                     </div>
                 </div>
             </div>
@@ -200,7 +201,7 @@
             <div class="row side-padding container-fluid">
                 <div class="col-sm-12 col-md-12 col-lg-12"> 
                     <div class="center">
-                        <img class="img-fluid  max-height-1000" src="../images/jango-img/solution-2.png" alt="">
+                        <img class="img-fluid  max-height-1000" src="../images/jango-img/solution-2.png" alt="Low-fidelity wireframe solution for inconsistent page layouts">
                     </div>
                 </div>
             </div>
@@ -227,7 +228,7 @@
             <div class="row side-padding container-fluid">
                 <div class="col-sm-12 col-md-12 col-lg-12">
                     <div class="center">
-                        <img class="img-fluid max-height-1000" src="../images/jango-img/solution-3.1.png" alt="">
+                        <img class="img-fluid max-height-1000" src="../images/jango-img/solution-3.1.png" alt="Low-fidelity wireframe solution for complex interface">
                     </div>
                 </div>
             </div>
@@ -254,7 +255,7 @@
             <div class="row side-padding container-fluid">
                 <div class="col-sm-12 col-md-12 col-lg-12">
                     <div class="center">
-                        <img class="img-fluid max-height-1000" src="../images/jango-img/solution-3.2.png" alt="">
+                        <img class="img-fluid max-height-1000" src="../images/jango-img/solution-3.2.png" alt="Low-fidelity wireframe solution for complex interface">
                     </div>
                 </div>
             </div>
@@ -293,16 +294,16 @@
         <div class="slider-container">
             <div class="three-item">
                 <div class="item">
-                    <img class="img-fluid slider-image" src="../images/jango-img/user-test-1.png"  alt="">
+                    <img class="img-fluid slider-image" src="../images/jango-img/user-test-1.png"  alt="Invision testing feedback of explore page">
                 </div>
                 <div class="item">
-                    <img class="img-fluid slider-image" src="../images/jango-img/user-test-2.png"  alt="">
+                    <img class="img-fluid slider-image" src="../images/jango-img/user-test-2.png"  alt="Invision testing feedback of station page">
                 </div>
                 <div class="item">
-                    <img class="img-fluid slider-image" src="../images/jango-img/user-test-3.png"  alt="">
+                    <img class="img-fluid slider-image" src="../images/jango-img/user-test-3.png"  alt="Invision testing feedback of mixing station page 1/2">
                 </div>
                 <div class="item">
-                    <img class="img-fluid slider-image" src="../images/jango-img/user-test-4.png"  alt="">
+                    <img class="img-fluid slider-image" src="../images/jango-img/user-test-4.png"  alt="Invision testing feedback of mixing station page 2/2">
                 </div>
                 </div>
             </div>
@@ -341,13 +342,13 @@
                 <div class="col-sm-12 col-md-12 col-lg-6 before-after-img">
                     <h4>Before</h4>
                     <div class="center">
-                        <img class="img-fluid my-shadow max-height-1000" src="../images/jango-img/before-1.png" alt="">
+                        <img class="img-fluid my-shadow max-height-1000" src="../images/jango-img/before-1.png" alt="Explore page current design">
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-12 col-lg-6 before-after-img">
                     <h4>After</h4>
                     <div class="center">
-                        <img class="img-fluid my-shadow max-height-1000" src="../images/jango-img/after-1.png" alt="">
+                        <img class="img-fluid my-shadow max-height-1000" src="../images/jango-img/after-1.png" alt="Explore page final re-design">
                     </div>
                 </div>
             </div>
@@ -375,13 +376,13 @@
                 <div class="col-sm-12 col-md-12 col-lg-6 before-after-img">
                     <h4>Before</h4>
                     <div class="center">
-                        <img class="img-fluid my-shadow max-height-1000" src="../images/jango-img/before-2.png" alt="">
+                        <img class="img-fluid my-shadow max-height-1000" src="../images/jango-img/before-2.png" alt="Artist page current design">
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-12 col-lg-6 before-after-img">
                     <h4>After</h4>
                     <div class="center">
-                        <img class="img-fluid my-shadow max-height-1000" src="../images/jango-img/after-2.png" alt="">
+                        <img class="img-fluid my-shadow max-height-1000" src="../images/jango-img/after-2.png" alt="Artist page final re-design">
                     </div>
                 </div>
             </div>
@@ -411,13 +412,13 @@
                 <div class="col-sm-12 col-md-12 col-lg-6 before-after-img">
                     <h4>Before</h4>
                     <div class="center">
-                        <img class="img-fluid my-shadow max-height-1000" src="../images/jango-img/before-3.png" alt="">
+                        <img class="img-fluid my-shadow max-height-1000" src="../images/jango-img/before-3.png" alt="Station player current design">
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-12 col-lg-6 before-after-img">
                     <h4>After</h4>
                     <div class="center">
-                        <img class="img-fluid my-shadow max-height-1000" src="../images/jango-img/after-3.png" alt="">
+                        <img class="img-fluid my-shadow max-height-1000" src="../images/jango-img/after-3.png" alt="Station player final re-design">
                     </div>
                 </div>
             </div>
@@ -447,13 +448,13 @@
                 <div class="col-sm-12 col-md-12 col-lg-6 before-after-img">
                     <h4>Before</h4>
                     <div class="center">
-                        <img class="img-fluid my-shadow max-height-1000" src="../images/jango-img/before-4.png" alt="">
+                        <img class="img-fluid my-shadow max-height-1000" src="../images/jango-img/before-4.png" alt="Mix station page current design">
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-12 col-lg-6 before-after-img">
                     <h4>After</h4>
                     <div class="center">
-                        <img class="img-fluid my-shadow max-height-1000" src="../images/jango-img/after-4.png" alt="">
+                        <img class="img-fluid my-shadow max-height-1000" src="../images/jango-img/after-4.png" alt="Mix station page final re-design">
                     </div>
                 </div>
             </div>
@@ -489,7 +490,7 @@
             </div>  
         </div>
         <div class="center">
-            <img class="img-fluid max-height-1000" src="../images/jango-img/jango-reflect.png" alt="">
+            <img class="img-fluid max-height-1000" src="../images/jango-img/jango-reflect.png" alt="Users in a cafe">
         </div>
     </div>
 </section>

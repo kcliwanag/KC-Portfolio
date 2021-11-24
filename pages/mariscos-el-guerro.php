@@ -9,11 +9,11 @@
 
 <div class="container-fluid work-nav sticky-top nav-color-<?php echo $data['bg_prefix'] ?>">
     <div class="row">
-        <a href="#introduction" class="col" title=""><h3>Introduction</h3></a>
-        <a href="#audience" class="col" title=""><h3>Audience</h3></a>
-        <a href="#brand-identity" class="col" title=""><h3>Brand Identity</h3></a>
-        <a href="#final" class="col" title=""><h3>Final</h3></a>
-        <a href="#reflection" class="col" title=""><h3>Reflection</h3></a>
+        <a href="#introduction" class="col" title="Introduction"><h3>Introduction</h3></a>
+        <a href="#audience" class="col" title="Audience"><h3>Audience</h3></a>
+        <a href="#brand-identity" class="col" title="Brand Identity"><h3>Brand Identity</h3></a>
+        <a href="#final" class="col" title="Final"><h3>Final</h3></a>
+        <a href="#reflection" class="col" title="Reflection"><h3>Reflection</h3></a>
     </div>
 </div> 
 <section id="introduction" class="relative">
@@ -91,12 +91,12 @@
             <div class="row side-padding container-fluid">
                 <div class="col-sm-12 col-md-12 col-lg-6 pb-3">
                     <div class="center">
-                        <img class="img-fluid my-shadow max-height-1000" src="../images/mariscos-img/audience.jpg" alt="">
+                        <img class="img-fluid my-shadow max-height-1000" src="../images/mariscos-img/audience.jpg" alt="KC's sister happy with a pinepple dish">
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-12 col-lg-6 pb-3">
                     <div class="center">
-                        <img class="img-fluid my-shadow max-height-1000" src="../images/mariscos-img/audience-2.jpg" alt="">
+                        <img class="img-fluid my-shadow max-height-1000" src="../images/mariscos-img/audience-2.jpg" alt="KC and family members in Mariscos El Guerro">
                     </div>
                 </div>
             </div>
@@ -131,7 +131,7 @@
             </div>  
         </div>
         <div class="center side-padding">
-            <img class="img-fluid " src="../images/mariscos-img/mariscos-color-scheme.png" alt="">
+            <img class="img-fluid " src="../images/mariscos-img/mariscos-color-scheme.png" alt="Blue, orange,red and beige colors">
         </div>
     </div>
 </section>
@@ -154,7 +154,7 @@
             </div>  
         </div>
         <div class="center side-padding">
-            <img class="img-fluid max-height-300" src="../images/mariscos-img/typography.png" alt="">
+            <img class="img-fluid max-height-300" src="../images/mariscos-img/typography.png" alt="Cucciolo and Helvetica Neue fonts">
         </div>
 </section>
 <section class="work-section white-section">
@@ -174,7 +174,7 @@
             </div>  
         </div>
         <div class="center side-padding">
-            <img class="img-fluid " src="../images/mariscos-img/logo-colored.png" alt="">
+            <img class="img-fluid " src="../images/mariscos-img/logo-colored.png" alt="Fish in a sombrero logo">
         </div>
 </section>
 <section id="final" class="work-section">
@@ -211,21 +211,18 @@
             </div>  
         </div>
         <div class="slider-container">
-            <div class="gallery-slider deepend-logo-gallery">
+            <div class="three-item">
                 <div class="item">
-                    <img class="img-fluid slider-image" src="../images/mariscos-img/menu-1.png" alt="">
+                    <img class="img-fluid slider-image" src="../images/mariscos-img/menu-1.png" alt="Front cover menu design">
                 </div>
                 <div class="item">
-                    <img class="img-fluid slider-image" src="../images/mariscos-img/menu-2.png" alt="">
+                    <img class="img-fluid slider-image" src="../images/mariscos-img/menu-2.png" alt="Entrees page menu design ">
                 </div>
                 <div class="item">
-                    <img class="img-fluid slider-image" src="../images/mariscos-img/menu-3.png" alt="">
+                    <img class="img-fluid slider-image" src="../images/mariscos-img/menu-3.png" alt="Tacos page menu design">
                 </div>
                 <div class="item">
-                    <img class="img-fluid slider-image" src="../images/mariscos-img/menu-4.png" alt="">
-                </div>
-                <div class="item">
-                    <img class="img-fluid slider-image" src="../images/mariscos-img/menu-5.png" alt="">
+                    <img class="img-fluid slider-image" src="../images/mariscos-img/menu-4.png" alt="Drinks page menu design">
                 </div>
             </div>
         </div>
@@ -259,7 +256,7 @@
             </div>  
         </div>
         <div class="center">
-            <img class="img-fluid" src="../images/mariscos-img/reflect.png" alt="">
+            <img class="img-fluid" src="../images/mariscos-img/reflect.png" alt="Fish logo on waves graphic">
         </div>
     </div>
 </section>

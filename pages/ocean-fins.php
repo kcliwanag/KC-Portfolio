@@ -9,11 +9,11 @@
 
 <div class="container-fluid work-nav sticky-top nav-color-<?php echo $data['bg_prefix'] ?>">
     <div class="row">
-        <a href="#introduction" class="col" title=""><h3>Introduction</h3></a>
-        <a href="#research" class="col" title=""><h3>Research</h3></a>
-        <a href="#ideation" class="col" title=""><h3>Ideation</h3></a>
-        <a href="#design" class="col" title=""><h3>Design</h3></a>
-        <a href="#reflection" class="col" title=""><h3>Reflection</h3></a>
+        <a href="#introduction" class="col" title="Introduction"><h3>Introduction</h3></a>
+        <a href="#research" class="col" title="Research"><h3>Research</h3></a>
+        <a href="#ideation" class="col" title="Ideation"><h3>Ideation</h3></a>
+        <a href="#design" class="col" title="Design"><h3>Design</h3></a>
+        <a href="#reflection" class="col" title="Reflection"><h3>Reflection</h3></a>
     </div>
 </div> 
 
@@ -93,12 +93,12 @@
             <div class="row side-padding container-fluid">
                 <div class="col-sm-12 col-md-12 col-lg-6 pb-3">
                     <div class="center">
-                        <img class="img-fluid my-shadow max-height-1000" src="../images/oceanfins-img/audience-1.png" alt="">
+                        <img class="img-fluid my-shadow max-height-1000" src="../images/oceanfins-img/audience-1.png" alt="Primary Audience: Working Professionals">
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-12 col-lg-6 pb-3">
                     <div class="center">
-                        <img class="img-fluid my-shadow max-height-1000" src="../images/oceanfins-img/audience-2.png" alt="">
+                        <img class="img-fluid my-shadow max-height-1000" src="../images/oceanfins-img/audience-2.png" alt="Secondary Audience: Post-Secondary Students">
                     </div>
                 </div>
             </div>
@@ -124,13 +124,13 @@
         <div class="slider-container">
             <div class="single-item">
                 <div class="item">
-                    <img class="img-fluid my-shadow slider-image" src="../images/oceanfins-img/persona-2.png"  alt="">
+                    <img class="img-fluid my-shadow slider-image" src="../images/oceanfins-img/persona-2.png"  alt="Wildlife Enthusiast Persona">
                 </div>
                 <div class="item">
-                    <img class="img-fluid my-shadow slider-image" src="../images/oceanfins-img/persona-1.png"  alt="">
+                    <img class="img-fluid my-shadow slider-image" src="../images/oceanfins-img/persona-1.png"  alt="Innovative Leader Persona">
                 </div>
                 <div class="item">
-                    <img class="img-fluid my-shadow slider-image" src="../images/oceanfins-img/persona-3.png"  alt="">
+                    <img class="img-fluid my-shadow slider-image" src="../images/oceanfins-img/persona-3.png"  alt="Marine Biologist Professor Persona">
                 </div>
             </div>
         </div>
@@ -155,13 +155,13 @@
         <div class="slider-container">
             <div class="three-item">
                 <div class="item">
-                    <img class="img-fluid my-shadow slider-image" src="../images/oceanfins-img/stats1.png"  alt="">
+                    <img class="img-fluid my-shadow slider-image" src="../images/oceanfins-img/stats1.png"  alt="Existing Site Statistics">
                 </div>
                 <div class="item">
-                    <img class="img-fluid my-shadow slider-image" src="../images/oceanfins-img/stats2.png"  alt="">
+                    <img class="img-fluid my-shadow slider-image" src="../images/oceanfins-img/stats2.png"  alt="Email Campaign Statistics">
                 </div>
                 <div class="item">
-                    <img class="img-fluid my-shadow slider-image" src="../images/oceanfins-img/stats3.png"  alt="">
+                    <img class="img-fluid my-shadow slider-image" src="../images/oceanfins-img/stats3.png"  alt="Third Party Analysis">
                 </div>
             </div>
         </div>
@@ -174,7 +174,7 @@
                 <div class="container-fluid">
                     <div class="row">
                         <div class="col-sm-12 col-md-12 col-lg-4 color-<?php echo $data['bg_prefix'] ?>">
-                            <h3 class="color-<?php echo $data['bg_prefix'] ?>">COMPETITVE ANALYSIS</h3>
+                            <h3 class="color-<?php echo $data['bg_prefix'] ?>">COMPETITIVE ANALYSIS</h3>
                         </div>
                         <div class="col-sm-12 col-md-12 col-lg-8">
                             <p>We performed a competitive analysis other ocean conservation agency sites to compare and understand their competitors’ strengths and weaknesses. By doing this, we can avoid errors as well as gather inspiration to identify opportunities for new features and improvements.</p>
@@ -186,13 +186,13 @@
         <div class="slider-container">
             <div class="gallery-slider oceanfins-persona-gallery">
                 <div class="item">
-                    <img class="img-fluid my-shadow slider-image" src="../images/oceanfins-img/competitive-1.png"  alt="">
+                    <img class="img-fluid my-shadow slider-image" src="../images/oceanfins-img/competitive-1.png"  alt="Oceanic Preservation Society Site Analysis">
                 </div>
                 <div class="item">
-                    <img class="img-fluid my-shadow slider-image" src="../images/oceanfins-img/competitive-2.png"  alt="">
+                    <img class="img-fluid my-shadow slider-image" src="../images/oceanfins-img/competitive-2.png"  alt="Sea Sheperd Site Analysis">
                 </div>
                 <div class="item">
-                    <img class="img-fluid my-shadow slider-image" src="../images/oceanfins-img/competitive-3.png"  alt="">
+                    <img class="img-fluid my-shadow slider-image" src="../images/oceanfins-img/competitive-3.png"  alt="Save The Whales Site Analysis">
                 </div>
             </div>
         </div>
@@ -245,7 +245,7 @@
             </div>  
         </div>
         <div class="center side-padding">
-            <img class="img-fluid my-shadow" src="../images/oceanfins-img/flowchart.png" alt="">
+            <img class="img-fluid my-shadow" src="../images/oceanfins-img/flowchart.png" alt="Donation Flowchart">
         </div>
     </div>
 </section>
@@ -277,16 +277,16 @@
         <div class="slider-container">
             <div class="gallery-slider oceanfins-persona-gallery">
                 <div class="item">
-                    <img class="img-fluid my-shadow slider-image" src="../images/oceanfins-img/desktop-1.png"  alt="">
+                    <img class="img-fluid my-shadow slider-image" src="../images/oceanfins-img/desktop-1.png"  alt="Learn page wireframe">
                 </div>
                 <div class="item">
-                    <img class="img-fluid my-shadow slider-image" src="../images/oceanfins-img/desktop-2.png"  alt="">
+                    <img class="img-fluid my-shadow slider-image" src="../images/oceanfins-img/desktop-2.png"  alt="Donate page 1/3">
                 </div>
                 <div class="item">
-                    <img class="img-fluid my-shadow slider-image" src="../images/oceanfins-img/desktop-3.png"  alt="">
+                    <img class="img-fluid my-shadow slider-image" src="../images/oceanfins-img/desktop-3.png"  alt="Donate page 2/3">
                 </div>
                 <div class="item">
-                    <img class="img-fluid my-shadow slider-image" src="../images/oceanfins-img/desktop-4.png"  alt="">
+                    <img class="img-fluid my-shadow slider-image" src="../images/oceanfins-img/desktop-4.png"  alt="Donate page 3/3">
                 </div>
             </div>
         </div>
@@ -311,16 +311,16 @@
         <div class="slider-container">
             <div class="gallery-slider oceanfins-persona-gallery">
                 <div class="item">
-                    <img class="img-fluid my-shadow slider-image" src="../images/oceanfins-img/mobile-1.png"  alt="">
+                    <img class="img-fluid my-shadow slider-image" src="../images/oceanfins-img/mobile-1.png"  alt="Home page wireframe">
                 </div>
                 <div class="item">
-                    <img class="img-fluid my-shadow slider-image" src="../images/oceanfins-img/mobile-2.png"  alt="">
+                    <img class="img-fluid my-shadow slider-image" src="../images/oceanfins-img/mobile-2.png"  alt="Learn page wireframe">
                 </div>
                 <div class="item">
-                    <img class="img-fluid my-shadow slider-image" src="../images/oceanfins-img/mobile-3.png"  alt="">
+                    <img class="img-fluid my-shadow slider-image" src="../images/oceanfins-img/mobile-3.png"  alt="Donate page wireframe 1/2">
                 </div>
                 <div class="item">
-                    <img class="img-fluid my-shadow slider-image" src="../images/oceanfins-img/mobile-4.png"  alt="">
+                    <img class="img-fluid my-shadow slider-image" src="../images/oceanfins-img/mobile-4.png"  alt="Donate page wireframe 2/2">
                 </div>
             </div>
         </div>
@@ -343,7 +343,7 @@
             </div>  
         </div>
         <div class="center side-padding">
-            <img class="img-fluid my-shadow" src="../images/oceanfins-img/style-tile.png" alt="">
+            <img class="img-fluid my-shadow" src="../images/oceanfins-img/style-tile.png" alt="Ocean Fins Style Tile">
         </div>
     </div>
 </section>
@@ -373,7 +373,7 @@
             </div>  
         </div>
         <div class="center">
-            <img class="parallax img-fluid my-shadow max-height-1000" src="../images/oceanfins-img/boat.jpg" alt="">
+            <img class="parallax img-fluid my-shadow max-height-1000" src="../images/oceanfins-img/boat.jpg" alt="Person standing on a boat background">
         </div>
     </div>
 </section>

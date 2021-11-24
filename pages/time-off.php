@@ -9,11 +9,11 @@
 
 <div class="container-fluid work-nav sticky-top nav-color-<?php echo $data['bg_prefix'] ?>">
     <div class="row">
-        <a href="#introduction" class="col" title=""><h3>Introduction</h3></a>
-        <a href="#ideation" class="col" title=""><h3>Ideation</h3></a>
-        <a href="#branding" class="col" title=""><h3>Branding</h3></a>
-        <a href="#wireframes" class="col" title=""><h3>Wireframes</h3></a>
-        <a href="#reflection" class="col" title=""><h3>Reflection</h3></a>
+        <a href="#introduction" class="col" title="Introduction"><h3>Introduction</h3></a>
+        <a href="#ideation" class="col" title="Ideation"><h3>Ideation</h3></a>
+        <a href="#branding" class="col" title="Branding"><h3>Branding</h3></a>
+        <a href="#wireframes" class="col" title="Wireframes"><h3>Wireframes</h3></a>
+        <a href="#reflection" class="col" title="Reflection"><h3>Reflection</h3></a>
     </div>
 </div> 
 
@@ -90,7 +90,7 @@
             <div class="row side-padding container-fluid">
                 <div class="col-sm-12 col-md-12 col-lg-12">
                     <div class="center">
-                        <img class="img-fluid my-shadow max-height-1000" src="../images/timeoff-img/brainstorm.png" alt="">
+                        <img class="img-fluid my-shadow max-height-1000" src="../images/timeoff-img/brainstorm.png" alt="Brainstorming of company and online store">
                     </div>
                 </div>
             </div>
@@ -117,7 +117,7 @@
             <div class="row side-padding container-fluid">
                 <div class="col-sm-12 col-md-12 col-lg-12">
                     <div class="center">
-                        <img class="img-fluid my-shadow max-height-1000" src="../images/timeoff-img/brainstorm.png" alt="">
+                        <img class="img-fluid my-shadow max-height-1000" src="../images/timeoff-img/brainstorm.png" alt="Site map of online store">
                     </div>
                 </div>
             </div>
@@ -151,7 +151,7 @@
             </div>  
         </div>
         <div class="center side-padding">
-            <img class="img-fluid shadow" src="../images/timeoff-img/mood-board.png" alt="">
+            <img class="img-fluid shadow" src="../images/timeoff-img/mood-board.png" alt="Mood board for company branding">
         </div>
     </div>
 </section>
@@ -174,16 +174,16 @@
         <div class="slider-container">
             <div class="gallery-slider">
                 <div class="item">
-                    <img class="img-fluid slider-image" src="../images/timeoff-img/product-1.jpeg" alt="">
+                    <img class="img-fluid slider-image" src="../images/timeoff-img/product-1.jpeg" alt="Time/off Full Matcha Pack">
                 </div>
                 <div class="item">
-                    <img class="img-fluid slider-image" src="../images/timeoff-img/product-2.jpeg" alt="">
+                    <img class="img-fluid slider-image" src="../images/timeoff-img/product-2.jpeg" alt="Time/off Box of Daily Sachets">
                 </div>
                 <div class="item">
-                    <img class="img-fluid slider-image" src="../images/timeoff-img/product-4.png" alt="">
+                    <img class="img-fluid slider-image" src="../images/timeoff-img/product-4.png" alt="Time/off Box of Daily Sachets + Chawan Set">
                 </div>
                 <div class="item">
-                    <img class="img-fluid slider-image" src="../images/timeoff-img/product-5.jpeg" alt="">
+                    <img class="img-fluid slider-image" src="../images/timeoff-img/product-5.jpeg" alt="Time/off Chawan + Chasen Set">
                 </div>
             </div>
         </div>
@@ -214,7 +214,7 @@
             </div>  
         </div>
         <div class="center side-padding">
-            <img class="img-fluid shadow" src="../images/timeoff-img/home.png" alt="">
+            <img class="img-fluid shadow" src="../images/timeoff-img/home.png" alt="Home page hi-fidelity wireframe">
         </div>
     </div>
 </section>
@@ -235,7 +235,7 @@
             </div>  
         </div>
         <div class="center side-padding">
-            <img class="img-fluid shadow" src="../images/timeoff-img/shop.png" alt="">
+            <img class="img-fluid shadow" src="../images/timeoff-img/shop.png" alt="Store page hi-fidelity wireframe">
         </div>
 </section>
 <section class="work-section">
@@ -255,7 +255,7 @@
             </div>  
         </div>
         <div class="center side-padding">
-            <img class="img-fluid shadow" src="../images/timeoff-img/product-page.png" alt="">
+            <img class="img-fluid shadow" src="../images/timeoff-img/product-page.png" alt="Product page hi-fidelity wireframe">
         </div>
 </section>
 <section class="work-section white-section">
@@ -275,7 +275,7 @@
             </div>  
         </div>
         <div class="center side-padding">
-            <img class="img-fluid " src="../images/cibo-img/wireframe-1.png" alt="">
+            <img class="img-fluid " src="../images/cibo-img/wireframe-1.png" alt="Checkout page hi-fidelity wireframe">
         </div>
 </section>
 <section id="reflection" class="work-section reflection">
@@ -308,7 +308,7 @@
             </div>  
         </div>
         <div class="center">
-            <img class="img-fluid" src="../images/cibo-img/cibo-reflect.png" alt="">
+            <img class="img-fluid" src="../images/cibo-img/cibo-reflect.png" alt="Time/off products">
         </div>
     </div>
 </section>

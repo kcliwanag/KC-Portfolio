@@ -119,6 +119,13 @@ p {
   background-size: cover;
 }
 
+.parallax.work-intro {
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 @media (min-width: 768px) {
   h1 {
     font-size: 5em;
@@ -136,4 +143,5 @@ p {
   .parallax {
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
+  }
 }

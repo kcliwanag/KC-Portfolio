@@ -9,11 +9,11 @@
 
 <div class="container-fluid work-nav sticky-top nav-color-<?php echo $data['bg_prefix'] ?>">
     <div class="row">
-        <a href="#introduction" class="col" title=""><h3>Introduction</h3></a>
-        <a href="#the-market" class="col" title=""><h3>The Market</h3></a>
-        <a href="#ideation" class="col" title=""><h3>Ideation</h3></a>
-        <a href="#prototypes" class="col" title=""><h3>Prototypes</h3></a>
-        <a href="#reflection" class="col" title=""><h3>Reflection</h3></a>
+        <a href="#introduction" class="col" title="Introduction"><h3>Introduction</h3></a>
+        <a href="#the-market" class="col" title="The Market"><h3>The Market</h3></a>
+        <a href="#ideation" class="col" title="Ideation"><h3>Ideation</h3></a>
+        <a href="#prototypes" class="col" title="Prototypes"><h3>Prototypes</h3></a>
+        <a href="#reflection" class="col" title="Reflection"><h3>Reflection</h3></a>
     </div>
 </div> 
 
@@ -94,7 +94,7 @@
             <div class="row side-padding container-fluid">
                 <div class="col-sm-12 col-md-12 col-lg-12 ">
                     <div class="center">
-                        <img class="img-fluid my-shadow max-height-1000" src="../images/cibo-img/viability.jpeg" alt="">
+                        <img class="img-fluid my-shadow max-height-1000" src="../images/cibo-img/viability.jpeg" alt="Recipe Apps Market chart">
                     </div>
                 </div>
             </div>
@@ -121,12 +121,12 @@
             <div class="row side-padding container-fluid">
                 <div class="col-sm-12 col-md-12 col-lg-6 pb-3">
                     <div class="center">
-                        <img class="img-fluid my-shadow max-height-1000" src="../images/cibo-img/audience-1.png" alt="">
+                        <img class="img-fluid my-shadow max-height-1000" src="../images/cibo-img/audience-1.png" alt="Busy Single Parent persona">
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-12 col-lg-6 pb-3">
                     <div class="center">
-                        <img class="img-fluid my-shadow max-height-1000" src="../images/cibo-img/audience-2.png" alt="">
+                        <img class="img-fluid my-shadow max-height-1000" src="../images/cibo-img/audience-2.png" alt="Cost-conscious Student persona">
                     </div>
                 </div>
             </div>
@@ -171,13 +171,13 @@
         <div class="slider-container">
             <div class="three-item">
                 <div class="item">
-                    <img class="img-fluid slider-image" src="../images/cibo-img/competitor-1.png" alt="">
+                    <img class="img-fluid slider-image" src="../images/cibo-img/competitor-1.png" alt="Yummy App Review">
                 </div>
                 <div class="item">
-                    <img class="img-fluid slider-image" src="../images/cibo-img/competitor-2.png" alt="">
+                    <img class="img-fluid slider-image" src="../images/cibo-img/competitor-2.png" alt="Mealime App Review">
                 </div>
                 <div class="item">
-                    <img class="img-fluid slider-image" src="../images/cibo-img/competitor-3.png" alt="">
+                    <img class="img-fluid slider-image" src="../images/cibo-img/competitor-3.png" alt="Tasty App Review">
                 </div>
             </div>
         </div>
@@ -200,7 +200,7 @@
             </div>  
         </div>
         <div class="center side-padding">
-            <img class="img-fluid max-height-1000" src="../images/cibo-img/position.png" alt="">
+            <img class="img-fluid max-height-1000" src="../images/cibo-img/position.png" alt="CIBO's marketing position">
         </div>
     </div>
 </section>
@@ -234,7 +234,7 @@
             </div>  
         </div>
         <div class="center side-padding">
-            <img class="img-fluid " src="../images/cibo-img/wireframe-1.png" alt="">
+            <img class="img-fluid " src="../images/cibo-img/wireframe-1.png" alt="Customize servings wireframe">
         </div>
     </div>
 </section>
@@ -255,7 +255,7 @@
             </div>  
         </div>
         <div class="center side-padding">
-            <img class="img-fluid max-height-1000 " src="../images/cibo-img/wireframe-2.png" alt="">
+            <img class="img-fluid max-height-1000 " src="../images/cibo-img/wireframe-2.png" alt="My Fridge wireframe">
         </div>
 </section>
 <section class="work-section">
@@ -275,7 +275,7 @@
             </div>  
         </div>
         <div class="center side-padding">
-            <img class="img-fluid max-height-1000 " src="../images/cibo-img/wireframe-4.png" alt="">
+            <img class="img-fluid max-height-1000 " src="../images/cibo-img/wireframe-4.png" alt="Filter recipes wireframe">
         </div>
 </section>
 <section class="work-section white-section">
@@ -295,7 +295,7 @@
             </div>  
         </div>
         <div class="center side-padding">
-            <img class="img-fluid " src="../images/cibo-img/wireframe-3.png" alt="">
+            <img class="img-fluid " src="../images/cibo-img/wireframe-3.png" alt="CIBO notification wireframes">
         </div>
 </section>
 <section id="prototypes" class="work-section">
@@ -326,16 +326,16 @@
         <div class="slider-container">
             <div class="single-item">
                 <div class="item">
-                    <img class="img-fluid slider-image" src="../images/cibo-img/onboard-2.png" alt="">
+                    <img class="img-fluid slider-image" src="../images/cibo-img/onboard-2.png" alt="Welcome carousel 1/3">
                 </div>
                 <div class="item">
-                    <img class="img-fluid slider-image" src="../images/cibo-img/onboard-3.png" alt="">
+                    <img class="img-fluid slider-image" src="../images/cibo-img/onboard-3.png" alt="Welcome carousel 2/3">
                 </div>
                 <div class="item">
-                    <img class="img-fluid slider-image" src="../images/cibo-img/onboard-4.png" alt="">
+                    <img class="img-fluid slider-image" src="../images/cibo-img/onboard-4.png" alt="Welcome carousel 3/3">
                 </div>
                 <div class="item">
-                    <img class="img-fluid slider-image" src="../images/cibo-img/onboard-1.png" alt="">
+                    <img class="img-fluid slider-image" src="../images/cibo-img/onboard-1.png" alt="Create an account screen">
                 </div>
             </div>
         </div>
@@ -360,16 +360,16 @@
         <div class="slider-container">
             <div class="single-item">
                 <div class="item">
-                    <img class="img-fluid slider-image" src="../images/cibo-img/major-2.png" alt="">
+                    <img class="img-fluid slider-image" src="../images/cibo-img/major-2.png" alt="Explore Tab">
                 </div>
                 <div class="item">
-                    <img class="img-fluid slider-image" src="../images/cibo-img/major-3.png" alt="">
+                    <img class="img-fluid slider-image" src="../images/cibo-img/major-3.png" alt="My Fridge Tab">
                 </div>
                 <div class="item">
-                    <img class="img-fluid slider-image" src="../images/cibo-img/major-1.png" alt="">
+                    <img class="img-fluid slider-image" src="../images/cibo-img/major-1.png" alt="Saved Recipes Tab">
                 </div>
                 <div class="item">
-                    <img class="img-fluid slider-image" src="../images/cibo-img/major-4.png" alt="">
+                    <img class="img-fluid slider-image" src="../images/cibo-img/major-4.png" alt="My Account Tab">
                 </div>
             </div>
         </div>
@@ -393,13 +393,13 @@
         <div class="slider-container">
             <div class="single-item">
                 <div class="item">
-                    <img class="img-fluid slider-image" src="../images/cibo-img/major-2.png" alt="">
+                    <img class="img-fluid slider-image" src="../images/cibo-img/major-2.png" alt="Explore Tab">
                 </div>
                 <div class="item">
-                    <img class="img-fluid slider-image" src="../images/cibo-img/onboard-5.png" alt="">
+                    <img class="img-fluid slider-image" src="../images/cibo-img/onboard-5.png" alt="Add An Ingredient feature ">
                 </div>
                 <div class="item">
-                    <img class="img-fluid slider-image" src="../images/cibo-img/major-3.png" alt="">
+                    <img class="img-fluid slider-image" src="../images/cibo-img/major-3.png" alt="My Fridge Tab">
                 </div>
             </div>
         </div>
@@ -434,7 +434,7 @@
             </div>  
         </div>
         <div class="center">
-            <img class="img-fluid" src="../images/cibo-img/cibo-reflect.png" alt="">
+            <img class="img-fluid" src="../images/cibo-img/cibo-reflect.png" alt="CIBO App background">
         </div>
     </div>
 </section>

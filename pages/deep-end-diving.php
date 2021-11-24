@@ -9,11 +9,11 @@
 
 <div class="container-fluid work-nav sticky-top nav-color-<?php echo $data['bg_prefix'] ?>">
     <div class="row">
-        <a href="#introduction" class="col" title=""><h3>Introduction</h3></a>
-        <a href="#logo" class="col" title=""><h3>Logo</h3></a>
-        <a href="#3d-mockup" class="col" title=""><h3>3D Mockup</h3></a>
-        <a href="#stationery-set" class="col" title=""><h3>Stationery Set</h3></a>
-        <a href="#reflection" class="col" title=""><h3>Reflection</h3></a>
+        <a href="#introduction" class="col" title="Introduction"><h3>Introduction</h3></a>
+        <a href="#logo" class="col" title="Logo"><h3>Logo</h3></a>
+        <a href="#3d-mockup" class="col" title="3D Mockup"><h3>3D Mockup</h3></a>
+        <a href="#stationery-set" class="col" title="Stationery Set"><h3>Stationery Set</h3></a>
+        <a href="#reflection" class="col" title="Reflection"><h3>Reflection</h3></a>
     </div>
 </div> 
 
@@ -66,19 +66,19 @@
         <div class="slider-container">
             <div class="gallery-slider deepend-logo-gallery">
                 <div class="item">
-                    <img class="img-fluid slider-image" src="../images/deepend-img/SVG/thumb-1.svg" alt="">
+                    <img class="img-fluid slider-image" src="../images/deepend-img/SVG/thumb-1.svg" alt="Snorkeling fish logo thumbnnail">
                 </div>
                 <div class="item">
-                    <img class="img-fluid slider-image" src="../images/deepend-img/SVG/thumb-2.svg" alt="">
+                    <img class="img-fluid slider-image" src="../images/deepend-img/SVG/thumb-2.svg" alt="Anchor logo thumbnail">
                 </div>
                 <div class="item">
-                    <img class="img-fluid slider-image" src="../images/deepend-img/SVG/thumb-3.svg" alt="">
+                    <img class="img-fluid slider-image" src="../images/deepend-img/SVG/thumb-3.svg" alt="Diving turtle logo thumbnail">
                 </div>
                 <div class="item">
-                    <img class="img-fluid slider-image" src="../images/deepend-img/SVG/thumb-4.svg" alt="">
+                    <img class="img-fluid slider-image" src="../images/deepend-img/SVG/thumb-4.svg" alt="Target logo thumbnail">
                 </div>
                 <div class="item">
-                    <img class="img-fluid slider-image" src="../images/deepend-img/SVG/thumb-5.svg" alt="">
+                    <img class="img-fluid slider-image" src="../images/deepend-img/SVG/thumb-5.svg" alt="Antique diver suit logo thumbnail">
                 </div>
             </div>
         </div>
@@ -103,22 +103,22 @@
         <div class="slider-container">
             <div class="gallery-slider deepend-logo-gallery">
                 <div class="item">
-                    <img class="img-fluid slider-image" src="../images/deepend-img/SVG/rough-3.svg"  alt="">
+                    <img class="img-fluid slider-image" src="../images/deepend-img/SVG/rough-3.svg"  alt="Anchor logo wth color">
                 </div>
                 <div class="item">
-                    <img class="img-fluid slider-image" src="../images/deepend-img/SVG/rough-4.svg"  alt="">
+                    <img class="img-fluid slider-image" src="../images/deepend-img/SVG/rough-4.svg"  alt="Anchor logo with gradient">
                 </div>
                 <div class="item">
-                    <img class="img-fluid slider-image" src="../images/deepend-img/SVG/rough-5.svg"  alt="">
+                    <img class="img-fluid slider-image" src="../images/deepend-img/SVG/rough-5.svg"  alt="Turtle logo with color">
                 </div>
                 <div class="item">
-                    <img class="img-fluid slider-image" src="../images/deepend-img/SVG/rough-6.svg"  alt="">
+                    <img class="img-fluid slider-image" src="../images/deepend-img/SVG/rough-6.svg"  alt="Turtle logo with gradient">
                 </div>
                 <div class="item">
-                    <img class="img-fluid slider-image" src="../images/deepend-img/SVG/rough-1.svg"  alt="">
+                    <img class="img-fluid slider-image" src="../images/deepend-img/SVG/rough-1.svg"  alt="Antique diver suit logo with color">
                 </div>
                 <div class="item">
-                    <img class="img-fluid slider-image" src="../images/deepend-img/SVG/rough-2.jpg"  alt="">
+                    <img class="img-fluid slider-image" src="../images/deepend-img/SVG/rough-2.jpg"  alt="Antique diver suit logo with gradients">
                 </div>
                 </div>
             </div>
@@ -142,7 +142,7 @@
             </div>  
         </div>
         <div class="center side-padding">
-            <img class="img-fluid max-height-500" src="../images/deepend-img/SVG/final.svg" alt="">
+            <img class="img-fluid max-height-500" src="../images/deepend-img/SVG/final.svg" alt="Turtle logo with color">
         </div>
     </div>
 </section>
@@ -172,7 +172,7 @@
             </div>  
         </div>
         <div class="center side-padding">
-            <img class="img-fluid my-shadow" src="../images/deepend-img/KCLiwanag_PosterMockup.png" alt="">
+            <img class="img-fluid my-shadow" src="../images/deepend-img/KCLiwanag_PosterMockup.png" alt="Water bottle 3D mockup on a beach background ">
         </div>
     </div>
 </section>
@@ -203,7 +203,7 @@
             </div>  
         </div>
         <div class="center side-padding">
-            <img class="img-fluid my-shadow max-height-1000" src="../images/deepend-img/deep-end-mood-board.png" alt="">
+            <img class="img-fluid my-shadow max-height-1000" src="../images/deepend-img/deep-end-mood-board.png" alt="Deep End Diving mood board">
         </div>
     </div>
 </section>
@@ -225,18 +225,18 @@
         </div>
         <div class="center pb-5 side-padding">
             <div class="front-img">
-                <img class="img-fluid my-shadow max-height-300" src="../images/deepend-img/business-card-1.png"  alt="">
-                <img class="img-fluid my-shadow img-top max-height-500" src="../images/deepend-img/business-card-2.png" alt="">
+                <img class="img-fluid my-shadow max-height-300" src="../images/deepend-img/business-card-1.png"  alt="Front of business card design">
+                <img class="img-fluid my-shadow img-top max-height-500" src="../images/deepend-img/business-card-2.png" alt="Back of business card design">
             </div>
         </div>
         <div class="center pb-5 side-padding">
             <div class="front-img">
-                <img class="img-fluid my-shadow  max-height-500" src="../images/deepend-img/envelope-1.png" alt="">
-                <img class="img-fluid my-shadow img-top" src="../images/deepend-img/envelope-2.png" alt="">
+                <img class="img-fluid my-shadow  max-height-500" src="../images/deepend-img/envelope-1.png" alt="Front of envelope design">
+                <img class="img-fluid my-shadow img-top" src="../images/deepend-img/envelope-2.png" alt="Back of envelope design">
             </div>
         </div>
         <div class="center side-padding">
-            <img class="img-fluid my-shadow" src="../images/deepend-img/letterhead.png" alt="">
+            <img class="img-fluid my-shadow" src="../images/deepend-img/letterhead.png" alt="Letterhead design">
         </div>
     </div>
 </section>
@@ -270,7 +270,7 @@
             </div>  
         </div>
         <div class="center">
-            <img class="img-fluid my-shadow" src="../images/deepend-img/KC_Liwanag_StationeryMockups.jpg" alt="">
+            <img class="img-fluid my-shadow" src="../images/deepend-img/KC_Liwanag_StationeryMockups.jpg" alt="Deep End Diving stationery set">
         </div>
     </div>
 </section>
