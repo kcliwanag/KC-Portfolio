@@ -30,6 +30,7 @@
                         <p class="white-text">As a food enthusiast and a novice home cook myself, I've tried many recipe apps – most are quite similar and already have the main features I am looking for. Although some apps aim to tackle the costly issue of food waste, many more could advocate for this environmental concern.</p>
                         <br>
                         <p class="white-text">I've proposed a kitchen app solution that with features that both value and benefit the end-users as well as the environment. I collaborated with a team of UX / UI designers, Nick Turda, Tiffany Chu and Christine Le to design the app's processes and interfaces. </p>
+                        <a href="../images/jango-img/jango-case-study.pdf" title="View PDF" target="_blank"><div class="pdf-btn pdf-btn-<?php echo $data['bg_prefix'] ?>">VIEW FULL PDF</div></a>
                     </div>
                 </div>
             </div>

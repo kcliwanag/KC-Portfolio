@@ -51,7 +51,17 @@ a {
 .pdf-btn-jango:hover {
   background-color: rgba(142, 69, 237, 0.4);
   border: 2px solid rgba(142, 69, 237, 1);
-  color: rgb(177, 119, 252);
+  /* color: rgb(177, 119, 252);‰ */
+}
+.pdf-btn-cibo {
+  background-color: rgba(237, 136, 136, 0.6);
+  border: 2px solid rgba(255, 138, 138, 0);
+}
+
+.pdf-btn-cibo:hover {
+  background-color: rgba(237, 136, 136, 0.8);
+  border: 2px solid rgb(250, 119, 119);
+  /* color: rgba(255, 138, 138, 1); */
 }
 
 .pdf-btn-oceanfins {
@@ -62,7 +72,29 @@ a {
 .pdf-btn-oceanfins:hover {
   background-color: rgba(79, 138, 196, 0.4);
   border: 2px solid rgba(79, 138, 196, 1);
-  color: rgba(79, 138, 196, 1);
+  /* color: rgba(79, 138, 196, 1); */
+}
+
+.pdf-btn-mariscos {
+  background-color: rgba(19, 140, 138, 0.6);
+  border: 2px solid rgba(38, 220, 217, 0);
+}
+
+.pdf-btn-mariscos:hover {
+  background-color: rgba(19, 140, 138, 0.8);
+  border: 2px solid rgba(38, 220, 217, 1);
+  /* color: rgba(79, 138, 196, 1); */
+}
+
+.pdf-btn-timeoff {
+  background-color: rgba(71, 84, 40, 0.4);
+  border: 2px solid rgba(132, 155, 77, 0);
+}
+
+.pdf-btn-timeoff:hover {
+  background-color: rgba(71, 84, 40, 0.6);
+  border: 2px solid rgba(132, 155, 77, 1);
+  /* color: rgba(79, 138, 196, 1); */
 }
 
 /* Colors */

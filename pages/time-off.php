@@ -28,6 +28,7 @@
                     </div>
                     <div class="col-sm-12 col-md-12 col-lg-8">
                         <p class="white-text">We were tasked to develop an online store concept and produce high-fidelity wireframes to demonstrate the consumers online purchasing process. On this project, I collaborated with a team of graphic and UX/UI designers, Nick Turda, Tiffany Chu and Hossein Rad. As a team we decided on a fictional direct-to-consumer business that sells matcha green tea in Canada.</p>
+                        <a href="../images/jango-img/jango-case-study.pdf" title="View PDF" target="_blank"><div class="pdf-btn pdf-btn-<?php echo $data['bg_prefix'] ?>">VIEW FULL PDF</div></a>
                     </div>
                 </div>
             </div>
