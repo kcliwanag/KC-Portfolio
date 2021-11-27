@@ -149,6 +149,14 @@
   color: #002a3c;
 }
 
+.line-color-jango:after {
+  background-color: #32044a;
+}
+
+.line-color-jango:hover {
+  color: #32044a;
+}
+
 /* Works Section  */
 
 .work-section {

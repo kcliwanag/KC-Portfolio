@@ -12,4 +12,9 @@
     </div>
 </div>
 
-<?php require_once("../partials/footer.php"); ?>
+<?php 
+
+    require_once("../partials/get-in-touch.php");
+    require_once("../partials/footer.php"); 
+
+?>

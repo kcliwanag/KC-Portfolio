@@ -27,7 +27,7 @@
         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
       <div class="modal-body">
-        <ul class="navbar-nav ">
+        <ul class="navbar-nav">
           <li class="nav-item active">
             <a class="nav-link" href="../index.php" title="View My Works">Works</a>
           </li>

@@ -30,6 +30,7 @@
                         <p class="white-text">An information architect’s role is to understand the needs of the end-user by incorporating a methodical process and designing strategies for the site’s structure – ultimately creating a positive user experience.</p>
                         <br><br>
                         <p class="white-text">I developed a design brief for a fictional non-profit agency called ‘Ocean Fins, proposing an improved site structure to help achieve their goals and express their important cause. This project is a collaboration with my team members, Sarah Richardson and Michelle Cheng.</p>
+                        <a href="../images/jango-img/jango-case-study.pdf" title="View PDF" target="_blank"><div class="pdf-btn pdf-btn-<?php echo $data['bg_prefix'] ?>">VIEW FULL PDF</div></a>
                     </div>
                 </div>
             </div>

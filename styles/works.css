@@ -1,4 +1,8 @@
 .home-intro {
+  height: 100vh;
+}
+
+.home-intro {
   padding: 100px 0px;
 }
 
@@ -22,6 +26,7 @@
 
 .work-preview-wrapper {
   padding-bottom: 50px;
+  padding-top: 5 px;
 }
 
 .work-preview {

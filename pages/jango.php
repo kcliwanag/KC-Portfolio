@@ -16,7 +16,6 @@
         <a href="#reflection" class="col"  title="Reflection"><h3>Reflection</h3></a>
     </div>
 </div> 
-
 <section id="introduction" class="relative">
     <div class="gradient-bg <?php echo $data['bg_prefix'] ?>-gradient"></div>
     <div class="parallax container-fluid <?php echo $data['bg_prefix'] ?>-intro work-intro">
@@ -30,7 +29,7 @@
                         <p class="white-text">Music and songwriting had always been important in my life. I often get my inspiration through listening to and exploring new music. Thus, learning about the features of Jango and its unlimited, ad-free music intrigued me.</p>
                         <br>
                         <p class="white-text">As a UX student and a music enthusiast, I saw the potential to improve Jango’s site and its functionality for a better and more unique experience. In this case study, I analyze the current site, identify problems, understand its ideal users and find solutions.</p>
-                        <a href="../images/jango-img/Jango_Case_Study.pdf" title="View PDF" target="_blank" class="hover-underline-animation  line-color-<?php echo $data['bg_prefix'] ?> color-white"><i>View Full Case Study</i></a>
+                        <a href="../images/oceanfins-img/jango-case-study.pdf" title="View PDF" target="_blank"><div class="pdf-btn pdf-btn-<?php echo $data['bg_prefix'] ?>">VIEW FULL PDF</div></a>
                     </div>
                 </div>
             </div>
@@ -286,6 +285,7 @@
                         </div>
                         <div class="col-sm-12 col-md-12 col-lg-8">
                             <p>From the wireframes, I built mockups on Adobe Photoshop, creating a more realistic impression of how the new site will look. I then imported them onto InVision to add interactivity and simulate the site’s functionality. The high-fidelity prototypes are shared with users to collect feedback on their experience.</p>
+                            <a href="../images/deepend-img/thumbnails-meanings.pdf" title="View PDF" target="_blank" class="hover-underline-animation  line-color-<?php echo $data['bg_prefix'] ?> color-<?php echo $data['bg_prefix'] ?>"><i>View Invision Prototypes</i></a>
                         </div>
                     </div>
                 </div>

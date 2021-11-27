@@ -26,6 +26,45 @@ a {
   text-decoration: none;
 }
 
+/* Button */
+.pdf-btn {
+  outline: none;
+  border-radius: 5px;
+  display: flex;
+  width: 200px;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  margin-top: 40px;
+  color: white;
+  font-size: 1.4em;
+  padding: 15px;
+  transition: ease 0.2s;
+  letter-spacing: 0.1em;
+}
+
+.pdf-btn-jango {
+  background-color: rgba(142, 69, 237, 0.2);
+  border: 2px solid rgba(142, 69, 237, 0);
+}
+
+.pdf-btn-jango:hover {
+  background-color: rgba(142, 69, 237, 0.4);
+  border: 2px solid rgba(142, 69, 237, 1);
+  color: rgb(177, 119, 252);
+}
+
+.pdf-btn-oceanfins {
+  background-color: rgba(79, 138, 196, 0.2);
+  border: 2px solid rgba(79, 138, 196, 0);
+}
+
+.pdf-btn-oceanfins:hover {
+  background-color: rgba(79, 138, 196, 0.4);
+  border: 2px solid rgba(79, 138, 196, 1);
+  color: rgba(79, 138, 196, 1);
+}
+
 /* Colors */
 
 .purple-text {
