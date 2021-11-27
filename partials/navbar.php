@@ -8,10 +8,10 @@
   <div class="collapse navbar-collapse flex" id="navbarNav">
     <ul class="navbar-nav">
       <li class="nav-item">
-        <a class="nav-link" href="../index.php#works" title="View My Works">Works</a>
+        <a class="nav-link" href="/#works" title="View My Works">Works</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="../pages/about.php" title="About Me">About</a>
+        <a class="nav-link" href="/about" title="About Me">About</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" class="navbar-toggler" type="button" data-bs-toggle="modal" data-bs-target="#contact-modal" aria-controls="navbarNav" aria-expanded="false" aria-label="Contact" title="Contact Me">Contact</a>
@@ -32,7 +32,7 @@
             <a class="nav-link" href="../index.php" title="View My Works">Works</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="../pages/about.php" title="About Me">About</a>
+            <a class="nav-link" href="/about" title="About Me">About</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" class="nav-link" class="navbar-toggler" type="button" data-bs-toggle="modal" data-bs-target="#contact-modal" aria-controls="navbarNav" aria-expanded="false" aria-label="Contact" title="Contact Me">Contact</a>

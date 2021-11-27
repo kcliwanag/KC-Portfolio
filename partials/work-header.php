@@ -8,15 +8,15 @@
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
         <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
         <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.css"/>
-        <link rel="stylesheet" href="../styles/reset.css">
-        <link rel="stylesheet" href="../styles/works.css">
-        <link rel="stylesheet" href="../styles/work-header.css">
-        <link rel="stylesheet" href="../styles/work-pages.css">
+        <link rel="stylesheet" href="/styles/reset.css">
+        <link rel="stylesheet" href="/styles/works.css">
+        <link rel="stylesheet" href="/styles/work-header.css">
+        <link rel="stylesheet" href="/styles/work-pages.css">
         <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
-        <link rel="stylesheet" href="../styles/draggable-slider.css">
-        <link rel="stylesheet" href="../styles/more-projects.css">
-        <link rel="stylesheet" href="../styles/footer.css">
-        <link rel="stylesheet" href="../styles/main.css">
+        <link rel="stylesheet" href="/styles/draggable-slider.css">
+        <link rel="stylesheet" href="/styles/more-projects.css">
+        <link rel="stylesheet" href="/styles/footer.css">
+        <link rel="stylesheet" href="/styles/main.css">
     </head>
     <body>
         <div class="parallax container-fluid work-header work-bg-<?php echo $data['bg_prefix'] ?>">
