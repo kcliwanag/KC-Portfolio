@@ -17,4 +17,10 @@
         <link rel="stylesheet" href="/styles/main.css">
     </head>
     <body>
-        <?php require("navbar.php"); ?>
+        <div class="navbar-sm my-shadow">
+            <?php require("navbar.php"); ?>
+        </div>
+        <div class="navbar-lg">
+            <?php require("navbar.php"); ?>
+        </div>
+        <?php require("navbar-modal.php"); ?>

@@ -9,6 +9,8 @@
         <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
         <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.css"/>
         <link rel="stylesheet" href="/styles/reset.css">
+        <link rel="stylesheet" href="/styles/navbar.css">
+        <link rel="stylesheet" href="/styles/contact.css">
         <link rel="stylesheet" href="/styles/works.css">
         <link rel="stylesheet" href="/styles/work-header.css">
         <link rel="stylesheet" href="/styles/work-pages.css">
@@ -19,7 +21,19 @@
         <link rel="stylesheet" href="/styles/main.css">
     </head>
     <body>
+        <button type="button" class="btn btn-floating btn-lg my-shadow color-<?php echo $data['bg_prefix'] ?>" id="btn-back-to-top">
+            <i class="fas fa-arrow-up"></i>
+        </button>
+        <div class="navbar-sm my-shadow">
+            <?php require("navbar.php"); ?>
+        </div>
+        <?php require("navbar-modal.php"); ?>
         <div class="parallax container-fluid work-header work-bg-<?php echo $data['bg_prefix'] ?>">
+            <div class="work-header-navbar navbar-lg">
+                <div class="work-header-navbar-content">
+                    <?php require("navbar.php"); ?>
+                </div>
+            </div>
             <div class="work-preview-overlay overlay-<?php echo $data['bg_prefix'] ?>"></div>  
             <div class="work-preview-text-wrapper">
                     <div class="work-preview-text" data-aos="fade-up">  

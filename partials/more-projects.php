@@ -13,13 +13,13 @@
                 <h3>More Projects</h3>
             </div>
             <div class="col-sm-12 col-lg-6 view-all-btn">
-                <a href="../index.php" .                                                                                                                        >View all
+                <a href="/" .                                                                                                                        >View all
                     <img src="../images/grey-arrow.svg" alt="Grey Arrow">
                 </a>    
             </div> -->
             <h3>More Projects</h3>
             <div class="view-all-btn">
-                <a href="../index.php" .                                                                                                                        >View all
+                <a href="/" .                                                                                                                        >View all
                     <img src="../images/grey-arrow.svg" alt="Grey Arrow">
                 </a>    
             </div>

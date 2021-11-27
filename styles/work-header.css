@@ -2,6 +2,7 @@
   background-size: cover;
   height: 80vh;
   background-position: right;
+  padding-top: 120px;
 }
 
 .work-header .work-preview-overlay {
@@ -10,7 +11,8 @@
 }
 
 .work-header .work-preview-text-wrapper {
-  padding: 50px 30px;
+  padding: 100px 30px;
+  position: relative;
 }
 
 .work-header .work-preview-text {
@@ -189,6 +191,7 @@
 @media (min-width: 768px) {
   .work-header {
     height: 92vh;
+    padding-top: 0;
   }
 
   .work-header .work-preview-overlay {
@@ -196,8 +199,7 @@
   }
 
   .work-header .work-preview-text-wrapper {
-    position: relative;
-    height: calc(100vh - 8vh);
+    height: calc(100vh - 25vh);
     display: flex;
     align-items: center;
     padding: 0px 65px;

@@ -1,5 +1,5 @@
 .about-container {
-  padding: 50px 0px;
+  padding-top: 120px;
 }
 
 .about-container .row {
@@ -43,5 +43,6 @@
   }
   .about-container {
     max-width: 80%;
+    padding: 50px 0px;
   }
 }
