@@ -29,8 +29,8 @@
                     <div class="col-sm-12 col-md-12 col-lg-8">
                         <p class="white-text">As a food enthusiast and a novice home cook myself, I've tried many recipe apps – most are quite similar and already have the main features I am looking for. Although some apps aim to tackle the costly issue of food waste, many more could advocate for this environmental concern.</p>
                         <br>
-                        <p class="white-text">I've proposed a kitchen app solution that with features that both value and benefit the end-users as well as the environment. I collaborated with a team of UX / UI designers, Nick Turda, Tiffany Chu and Christine Le to design the app's processes and interfaces. </p>
-                        <a href="../images/jango-img/jango-case-study.pdf" title="View PDF" target="_blank"><div class="pdf-btn pdf-btn-<?php echo $data['bg_prefix'] ?>">VIEW FULL PDF</div></a>
+                        <p class="white-text">I've proposed a kitchen app solution with features that both value and benefit the end-users as well as the environment. I collaborated with a team of UX / UI designers, Nick Turda, Tiffany Chu and Christine Le to design the app's processes and interfaces. </p>
+                        <a href="../images/cibo-img/cibo-app-pitch.pdf" title="View PDF" target="_blank"><div class="pdf-btn pdf-btn-<?php echo $data['bg_prefix'] ?>">VIEW FULL PDF</div></a>
                     </div>
                 </div>
             </div>
@@ -172,13 +172,13 @@
         <div class="slider-container">
             <div class="three-item">
                 <div class="item">
-                    <img class="img-fluid slider-image" src="../images/cibo-img/competitor-1.png" alt="Yummy App Review">
+                    <img class="img-fluid slider-image max-height-700" src="../images/cibo-img/competitor-1.png" alt="Yummy App Review">
                 </div>
                 <div class="item">
-                    <img class="img-fluid slider-image" src="../images/cibo-img/competitor-2.png" alt="Mealime App Review">
+                    <img class="img-fluid slider-image max-height-700" src="../images/cibo-img/competitor-2.png" alt="Mealime App Review">
                 </div>
                 <div class="item">
-                    <img class="img-fluid slider-image" src="../images/cibo-img/competitor-3.png" alt="Tasty App Review">
+                    <img class="img-fluid slider-image max-height-700" src="../images/cibo-img/competitor-3.png" alt="Tasty App Review">
                 </div>
             </div>
         </div>
@@ -201,7 +201,7 @@
             </div>  
         </div>
         <div class="center side-padding">
-            <img class="img-fluid max-height-1000" src="../images/cibo-img/position.png" alt="CIBO's marketing position">
+            <img class="img-fluid max-height-600" src="../images/cibo-img/position.png" alt="CIBO's marketing position">
         </div>
     </div>
 </section>
@@ -235,7 +235,7 @@
             </div>  
         </div>
         <div class="center side-padding">
-            <img class="img-fluid " src="../images/cibo-img/wireframe-1.png" alt="Customize servings wireframe">
+            <img class="img-fluid max-height-700" src="../images/cibo-img/wireframe-1.png" alt="Customize servings wireframe">
         </div>
     </div>
 </section>
@@ -256,7 +256,7 @@
             </div>  
         </div>
         <div class="center side-padding">
-            <img class="img-fluid max-height-1000 " src="../images/cibo-img/wireframe-2.png" alt="My Fridge wireframe">
+            <img class="img-fluid max-height-700 " src="../images/cibo-img/wireframe-2.png" alt="My Fridge wireframe">
         </div>
 </section>
 <section class="work-section">
@@ -276,7 +276,7 @@
             </div>  
         </div>
         <div class="center side-padding">
-            <img class="img-fluid max-height-1000 " src="../images/cibo-img/wireframe-4.png" alt="Filter recipes wireframe">
+            <img class="img-fluid max-height-700 " src="../images/cibo-img/wireframe-4.png" alt="Filter recipes wireframe">
         </div>
 </section>
 <section class="work-section white-section">
@@ -296,7 +296,7 @@
             </div>  
         </div>
         <div class="center side-padding">
-            <img class="img-fluid " src="../images/cibo-img/wireframe-3.png" alt="CIBO notification wireframes">
+            <img class="img-fluid max-height-700" src="../images/cibo-img/wireframe-3.png" alt="CIBO notification wireframes">
         </div>
 </section>
 <section id="prototypes" class="work-section">
@@ -327,16 +327,16 @@
         <div class="slider-container">
             <div class="single-item">
                 <div class="item">
-                    <img class="img-fluid slider-image" src="../images/cibo-img/onboard-2.png" alt="Welcome carousel 1/3">
+                    <img class="img-fluid slider-image max-height-700" src="../images/cibo-img/onboard-2.png" alt="Welcome carousel 1/3">
                 </div>
                 <div class="item">
-                    <img class="img-fluid slider-image" src="../images/cibo-img/onboard-3.png" alt="Welcome carousel 2/3">
+                    <img class="img-fluid slider-image max-height-700" src="../images/cibo-img/onboard-3.png" alt="Welcome carousel 2/3">
                 </div>
                 <div class="item">
-                    <img class="img-fluid slider-image" src="../images/cibo-img/onboard-4.png" alt="Welcome carousel 3/3">
+                    <img class="img-fluid slider-image max-height-700" src="../images/cibo-img/onboard-4.png" alt="Welcome carousel 3/3">
                 </div>
                 <div class="item">
-                    <img class="img-fluid slider-image" src="../images/cibo-img/onboard-1.png" alt="Create an account screen">
+                    <img class="img-fluid slider-image max-height-700" src="../images/cibo-img/onboard-1.png" alt="Create an account screen">
                 </div>
             </div>
         </div>
@@ -361,16 +361,16 @@
         <div class="slider-container">
             <div class="single-item">
                 <div class="item">
-                    <img class="img-fluid slider-image" src="../images/cibo-img/major-2.png" alt="Explore Tab">
+                    <img class="img-fluid slider-image max-height-700" src="../images/cibo-img/major-2.png" alt="Explore Tab">
                 </div>
                 <div class="item">
-                    <img class="img-fluid slider-image" src="../images/cibo-img/major-3.png" alt="My Fridge Tab">
+                    <img class="img-fluid slider-image max-height-700" src="../images/cibo-img/major-3.png" alt="My Fridge Tab">
                 </div>
                 <div class="item">
-                    <img class="img-fluid slider-image" src="../images/cibo-img/major-1.png" alt="Saved Recipes Tab">
+                    <img class="img-fluid slider-image max-height-700" src="../images/cibo-img/major-1.png" alt="Saved Recipes Tab">
                 </div>
                 <div class="item">
-                    <img class="img-fluid slider-image" src="../images/cibo-img/major-4.png" alt="My Account Tab">
+                    <img class="img-fluid slider-image max-height-700" src="../images/cibo-img/major-4.png" alt="My Account Tab">
                 </div>
             </div>
         </div>
@@ -394,13 +394,13 @@
         <div class="slider-container">
             <div class="single-item">
                 <div class="item">
-                    <img class="img-fluid slider-image" src="../images/cibo-img/major-2.png" alt="Explore Tab">
+                    <img class="img-fluid slider-image max-height-700" src="../images/cibo-img/major-2.png" alt="Explore Tab">
                 </div>
                 <div class="item">
-                    <img class="img-fluid slider-image" src="../images/cibo-img/onboard-5.png" alt="Add An Ingredient feature ">
+                    <img class="img-fluid slider-image max-height-700" src="../images/cibo-img/onboard-5.png" alt="Add An Ingredient feature ">
                 </div>
                 <div class="item">
-                    <img class="img-fluid slider-image" src="../images/cibo-img/major-3.png" alt="My Fridge Tab">
+                    <img class="img-fluid slider-image max-height-700" src="../images/cibo-img/major-3.png" alt="My Fridge Tab">
                 </div>
             </div>
         </div>
@@ -422,13 +422,13 @@
                 </div>
                 <div class="container-fluid">
                     <div class="row">
-                        <div class="col-sm-12 col-md-12 col-lg-4  color-<?php echo $data['bg_prefix'] ?>">
+                        <div class="col-sm-12 col-md-12 col-lg-4 color-<?php echo $data['bg_prefix'] ?>">
                             <h3 class="color-<?php echo $data['bg_prefix'] ?>">What I've Learned</h3>
                         </div>
                         <div class="col-sm-12 col-md-12 col-lg-8">
                             <p>There are many business factors to consider in developing a mobile app. With the numerous app products in the market, a unique selling proposition is important to have. The concept and design should provide value and appeal for its users. </p>
                             <br>
-                            <p>As a UX / UI designer, I had to brainstorm features and how to simplify its processes for users to have a better experience with CIBO. </p>
+                            <p>As a UX / UI designer, I brainstormed features and how to simplify its processes for users to have a better experience with CIBO. I was able to craft ideas and solutions by understanding a homecook's common issues in the  kitchen.  </p>
                         </div>
                     </div>
                 </div>

@@ -94,9 +94,15 @@
   letter-spacing: 0.1em;
 }
 
-.view-work-btn img {
+.view-work-arrow {
   height: 10px;
   margin-left: 10px;
+  transition: ease 0.5s;
+}
+
+.view-work-btn:hover .view-work-arrow {
+  margin-left: 25px;
+  transform: scale(1.2);
 }
 
 .work-preview-overlay {

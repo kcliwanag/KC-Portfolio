@@ -21,28 +21,25 @@
   background-image: url(../images/mobile-menu-icon.svg);
 }
 
-.nav-link {
-  letter-spacing: 0.1em;
-}
-
 .nav-item {
   position: relative;
 }
 
 .nav-link {
-  color: #fff;
   text-transform: uppercase;
   text-decoration: none;
   letter-spacing: 0.15em;
-
   display: inline-block;
   padding: 15px 20px;
   position: relative;
+  letter-spacing: 0.1em;
+  color: #ababfc !important;
 }
+
 .nav-link:after {
   background: none repeat scroll 0 0 transparent;
   bottom: 0;
-  content: "";
+  content: '';
   display: block;
   height: 2px;
   left: 50%;
@@ -83,7 +80,7 @@
   z-index: 2;
 }
 
-.work-header-navbar-content > .navbar img {
+.work-header-navbar-content .navbar img {
   transform: none;
 }
 
@@ -142,6 +139,10 @@
 
   .navbar-lg {
     display: block;
+  }
+
+  .work-header-navbar .navbar-nav {
+    visibility: hidden;
   }
 }
 

@@ -1,3 +1,4 @@
+<div class="container">
 <nav class="navbar navbar-expand-md navbar-light bg-light">
   <a class="navbar-brand" href="/">
     <img src="../images/kc-liwanag-logo.svg" alt="KC Liwanag's Logo">
@@ -19,3 +20,4 @@
     </ul>
   </div>
 </nav>
+</div>

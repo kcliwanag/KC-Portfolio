@@ -29,14 +29,14 @@
                         <p class="white-text">While travelling to Puerto Vallarta, Mexico – known for its amazing beaches, we discovered a small, local, family restaurant called Mariscos El Güero. Mariscos translated in English is seafood. With their simple, delicious comfort food surrounded by a friendly, welcoming atmosphere and fun, warm tones played by a live mariachi band in the restaurant – I was enjoying the most unforgettable cuisine experience I’ve ever had.</p>
                         <br>
                         <p class="white-text">I chose this amazing restaurant to base the menu redesign for my Graphic Design midterm project. For the menu, I decided to make it fun and trendy to capture the casual and comfortable spirit of the restaurant.</p>
-                        <a href="../images/jango-img/jango-case-study.pdf" title="View PDF" target="_blank"><div class="pdf-btn pdf-btn-<?php echo $data['bg_prefix'] ?>">VIEW FULL PDF</div></a>
+                        <a href="../images/mariscos-img/MariscosElGuerro-menu.pdf" title="View PDF" target="_blank"><div class="pdf-btn pdf-btn-<?php echo $data['bg_prefix'] ?>">VIEW FULL PDF</div></a>
                     </div>
                 </div>
             </div>
         </div>
     </div>
 </section>
-<section class="work-section solid-color-container <?php echo $data['bg_prefix'] ?>-solid-color-bg">
+<!-- <section class="work-section solid-color-container <?php echo $data['bg_prefix'] ?>-solid-color-bg">
     <div data-aos="fade-up">
         <div class="center-wrapper">
             <div class="section-text-wrapper">
@@ -62,7 +62,7 @@
             </div>  
         </div>
     </div>
-</section>
+</section> -->
 <section id="audience" class="work-section">
     <div data-aos="fade-up">
         <div class="center-wrapper">
@@ -92,12 +92,12 @@
             <div class="row side-padding container-fluid">
                 <div class="col-sm-12 col-md-12 col-lg-6 pb-3">
                     <div class="center">
-                        <img class="img-fluid my-shadow max-height-1000" src="../images/mariscos-img/audience.jpg" alt="KC's sister happy with a pinepple dish">
+                        <img class="img-fluid my-shadow max-height-500" src="../images/mariscos-img/audience.jpg" alt="KC's sister happy with a pinepple dish">
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-12 col-lg-6 pb-3">
                     <div class="center">
-                        <img class="img-fluid my-shadow max-height-1000" src="../images/mariscos-img/audience-2.jpg" alt="KC and family members in Mariscos El Guerro">
+                        <img class="img-fluid my-shadow max-height-500" src="../images/mariscos-img/audience-2.jpg" alt="KC and family members in Mariscos El Guerro">
                     </div>
                 </div>
             </div>
@@ -214,16 +214,16 @@
         <div class="slider-container">
             <div class="three-item">
                 <div class="item">
-                    <img class="img-fluid slider-image" src="../images/mariscos-img/menu-1.png" alt="Front cover menu design">
+                    <img class="img-fluid slider-image max-height-700" src="../images/mariscos-img/menu-1.png" alt="Front cover menu design">
                 </div>
                 <div class="item">
-                    <img class="img-fluid slider-image" src="../images/mariscos-img/menu-2.png" alt="Entrees page menu design ">
+                    <img class="img-fluid slider-image max-height-700" src="../images/mariscos-img/menu-2.png" alt="Entrees page menu design ">
                 </div>
                 <div class="item">
-                    <img class="img-fluid slider-image" src="../images/mariscos-img/menu-3.png" alt="Tacos page menu design">
+                    <img class="img-fluid slider-image max-height-700" src="../images/mariscos-img/menu-3.png" alt="Tacos page menu design">
                 </div>
                 <div class="item">
-                    <img class="img-fluid slider-image" src="../images/mariscos-img/menu-4.png" alt="Drinks page menu design">
+                    <img class="img-fluid slider-image max-height-700" src="../images/mariscos-img/menu-4.png" alt="Drinks page menu design">
                 </div>
             </div>
         </div>

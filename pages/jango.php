@@ -285,7 +285,7 @@
                         </div>
                         <div class="col-sm-12 col-md-12 col-lg-8">
                             <p>From the wireframes, I built mockups on Adobe Photoshop, creating a more realistic impression of how the new site will look. I then imported them onto InVision to add interactivity and simulate the site’s functionality. The high-fidelity prototypes are shared with users to collect feedback on their experience.</p>
-                            <a href="../images/deepend-img/thumbnails-meanings.pdf" title="View PDF" target="_blank" class="hover-underline-animation  line-color-<?php echo $data['bg_prefix'] ?> color-<?php echo $data['bg_prefix'] ?>"><i>View Invision Prototypes</i></a>
+                            <a href="https://kcliwanag230991.invisionapp.com/console/share/HZ28K9OVPK/534272036" title="View Prototypes" target="_blank" class="hover-underline-animation  line-color-<?php echo $data['bg_prefix'] ?> color-<?php echo $data['bg_prefix'] ?>"><i>View Invision Prototypes</i></a>
                         </div>
                     </div>
                 </div>
@@ -331,7 +331,7 @@
                         <div class="col-sm-12 col-md-12 col-lg-8">
                             <p>I organized the “Find Artists” and “Find Songs” under one main page that is specifically for browsing music. The global and local navigation are seen as two separate groups,which makes it easier to understand.</p>
                             <br><br>
-                            <p>Instead of a dropdown menu, the main navigation is on the top so that the primary pages and features the site offers are visible right away. The active page is also highlighted with a different colour to clearly show which page the user is currently viewing</p>
+                            <p>Instead of a dropdown menu, the main navigation is on the top so that the primary pages and features the site offers are visible right away. The active page is also highlighted with a different colour to clearly show which page the user is currently viewing.</p>
                         </div>
                     </div>
                 </div>
@@ -480,7 +480,7 @@
                             <h3 class="color-<?php echo $data['bg_prefix'] ?>">What I've Learned</h3>
                         </div>
                         <div class="col-sm-12 col-md-12 col-lg-8">
-                            <p><b>The success of a product’s design is determined by its users.</b></p>
+                            <p><b><span class="highlight color-<?php echo $data['bg_prefix'] ?>">The success of a product’s design is determined by its users.</span></b></p><br><br>
                             <p>I learned the importance of user-centred design. From the start of a project to the result, every decision should be made with the end-users in mind. Creating user personas, scenarios and journey maps allowed me to empathize with the target audience and have a better understanding of the ideal user’s goals and frustrations. It has greatly helped me build solutions for the pain points of Jango’s current site. User testing with my prototypes was another valuable experience for me as this showed me whether or not my solutions improved the issues.</p>
                             <br><br>
                             <p>I gained a lot of insights throughout this project. However, this journey doesn’t end here. This design will need more iterations, going through the process of reevaluating design, finding new difficulties and building new solutions, all of which keeping the users as the focus throughout the journey of improving user experience.</p>
@@ -490,7 +490,7 @@
             </div>  
         </div>
         <div class="center">
-            <img class="img-fluid max-height-1000" src="../images/jango-img/jango-reflect.png" alt="Users in a cafe">
+            <img class="img-fluid max-height-1000" src="../images/jango-img/jango-reflect.jpg" alt="Users in a cafe">
         </div>
     </div>
 </section>

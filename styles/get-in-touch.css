@@ -7,6 +7,7 @@
   text-align: center;
   line-height: 2.8em;
   /* border-bottom: solid #d7d7d7 1.3px; */
+  font-size: 1.4em;
 }
 
 .get-in-touch p {
@@ -16,8 +17,11 @@
 .get-in-touch a {
   color: #babaf9;
   text-decoration: none;
-  border-bottom: 1.5px solid #babaf9;
-  padding-bottom: 2px;
+}
+
+.get-in-touch .nav-link {
+  padding: 5px;
+  text-transform: none;
 }
 
 @media (min-width: 768px) {

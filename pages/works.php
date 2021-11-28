@@ -15,7 +15,7 @@
                         <h2><?php echo $project['title']?></h2>
                         <div class="view-work-btn">
                             <a href="<?php echo $project['link']?>">View work
-                                <img src="../images/white-arrow.svg" alt="White Arrow">
+                                <img src="../images/white-arrow.svg" class="view-work-arrow" alt="White Arrow">
                             </a>    
                         </div>
                     </div>

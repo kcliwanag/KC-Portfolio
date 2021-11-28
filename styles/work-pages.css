@@ -77,7 +77,7 @@
   background-image: url(../images/deepend-img/dive.jpg);
 }
 .jango-intro {
-  background-image: url(../images/jango-img/jango-intro.png);
+  background-image: url(../images/jango-img/jango-intro.jpg);
 }
 .oceanfins-intro {
   background-image: url(../images/oceanfins-img/oceanfins-intro3.jpg);
@@ -88,7 +88,7 @@
 }
 
 .cibo-intro {
-  background-image: url(../images/cibo-img/cibo-intro-6.jpg);
+  background-image: url(../images/cibo-img/cibo-intro.jpg);
   background-position: top;
 }
 .mariscos-intro {
@@ -221,6 +221,9 @@
 .max-height-300 {
   max-height: 300px;
 }
+.max-height-400 {
+  max-height: 400px;
+}
 
 .max-height-500 {
   max-height: 500px;
@@ -228,6 +231,20 @@
 
 .max-height-1000 {
   max-height: 1000px;
+}
+
+.max-height-600 {
+  max-height: 600px;
+}
+
+.max-height-700 {
+  max-height: 700px;
+}
+.max-height-800 {
+  max-height: 800px;
+}
+.max-height-900 {
+  max-height: 900px;
 }
 
 .side-padding {

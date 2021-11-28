@@ -142,7 +142,7 @@
             </div>  
         </div>
         <div class="center side-padding">
-            <img class="img-fluid max-height-500" src="../images/deepend-img/SVG/final.svg" alt="Turtle logo with color">
+            <img class="img-fluid max-height-400" src="../images/deepend-img/SVG/final.svg" alt="Turtle logo with color">
         </div>
     </div>
 </section>
@@ -172,7 +172,7 @@
             </div>  
         </div>
         <div class="center side-padding">
-            <img class="img-fluid my-shadow" src="../images/deepend-img/KCLiwanag_PosterMockup.png" alt="Water bottle 3D mockup on a beach background ">
+            <img class="img-fluid my-shadow max-height-700" src="../images/deepend-img/KCLiwanag_PosterMockup.png" alt="Water bottle 3D mockup on a beach background ">
         </div>
     </div>
 </section>
@@ -203,7 +203,7 @@
             </div>  
         </div>
         <div class="center side-padding">
-            <img class="img-fluid my-shadow max-height-1000" src="../images/deepend-img/deep-end-mood-board.png" alt="Deep End Diving mood board">
+            <img class="img-fluid my-shadow max-height-700" src="../images/deepend-img/deep-end-mood-board.png" alt="Deep End Diving mood board">
         </div>
     </div>
 </section>
@@ -217,7 +217,7 @@
                             <h3 class="color-<?php echo $data['bg_prefix'] ?>">Deliverables</h3>
                         </div>
                         <div class="col-sm-12 col-md-12 col-lg-8">
-                            <p>From the best layout designs, I created a final business card, envelope and letterhead on Adobe InDesign. I ensured to follow best practices and general guidelines for print.</p>
+                            <p>From the best layout designs, I created a final business card, envelope and letterhead on Adobe InDesign. I ensured to follow best practices and general guidelines for print. Hover over the images to see the back side of the business card and envelope.   </p>
                         </div>
                     </div>
                 </div>
@@ -226,17 +226,17 @@
         <div class="center pb-5 side-padding">
             <div class="front-img">
                 <img class="img-fluid my-shadow max-height-300" src="../images/deepend-img/business-card-1.png"  alt="Front of business card design">
-                <img class="img-fluid my-shadow img-top max-height-500" src="../images/deepend-img/business-card-2.png" alt="Back of business card design">
+                <img class="img-fluid my-shadow img-top max-height-400" src="../images/deepend-img/business-card-2.png" alt="Back of business card design">
             </div>
         </div>
         <div class="center pb-5 side-padding">
             <div class="front-img">
-                <img class="img-fluid my-shadow  max-height-500" src="../images/deepend-img/envelope-1.png" alt="Front of envelope design">
+                <img class="img-fluid my-shadow  max-height-400" src="../images/deepend-img/envelope-1.png" alt="Front of envelope design">
                 <img class="img-fluid my-shadow img-top" src="../images/deepend-img/envelope-2.png" alt="Back of envelope design">
             </div>
         </div>
         <div class="center side-padding">
-            <img class="img-fluid my-shadow" src="../images/deepend-img/letterhead.png" alt="Letterhead design">
+            <img class="img-fluid my-shadow max-height-800" src="../images/deepend-img/letterhead.png" alt="Letterhead design">
         </div>
     </div>
 </section>
