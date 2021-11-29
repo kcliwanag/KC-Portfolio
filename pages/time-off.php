@@ -12,7 +12,7 @@
         <a href="#introduction" class="col" title="Introduction"><h3>Introduction</h3></a>
         <a href="#ideation" class="col" title="Ideation"><h3>Ideation</h3></a>
         <a href="#branding" class="col" title="Branding"><h3>Branding</h3></a>
-        <a href="#wireframes" class="col" title="Wireframes"><h3>Wireframes</h3></a>
+        <a href="#site-design" class="col" title="Site Design"><h3>Site Design</h3></a>
         <a href="#reflection" class="col" title="Reflection"><h3>Reflection</h3></a>
     </div>
 </div> 
@@ -27,8 +27,8 @@
                         <h2 class="white-text">Introduction</h2>
                     </div>
                     <div class="col-sm-12 col-md-12 col-lg-8">
-                        <p class="white-text">We were tasked to develop an online store concept and produce high-fidelity wireframes to demonstrate the consumers online purchasing process. On this project, I collaborated with a team of graphic and UX/UI designers, Nick Turda, Tiffany Chu and Hossein Rad. As a team we decided on a fictional direct-to-consumer business that sells matcha green tea in Canada.</p>
-                        <a href="../images/jango-img/jango-case-study.pdf" title="View PDF" target="_blank"><div class="pdf-btn pdf-btn-<?php echo $data['bg_prefix'] ?>">VIEW FULL PDF</div></a>
+                        <p class="white-text">Exploring e-commerce, we were tasked to develop an online store concept and produce high-fidelity wireframes, focusing on demonstrating the consumers online purchasing process. On this project, I collaborated with a team of graphic and UX/UI designers, Nick Turda, Tiffany Chu and Hossein Rad. As a team we decided on a fictional direct-to-consumer business that sells matcha green tea in Canada.</p>
+                        <a href="https://www.figma.com/proto/1aAhAroxvDX9HByXF07DV7/time%2Foff-matcha?node-id=2%3A2&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=2%3A2" title="View Prototypes" target="_blank"><div class="pdf-btn pdf-btn-<?php echo $data['bg_prefix'] ?>">VIEW PROTOTYPES</div></a>
                     </div>
                 </div>
             </div>
@@ -49,10 +49,10 @@
                 <div class="container-fluid">
                     <div class="row">
                         <div class="solid-color-heading <?php echo $data['bg_prefix'] ?>-solid-color-heading">
-                            <h3 class="white-text">We supply organic, high-quality tea made from Canada's first tea farm. </h3>
+                            <h3 class="white-text">Experience organic, high-quality matcha green tea grown from Canadian soil – a first of its kind.</h3>
                         </div>
                         <div class="solid-color-blurb <?php echo $data['bg_prefix'] ?>-solid-color-blurb">
-                            <p class="white-text less-opacity">Tea is often the product of tropical and subtropical regions. With Canada's extreme temperatures, it is  difficult to grow tea leaves. A tea farm in Victoria, B.C. has successfully planted, grown and harvested them. Time/off's products comes this local supplier and will be sold to Canadians nationwide.
+                            <p class="white-text less-opacity">Time/off is able to provide consumers with organic high-quality grade matcha without the high cost of traditional tea. Time/off’s goal is to encourage consumers to find time in their day to take some time off and relax. We believe that the process of making a cup of matcha not only helps us slow down but also helps put our minds in peace, even if it’s just a little bit.
                             </p>
                         </div>
                         </div>
@@ -81,7 +81,7 @@
                             <h3 class="color-<?php echo $data['bg_prefix'] ?>">Brainstorming</h3>
                         </div>
                         <div class="col-sm-12 col-md-12 col-lg-8">
-                            <p>As a team, we first brainstormed the company, its products and the features that we could include on the online store. It is important to understand the customer's journey from before, during and after their interaction and purchase with the product.</p>
+                            <p>As a team, we first brainstormed the company, its products and the features that we could include on the online store. Because it only specializes in selling matcha, we decided to simplify site by only having a few main pages to guide the customer from the decision to purchasing phase. It is important to consider the customer journey touch points from before, during and after their interaction and purchase with the product.</p>
                         </div>
                     </div>
                 </div>
@@ -91,7 +91,7 @@
             <div class="row side-padding container-fluid">
                 <div class="col-sm-12 col-md-12 col-lg-12">
                     <div class="center">
-                        <img class="img-fluid my-shadow max-height-1000" src="../images/timeoff-img/brainstorm.png" alt="Brainstorming of company and online store">
+                        <img class="img-fluid my-shadow max-height-700" src="../images/timeoff-img/brainstorm.png" alt="Brainstorming of company and online store">
                     </div>
                 </div>
             </div>
@@ -103,30 +103,58 @@
         <div class="center-wrapper">
             <div class="section-text-wrapper">
                 <div class="container-fluid">
-                    <div class="row">
-                        <div class="col-sm-12 col-md-12 col-lg-4 color-<?php echo $data['bg_prefix'] ?>">
-                            <h3 class="color-<?php echo $data['bg_prefix'] ?>">Site Map</h3>
-                        </div>
-                        <div class="col-sm-12 col-md-12 col-lg-8">
-                            <p>Because the company only specializes in selling one product, we decided to have clear and simplified site map. There are only a few main pages to guide the customer from the decision to purchasing phase.</p>
+                        <div class="row">
+                            <div class="col-sm-12 col-md-12 col-lg-4 color-<?php echo $data['bg_prefix'] ?>">
+                                <h3 class="color-<?php echo $data['bg_prefix'] ?>">Empathy Map</h3>
+                            </div>
+                            <div class="col-sm-12 col-md-12 col-lg-8">
+                                <p>I created a flowchart to show the step-by-step checkout process. When checking out, customers can sign-in to an existing account or use the guest checkout. For convenience, those who have an existing account would have their information saved and filled in. They can simply review their order details and press confirm.</p>
+                            </div>
                         </div>
                     </div>
-                </div>
-            </div>  
+                </div>  
+            </div>
         </div>
         <div class="center">
             <div class="row side-padding container-fluid">
                 <div class="col-sm-12 col-md-12 col-lg-12">
                     <div class="center">
-                        <img class="img-fluid my-shadow max-height-1000" src="../images/timeoff-img/brainstorm.png" alt="Site map of online store">
+                        <img class="img-fluid max-height-700 my-shadow" src="../images/timeoff-img/empathy-map.jpeg" alt="Site map of online store">
                     </div>
                 </div>
             </div>
         </div>
+    </div>
+</section>
+<section class="work-section">
+    <div data-aos="fade-up">
+        <div class="center-wrapper">
+            <div class="section-text-wrapper">
+                <div class="container-fluid">
+                        <div class="row">
+                            <div class="col-sm-12 col-md-12 col-lg-4 color-<?php echo $data['bg_prefix'] ?>">
+                                <h3 class="color-<?php echo $data['bg_prefix'] ?>">Flowchart</h3>
+                            </div>
+                            <div class="col-sm-12 col-md-12 col-lg-8">
+                                <p>I created a flowchart to show the step-by-step checkout process. When checking out, customers can sign-in to an existing account or use the guest checkout. For convenience, those who have an existing account would have their information saved and filled in. They can simply review their order details and press confirm.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>  
+            </div>
+        </div>
+        <div class="center">
+            <div class="row side-padding container-fluid">
+                <div class="col-sm-12 col-md-12 col-lg-12">
+                    <div class="center">
+                        <img class="img-fluid max-height-1000" src="../images/timeoff-img/timeoff-checkout.svg" alt="Site map of online store">
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 </section>
-<section id="branding" class="work-section">
+<section id="branding" class="work-section white-section">
     <div data-aos="fade-up">
         <div class="center-wrapper">
             <div class="section-text-wrapper">
@@ -145,18 +173,18 @@
                             <h3 class="color-<?php echo $data['bg_prefix'] ?>">Mood Board</h3>
                         </div>
                         <div class="col-sm-12 col-md-12 col-lg-8">
-                            <p>We searched for inspiration for the look and feel of the company's online store. It has a minimalist theme and accompanied by visually appealing images to add texture. We also decided to have a muted and soft green color scheme to match the product. Tiffany designed T/O's teacup logo.</p>
+                            <p>We viewed other competitors and searched for inspiration for the look and feel of the company's online store. It has a minimalist theme, accompanied by visually appealing images to add texture. We also decided to have a muted, soft green color scheme to match the product. Tiffany designed T/O's teacup logo.</p>
                         </div>
                     </div>
                 </div>
             </div>  
         </div>
         <div class="center side-padding">
-            <img class="img-fluid shadow" src="../images/timeoff-img/mood-board.png" alt="Mood board for company branding">
+            <img class="img-fluid shadow max-height-700" src="../images/timeoff-img/mood-board.jpg" alt="Mood board for company branding">
         </div>
     </div>
 </section>
-<section class="work-section white-section">
+<section class="work-section">
     <div data-aos="fade-up">
         <div class="center-wrapper">
             <div class="section-text-wrapper">
@@ -173,23 +201,23 @@
             </div>  
         </div>
         <div class="slider-container">
-            <div class="gallery-slider">
+            <div class="three-item">
                 <div class="item">
-                    <img class="img-fluid slider-image" src="../images/timeoff-img/product-1.jpeg" alt="Time/off Full Matcha Pack">
+                    <img class="img-fluid slider-image max-height-500 my-shadow" src="../images/timeoff-img/product-1.jpeg" alt="Time/off Full Matcha Pack">
                 </div>
                 <div class="item">
-                    <img class="img-fluid slider-image" src="../images/timeoff-img/product-2.jpeg" alt="Time/off Box of Daily Sachets">
+                    <img class="img-fluid slider-image max-height-500 my-shadow" src="../images/timeoff-img/product-2.jpeg" alt="Time/off Box of Daily Sachets">
                 </div>
                 <div class="item">
-                    <img class="img-fluid slider-image" src="../images/timeoff-img/product-4.png" alt="Time/off Box of Daily Sachets + Chawan Set">
+                    <img class="img-fluid slider-image max-height-500 my-shadow" src="../images/timeoff-img/product-4.png" alt="Time/off Box of Daily Sachets + Chawan Set">
                 </div>
                 <div class="item">
-                    <img class="img-fluid slider-image" src="../images/timeoff-img/product-5.jpeg" alt="Time/off Chawan + Chasen Set">
+                    <img class="img-fluid slider-image max-height-500 my-shadow" src="../images/timeoff-img/product-5.jpeg" alt="Time/off Chawan + Chasen Set">
                 </div>
             </div>
         </div>
 </section>
-<section id="wireframes" class="work-section">
+<section id="site-design" class="work-section white-section">
     <div data-aos="fade-up">
         <div class="center-wrapper">
             <div class="section-text-wrapper">
@@ -198,46 +226,26 @@
                         <div class="col-sm-12 col-md-12 col-lg-12 color-<?php echo $data['bg_prefix'] ?>">
                             <h4>03</h4>
                             <br>
-                            <h2>Wireframes</h2>
+                            <h2>Site Design</h2>
                         </div>
                     </div>
                 </div>
                 <div class="container-fluid">
                     <div class="row">
                         <div class="col-sm-12 col-md-12 col-lg-4  color-<?php echo $data['bg_prefix'] ?>">
-                            <h3 class="color-<?php echo $data['bg_prefix'] ?>">Landing Page</h3>
+                            <h3 class="color-<?php echo $data['bg_prefix'] ?>">Prototypes</h3>
                         </div>
                         <div class="col-sm-12 col-md-12 col-lg-8">
-                            <p>The ingredients’ measurements will change according to how many servings the user decides to cook. In this way, they can buy and cook just the right amount of food, preventing food waste and saving money.</p>
+                            <p>Using Figma, we first designed hi-fidelity wireframes and transformed to protoypes to present the home, shop, product and checkout pages. We also created components such as the cart modal and other overlay features. I worked on the product page and "added to cart" response feature.</p>
                         </div>
                     </div>
                 </div>
             </div>  
         </div>
         <div class="center side-padding">
-            <img class="img-fluid shadow" src="../images/timeoff-img/home.png" alt="Home page hi-fidelity wireframe">
+            <img class="img-fluid max-height-600" src="../images/timeoff-img/prototype.png" alt="Homepage on laptop">
         </div>
     </div>
-</section>
-<section class="work-section white-section">
-    <div data-aos="fade-up">
-        <div class="center-wrapper">
-            <div class="section-text-wrapper">
-                <div class="container-fluid ">
-                    <div class="row">
-                        <div class="col-sm-12 col-md-12 col-lg-4 color-<?php echo $data['bg_prefix'] ?>">
-                            <h3 class="color-<?php echo $data['bg_prefix'] ?>">Shop Page</h3>
-                        </div>
-                        <div class="col-sm-12 col-md-12 col-lg-8">
-                            <p>From the best layout designs, I created a final business card, envelope and letterhead on Adobe InDesign. I ensured to follow best practices and general guidelines for print.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>  
-        </div>
-        <div class="center side-padding">
-            <img class="img-fluid shadow" src="../images/timeoff-img/shop.png" alt="Store page hi-fidelity wireframe">
-        </div>
 </section>
 <section class="work-section">
     <div data-aos="fade-up">
@@ -246,17 +254,17 @@
                 <div class="container-fluid ">
                     <div class="row">
                         <div class="col-sm-12 col-md-12 col-lg-4 color-<?php echo $data['bg_prefix'] ?>">
-                            <h3 class="color-<?php echo $data['bg_prefix'] ?>">Product Page</h3>
+                            <h3 class="color-<?php echo $data['bg_prefix'] ?>">Mobile Responsiveness</h3>
                         </div>
                         <div class="col-sm-12 col-md-12 col-lg-8">
-                            <p>From the best layout designs, I created a final business card, envelope and letterhead on Adobe InDesign. I ensured to follow best practices and general guidelines for print.</p>
+                            <p>Many consumers nowadays browse online with their mobile devices. It is especially important for an e-commerce site to have a responsive design. I designed the store page and the modal features on a mobile and tablet view as well. I made the navigation into a full screen overlay menu.</p>
                         </div>
                     </div>
                 </div>
             </div>  
         </div>
         <div class="center side-padding">
-            <img class="img-fluid shadow" src="../images/timeoff-img/product-page.png" alt="Product page hi-fidelity wireframe">
+            <img class="img-fluid max-height-700" src="../images/timeoff-img/mobile.png" alt="Store page hi-fidelity wireframe">
         </div>
 </section>
 <section class="work-section white-section">
@@ -269,14 +277,30 @@
                             <h3 class="color-<?php echo $data['bg_prefix'] ?>">Checkout</h3>
                         </div>
                         <div class="col-sm-12 col-md-12 col-lg-8">
-                            <p>From the best layout designs, I created a final business card, envelope and letterhead on Adobe InDesign. I ensured to follow best practices and general guidelines for print.</p>
+                            <p>We added steppers to implement easing onto the checkout page. This divides the process into 3 steps: customer information, shipping and payment details. By having steps, it makes it easier for the customer to complete their order. </p>
                         </div>
                     </div>
                 </div>
             </div>  
         </div>
-        <div class="center side-padding">
-            <img class="img-fluid " src="../images/cibo-img/wireframe-1.png" alt="Checkout page hi-fidelity wireframe">
+        <div class="slider-container">
+            <div class="three-item">
+                <div class="item">
+                    <img class="img-fluid my-shadow slider-image max-height-700" src="../images/timeoff-img/checkout-1.png"  alt="Checkout process UI 1/5">
+                </div>
+                <div class="item">
+                    <img class="img-fluid my-shadow slider-image max-height-700" src="../images/timeoff-img/checkout-2.png"  alt="Checkout process UI 2/5">
+                </div>
+                <div class="item">
+                    <img class="img-fluid my-shadow slider-image max-height-700" src="../images/timeoff-img/checkout-3.png"  alt="Checkout process UI 3/5">
+                </div>
+                <div class="item">
+                    <img class="img-fluid my-shadow slider-image max-height-700" src="../images/timeoff-img/checkout-4.png"  alt="Checkout process UI 4/5">
+                </div>
+                <div class="item">
+                    <img class="img-fluid my-shadow slider-image max-height-700" src="../images/timeoff-img/checkout-5.png"  alt="Checkout process UI 5/5">
+                </div>
+            </div>
         </div>
 </section>
 <section id="reflection" class="work-section reflection">
@@ -300,16 +324,14 @@
                             <h3 class="color-<?php echo $data['bg_prefix'] ?>">What I've Learned</h3>
                         </div>
                         <div class="col-sm-12 col-md-12 col-lg-8">
-                            <p>Branding is about creating the right perception for its audience. For Deep End Diving, I wanted to present a clean, sleek and professional tone.</p>
-                            <br>
-                            <p>Having consistency with the elements used creates unity to the brand's identity system. Thus, establishing brand guidelines is important in a design process.</p>
+                            <p>Through this project, I explored and discovered features that are beneficial to implement in an e-commerce site. The users' experience from the landing page, browsing, checkout, to reviewing the product should be designed for the convenience of the customers. Elements such as the FAQ, testimonials and customer support are important to have for increasing credibility and better customer experience.</p>
                         </div>
                     </div>
                 </div>
             </div>  
         </div>
         <div class="center">
-            <img class="img-fluid" src="../images/cibo-img/cibo-reflect.png" alt="Time/off products">
+            <img class="img-fluid" src="../images/timeoff-img/timeoff-reflect.jpeg" alt="matcha tea on rocks background">
         </div>
     </div>
 </section>
