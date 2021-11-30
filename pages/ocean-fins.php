@@ -122,16 +122,16 @@
                 </div>
             </div>  
         </div>
-        <div class="slider-container">
+        <div class="container slider-container slider-<?php echo $data['bg_prefix'] ?>">
             <div class="single-item">
                 <div class="item">
-                    <img class="img-fluid my-shadow slider-image max-height-700" src="../images/oceanfins-img/persona-2.png"  alt="Wildlife Enthusiast Persona">
+                    <img class="img-fluid my-shadow slider-image slider-img" src="../images/oceanfins-img/persona-2.png"  alt="Wildlife Enthusiast Persona">
                 </div>
                 <div class="item">
-                    <img class="img-fluid my-shadow slider-image max-height-700" src="../images/oceanfins-img/persona-1.png"  alt="Innovative Leader Persona">
+                    <img class="img-fluid my-shadow slider-image slider-img" src="../images/oceanfins-img/persona-1.png"  alt="Innovative Leader Persona">
                 </div>
                 <div class="item">
-                    <img class="img-fluid my-shadow slider-image max-height-700" src="../images/oceanfins-img/persona-3.png"  alt="Marine Biologist Professor Persona">
+                    <img class="img-fluid my-shadow slider-image slider-img" src="../images/oceanfins-img/persona-3.png"  alt="Marine Biologist Professor Persona">
                 </div>
             </div>
         </div>
@@ -153,16 +153,16 @@
                 </div>
             </div>  
         </div>
-        <div class="slider-container">
+        <div class="container slider-container slider-<?php echo $data['bg_prefix'] ?>">
             <div class="three-item">
                 <div class="item">
-                    <img class="img-fluid my-shadow slider-image max-height-700" src="../images/oceanfins-img/stats1.png"  alt="Existing Site Statistics">
+                    <img class="img-fluid my-shadow slider-image slider-img" src="../images/oceanfins-img/stats1.png"  alt="Existing Site Statistics">
                 </div>
                 <div class="item">
-                    <img class="img-fluid my-shadow slider-image max-height-700" src="../images/oceanfins-img/stats2.png"  alt="Email Campaign Statistics">
+                    <img class="img-fluid my-shadow slider-image slider-img" src="../images/oceanfins-img/stats2.png"  alt="Email Campaign Statistics">
                 </div>
                 <div class="item">
-                    <img class="img-fluid my-shadow slider-image max-height-700" src="../images/oceanfins-img/stats3.png"  alt="Third Party Analysis">
+                    <img class="img-fluid my-shadow slider-image slider-img" src="../images/oceanfins-img/stats3.png"  alt="Third Party Analysis">
                 </div>
             </div>
         </div>
@@ -184,16 +184,16 @@
                 </div>
             </div>  
         </div>
-        <div class="slider-container">
+        <div class="container slider-container slider-<?php echo $data['bg_prefix'] ?>">
             <div class="three-item">
                 <div class="item">
-                    <img class="img-fluid my-shadow slider-image max-height-700" src="../images/oceanfins-img/competitive-1.png"  alt="Oceanic Preservation Society Site Analysis">
+                    <img class="img-fluid my-shadow slider-image slider-img" src="../images/oceanfins-img/competitive-1.png"  alt="Oceanic Preservation Society Site Analysis">
                 </div>
                 <div class="item">
-                    <img class="img-fluid my-shadow slider-image max-height-700" src="../images/oceanfins-img/competitive-2.png"  alt="Sea Sheperd Site Analysis">
+                    <img class="img-fluid my-shadow slider-image slider-img" src="../images/oceanfins-img/competitive-2.png"  alt="Sea Sheperd Site Analysis">
                 </div>
                 <div class="item">
-                    <img class="img-fluid my-shadow slider-image max-height-700" src="../images/oceanfins-img/competitive-3.png"  alt="Save The Whales Site Analysis">
+                    <img class="img-fluid my-shadow slider-image slider-img" src="../images/oceanfins-img/competitive-3.png"  alt="Save The Whales Site Analysis">
                 </div>
             </div>
         </div>
@@ -275,19 +275,19 @@
                 </div>
             </div>  
         </div>
-        <div class="slider-container">
+        <div class="container slider-container slider-<?php echo $data['bg_prefix'] ?>">
             <div class="three-item">
                 <div class="item">
-                    <img class="img-fluid my-shadow slider-image max-height-800" src="../images/oceanfins-img/desktop-1.png"  alt="Learn page wireframe">
+                    <img class="img-fluid my-shadow slider-image slider-img" src="../images/oceanfins-img/desktop-1.png"  alt="Learn page wireframe">
                 </div>
                 <div class="item">
-                    <img class="img-fluid my-shadow slider-image max-height-800" src="../images/oceanfins-img/desktop-2.png"  alt="Donate page 1/3">
+                    <img class="img-fluid my-shadow slider-image slider-img" src="../images/oceanfins-img/desktop-2.png"  alt="Donate page 1/3">
                 </div>
                 <div class="item">
-                    <img class="img-fluid my-shadow slider-image max-height-800" src="../images/oceanfins-img/desktop-3.png"  alt="Donate page 2/3">
+                    <img class="img-fluid my-shadow slider-image slider-img" src="../images/oceanfins-img/desktop-3.png"  alt="Donate page 2/3">
                 </div>
                 <div class="item">
-                    <img class="img-fluid my-shadow slider-image max-height-800" src="../images/oceanfins-img/desktop-4.png"  alt="Donate page 3/3">
+                    <img class="img-fluid my-shadow slider-image slider-img" src="../images/oceanfins-img/desktop-4.png"  alt="Donate page 3/3">
                 </div>
             </div>
         </div>
@@ -309,19 +309,19 @@
                 </div>
             </div>  
         </div>
-        <div class="slider-container">
+        <div class="container slider-container slider-<?php echo $data['bg_prefix'] ?>">
             <div class="three-item">
                 <div class="item">
-                    <img class="img-fluid my-shadow slider-image max-height-800" src="../images/oceanfins-img/mobile-1.png"  alt="Home page wireframe">
+                    <img class="img-fluid my-shadow slider-image slider-img" src="../images/oceanfins-img/mobile-1.png"  alt="Home page wireframe">
                 </div>
                 <div class="item">
-                    <img class="img-fluid my-shadow slider-image max-height-800" src="../images/oceanfins-img/mobile-2.png"  alt="Learn page wireframe">
+                    <img class="img-fluid my-shadow slider-image slider-img" src="../images/oceanfins-img/mobile-2.png"  alt="Learn page wireframe">
                 </div>
                 <div class="item">
-                    <img class="img-fluid my-shadow slider-image max-height-800" src="../images/oceanfins-img/mobile-3.png"  alt="Donate page wireframe 1/2">
+                    <img class="img-fluid my-shadow slider-image slider-img" src="../images/oceanfins-img/mobile-3.png"  alt="Donate page wireframe 1/2">
                 </div>
                 <div class="item">
-                    <img class="img-fluid my-shadow slider-image max-height-800" src="../images/oceanfins-img/mobile-4.png"  alt="Donate page wireframe 2/2">
+                    <img class="img-fluid my-shadow slider-image slider-img" src="../images/oceanfins-img/mobile-4.png"  alt="Donate page wireframe 2/2">
                 </div>
             </div>
         </div>

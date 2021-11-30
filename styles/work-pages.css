@@ -41,35 +41,63 @@
 
 .deepend-gradient {
   background: rgb(0, 42, 60);
-  background: linear-gradient(0deg, rgba(0, 42, 60, 0) 0%, rgba(0, 42, 60, 1) 100%);
+  background: linear-gradient(
+    0deg,
+    rgba(0, 42, 60, 0) 0%,
+    rgba(0, 42, 60, 1) 100%
+  );
 }
 
 .jango-gradient {
   background: rgb(50, 4, 74);
-  background: linear-gradient(180deg, rgba(50, 4, 74, 1) 0%, rgba(50, 4, 74, 0) 100%);
+  background: linear-gradient(
+    180deg,
+    rgba(50, 4, 74, 1) 0%,
+    rgba(50, 4, 74, 0) 100%
+  );
 }
 
 .oceanfins-gradient {
   background: rgb(35, 89, 144);
-  background: linear-gradient(180deg, rgba(35, 89, 144, 1) 0%, rgba(35, 89, 144, 0) 100%);
+  background: linear-gradient(
+    180deg,
+    rgba(35, 89, 144, 1) 0%,
+    rgba(35, 89, 144, 0) 100%
+  );
 }
 
 .cibo-gradient {
   background: rgb(241, 168, 168);
-  background: linear-gradient(180deg, rgba(241, 168, 168, 1) 0%, rgba(241, 168, 168, 0) 100%);
+  background: linear-gradient(
+    180deg,
+    rgba(241, 168, 168, 1) 0%,
+    rgba(241, 168, 168, 0) 100%
+  );
 }
 
 .timeoff-gradient {
   background: rgb(80, 95, 46);
-  background: linear-gradient(180deg, rgba(80, 95, 46, 1) 0%, rgba(80, 95, 46, 0) 100%);
+  background: linear-gradient(
+    180deg,
+    rgba(80, 95, 46, 1) 0%,
+    rgba(80, 95, 46, 0) 100%
+  );
 }
 .mariscos-gradient {
   background: rgb(19, 140, 138);
-  background: linear-gradient(180deg, rgba(19, 140, 138, 1) 0%, rgba(19, 140, 138, 0) 100%);
+  background: linear-gradient(
+    180deg,
+    rgba(19, 140, 138, 1) 0%,
+    rgba(19, 140, 138, 0) 100%
+  );
 }
 .valoir-gradient {
   background: rgb(222, 107, 19);
-  background: linear-gradient(180deg, rgba(222, 107, 19, 1) 0%, rgba(222, 107, 19, 0) 100%);
+  background: linear-gradient(
+    180deg,
+    rgba(222, 107, 19, 1) 0%,
+    rgba(222, 107, 19, 0) 100%
+  );
 }
 
 /* Intro BG */
@@ -125,7 +153,7 @@
 }
 
 .hover-underline-animation:after {
-  content: '';
+  content: "";
   position: absolute;
   width: 100%;
   transform: scaleX(1);

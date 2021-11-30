@@ -293,19 +293,19 @@
                 </div>
             </div>  
         </div>
-        <div class="slider-container">
+        <div class="container slider-container slider-<?php echo $data['bg_prefix'] ?>">
             <div class="three-item">
                 <div class="item">
-                    <img class="img-fluid slider-image" src="../images/jango-img/user-test-1.png"  alt="Invision testing feedback of explore page">
+                    <img class="img-fluid slider-image slider-img" src="../images/jango-img/user-test-1.png"  alt="Invision testing feedback of explore page">
                 </div>
                 <div class="item">
-                    <img class="img-fluid slider-image" src="../images/jango-img/user-test-2.png"  alt="Invision testing feedback of station page">
+                    <img class="img-fluid slider-image slider-img" src="../images/jango-img/user-test-2.png"  alt="Invision testing feedback of station page">
                 </div>
                 <div class="item">
-                    <img class="img-fluid slider-image" src="../images/jango-img/user-test-3.png"  alt="Invision testing feedback of mixing station page 1/2">
+                    <img class="img-fluid slider-image slider-img" src="../images/jango-img/user-test-3.png"  alt="Invision testing feedback of mixing station page 1/2">
                 </div>
                 <div class="item">
-                    <img class="img-fluid slider-image" src="../images/jango-img/user-test-4.png"  alt="Invision testing feedback of mixing station page 2/2">
+                    <img class="img-fluid slider-image slider-img" src="../images/jango-img/user-test-4.png"  alt="Invision testing feedback of mixing station page 2/2">
                 </div>
                 </div>
             </div>

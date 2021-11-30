@@ -211,19 +211,19 @@
                 </div>
             </div>  
         </div>
-        <div class="slider-container">
+        <div class="container slider-container slider-<?php echo $data['bg_prefix'] ?>">
             <div class="three-item">
                 <div class="item">
-                    <img class="img-fluid slider-image max-height-700" src="../images/mariscos-img/menu-1.png" alt="Front cover menu design">
+                    <img class="img-fluid slider-image slider-img" src="../images/mariscos-img/menu-1.png" alt="Front cover menu design">
                 </div>
                 <div class="item">
-                    <img class="img-fluid slider-image max-height-700" src="../images/mariscos-img/menu-2.png" alt="Entrees page menu design ">
+                    <img class="img-fluid slider-image slider-img" src="../images/mariscos-img/menu-2.png" alt="Entrees page menu design ">
                 </div>
                 <div class="item">
-                    <img class="img-fluid slider-image max-height-700" src="../images/mariscos-img/menu-3.png" alt="Tacos page menu design">
+                    <img class="img-fluid slider-image slider-img" src="../images/mariscos-img/menu-3.png" alt="Tacos page menu design">
                 </div>
                 <div class="item">
-                    <img class="img-fluid slider-image max-height-700" src="../images/mariscos-img/menu-4.png" alt="Drinks page menu design">
+                    <img class="img-fluid slider-image slider-img" src="../images/mariscos-img/menu-4.png" alt="Drinks page menu design">
                 </div>
             </div>
         </div>

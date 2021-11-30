@@ -169,16 +169,16 @@
                 </div>
             </div>
         </div> -->
-        <div class="slider-container">
+        <div class="container slider-container slider-<?php echo $data['bg_prefix'] ?>">
             <div class="three-item">
                 <div class="item">
-                    <img class="img-fluid slider-image max-height-700" src="../images/cibo-img/competitor-1.png" alt="Yummy App Review">
+                    <img class="img-fluid slider-image slider-img" src="../images/cibo-img/competitor-1.png" alt="Yummy App Review">
                 </div>
                 <div class="item">
-                    <img class="img-fluid slider-image max-height-700" src="../images/cibo-img/competitor-2.png" alt="Mealime App Review">
+                    <img class="img-fluid slider-image slider-img" src="../images/cibo-img/competitor-2.png" alt="Mealime App Review">
                 </div>
                 <div class="item">
-                    <img class="img-fluid slider-image max-height-700" src="../images/cibo-img/competitor-3.png" alt="Tasty App Review">
+                    <img class="img-fluid slider-image slider-img" src="../images/cibo-img/competitor-3.png" alt="Tasty App Review">
                 </div>
             </div>
         </div>
@@ -327,8 +327,8 @@
                 </div>
             </div>  
         </div>
-        <div class="slider-container">
-            <div class="single-item">
+        <div class="container slider-container slider-<?php echo $data['bg_prefix'] ?>">
+            <div class="single-item mobile-item">
                 <div class="item">
                     <img class="img-fluid slider-image max-height-700" src="../images/cibo-img/onboard-2.png" alt="Welcome carousel 1/3">
                 </div>
@@ -361,8 +361,8 @@
                 </div>
             </div>  
         </div>
-        <div class="slider-container">
-            <div class="single-item">
+        <div class="container slider-container slider-<?php echo $data['bg_prefix'] ?>">
+            <div class="single-item mobile-item">
                 <div class="item">
                     <img class="img-fluid slider-image max-height-700" src="../images/cibo-img/major-2.png" alt="Explore Tab">
                 </div>
@@ -394,8 +394,8 @@
                 </div>
             </div>  
         </div>
-        <div class="slider-container">
-            <div class="single-item">
+        <div class="container slider-container slider-<?php echo $data['bg_prefix'] ?>">
+            <div class="single-item mobile-item">
                 <div class="item">
                     <img class="img-fluid slider-image max-height-700" src="../images/cibo-img/major-2.png" alt="Explore Tab">
                 </div>

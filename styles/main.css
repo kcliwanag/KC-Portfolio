@@ -110,12 +110,12 @@ a {
 /* Typography */
 
 @font-face {
-  font-family: 'Silka';
-  src: local('Silka') url('silka-regular-webfont.woff') format('woff');
+  font-family: "Silka";
+  src: local("Silka") url("silka-regular-webfont.woff") format("woff");
 }
 
 body {
-  font-family: 'Silka';
+  font-family: "Silka";
   /* letter-spacing: 0.2em; */
   font-size: 62.5%;
   color: #707070;
@@ -162,7 +162,7 @@ p {
 }
 
 .divider {
-  background-image: url('../images/divider-gray.svg');
+  background-image: url("../images/divider-gray.svg");
   background-size: 100% 60px;
   bottom: 0;
   height: 60px;
@@ -171,7 +171,7 @@ p {
 }
 
 .divider-revert {
-  background-image: url('../images/divider-gray.svg');
+  background-image: url("../images/divider-gray.svg");
   background-size: 100% 60px;
   bottom: 0;
   height: 60px;
