@@ -1,14 +1,14 @@
-.poi {
+.animated-word {
   overflow: hidden;
   position: relative;
-  height: 80px;
+  height: 100px;
   padding-top: 10px;
   margin-top: -10px;
   animation: showup2 7s;
   animation-delay: 30s;
 }
 
-.poi li {
+.animated-word li {
   padding: 0;
   height: 45px;
   margin-bottom: 45px;
@@ -54,11 +54,16 @@
 
 .home-intro div {
   display: block;
-  overflow: hidden;
-  white-space: nowrap;
+  /* overflow: hidden;
+  white-space: nowrap; */
 }
 
-.home-intro .lkj {
+.home-intro h1 {
+  text-transform: none;
+  letter-spacing: 0em;
+}
+
+.home-intro .statement {
   animation: showup 15s;
 }
 
@@ -142,7 +147,7 @@
 } */
 
 .home-intro {
-  height: 100vh;
+  height: 90vh;
 }
 
 [data-ca3_icon]::before {
@@ -165,14 +170,13 @@
   line-height: 60px;
   position: absolute;
   left: 50%;
-  bottom: 0px;
+  bottom: 20vh;
   color: #fff;
   text-align: center;
   font-size: 70px;
   z-index: 100;
   text-decoration: none;
   text-shadow: 0px 0px 3px rgba(0, 0, 0, 0.4);
-
   -webkit-animation: ca3_fade_move_down 2s ease-in-out infinite;
   -moz-animation: ca3_fade_move_down 2s ease-in-out infinite;
   animation: ca3_fade_move_down 2s ease-in-out infinite;
@@ -221,7 +225,7 @@
 
 .home-intro {
   padding: 300px 20px 50px 20px;
-  display: flex;
+  /* display: flex; */
   align-items: center;
 }
 
@@ -230,7 +234,7 @@
   line-height: 1.6em;
 }
 
-.poi {
+.animated-word {
   color: #babaf9;
 }
 
