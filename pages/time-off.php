@@ -108,7 +108,7 @@
                                 <h3 class="color-<?php echo $data['bg_prefix'] ?>">Empathy Map</h3>
                             </div>
                             <div class="col-sm-12 col-md-12 col-lg-8">
-                                <p>I created a flowchart to show the step-by-step checkout process. When checking out, customers can sign-in to an existing account or use the guest checkout. For convenience, those who have an existing account would have their information saved and filled in. They can simply review their order details and press confirm.</p>
+                                <p>This helps us to gain a deeper understanding into who we are designing for which are the company's consumers and site users. We've observed their behaviours and thoughts in their process of deciding to purchase the products.</p>
                             </div>
                         </div>
                     </div>
@@ -136,7 +136,7 @@
                                 <h3 class="color-<?php echo $data['bg_prefix'] ?>">Flowchart</h3>
                             </div>
                             <div class="col-sm-12 col-md-12 col-lg-8">
-                                <p>I created a flowchart to show the step-by-step checkout process. When checking out, customers can sign-in to an existing account or use the guest checkout. For convenience, those who have an existing account would have their information saved and filled in. They can simply review their order details and press confirm.</p>
+                                <p> This flowchart shows the step-by-step checkout process. When checking out, customers can sign-in to an existing account or use the guest checkout. For convenience, those who have an existing account would have their information saved and filled in. They can simply review their order details and press confirm.</p>
                             </div>
                         </div>
                     </div>
@@ -233,10 +233,13 @@
                 <div class="container-fluid">
                     <div class="row">
                         <div class="col-sm-12 col-md-12 col-lg-4  color-<?php echo $data['bg_prefix'] ?>">
-                            <h3 class="color-<?php echo $data['bg_prefix'] ?>">Prototypes</h3>
+                            <h3 class="color-<?php echo $data['bg_prefix'] ?>">Prototype</h3>
                         </div>
                         <div class="col-sm-12 col-md-12 col-lg-8">
-                            <p>Using Figma, we first designed hi-fidelity wireframes and transformed to protoypes to present the home, shop, product and checkout pages. We also created components such as the cart modal and other overlay features. I worked on the product page and "added to cart" response feature.</p>
+                            <p>Using Figma, we first designed hi-fidelity wireframes and transformed to a prototype to present the home, shop, product and checkout pages. We also created components such as the cart modal and other overlay features. I worked on the product page and "added to cart" response feature.</p>
+                            <div class="link-background">
+                                <a href="https://www.figma.com/proto/1aAhAroxvDX9HByXF07DV7/time%2Foff-matcha?node-id=2%3A2&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=2%3A2" target="_blank" title="View Prototypes" class="middle color-<?php echo $data['bg_prefix'] ?> line-color-<?php echo $data['bg_prefix'] ?>"><i>View Desktop Prototype</i></a>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -258,6 +261,9 @@
                         </div>
                         <div class="col-sm-12 col-md-12 col-lg-8">
                             <p>Many consumers nowadays browse online with their mobile devices. It is especially important for an e-commerce site to have a responsive design. I designed the store page and the modal features on a mobile and tablet view as well. I made the navigation into a full screen overlay menu.</p>
+                            <div class="link-background">
+                                <a href="https://invis.io/4Z120X81KB9Y" target="_blank" title="View Prototypes" class="middle color-<?php echo $data['bg_prefix'] ?> line-color-<?php echo $data['bg_prefix'] ?>"><i>View Mobile Prototype</i></a>
+                            </div>
                         </div>
                     </div>
                 </div>

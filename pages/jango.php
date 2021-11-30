@@ -285,7 +285,9 @@
                         </div>
                         <div class="col-sm-12 col-md-12 col-lg-8">
                             <p>From the wireframes, I built mockups on Adobe Photoshop, creating a more realistic impression of how the new site will look. I then imported them onto InVision to add interactivity and simulate the site’s functionality. The high-fidelity prototypes are shared with users to collect feedback on their experience.</p>
-                            <a href="https://kcliwanag230991.invisionapp.com/console/share/HZ28K9OVPK/534272036" title="View Prototypes" target="_blank" class="hover-underline-animation  line-color-<?php echo $data['bg_prefix'] ?> color-<?php echo $data['bg_prefix'] ?>"><i>View Invision Prototypes</i></a>
+                            <div class="link-background">
+                                <a href="https://kcliwanag230991.invisionapp.com/console/share/HZ28K9OVPK/534272036" target="_blank" title="View Prototypes" class="middle color-<?php echo $data['bg_prefix'] ?> line-color-<?php echo $data['bg_prefix'] ?>"><i>View Prototypes</i></a>
+                            </div>
                         </div>
                     </div>
                 </div>

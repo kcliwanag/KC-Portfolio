@@ -21,7 +21,7 @@
         <link rel="stylesheet" href="/styles/main.css">
     </head>
     <body>
-        <button type="button" class="btn btn-floating btn-lg my-shadow color-<?php echo $data['bg_prefix'] ?>" id="btn-back-to-top">
+        <button type="button" class="btn btn-floating btn-lg btn-<?php echo $data['bg_prefix'] ?> color-<?php echo $data['bg_prefix'] ?>" id="btn-back-to-top">
             <i class="fas fa-arrow-up"></i>
         </button>
         <div class="navbar-sm my-shadow">

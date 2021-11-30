@@ -319,6 +319,9 @@
                         </div>
                         <div class="col-sm-12 col-md-12 col-lg-8">
                             <p>Onboarding starts with prompting new users to create an account for saving user preferences. After, they are introduced to the great benefits of CIBO. This welcome carousel helps new users to acclimate to the app's features. </p>
+                            <div class="link-background">
+                                <a href="https://xd.adobe.com/view/40d46c51-b2c7-4c79-999b-69c715bc8bdd-1587/" target="_blank" title="View Prototypes" class="middle color-<?php echo $data['bg_prefix'] ?> line-color-<?php echo $data['bg_prefix'] ?>"><i>View Prototypes</i></a>
+                            </div>
                         </div>
                     </div>
                 </div>

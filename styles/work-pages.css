@@ -116,7 +116,7 @@
 }
 
 /* View Button */
-.hover-underline-animation {
+/* .hover-underline-animation {
   display: inline-block;
   position: relative;
   padding-top: 30px;
@@ -139,9 +139,67 @@
 .hover-underline-animation:hover:after {
   transform: scaleX(1);
   transform-origin: bottom left;
+} */
+
+.link-background {
+  margin-top: 30px;
 }
 
-.line-color-deepend:after {
+a.middle {
+  position: relative;
+  font-size: 1.4em;
+}
+
+a.middle:before {
+  content: '';
+  position: absolute;
+  width: 100%;
+  height: 2px;
+  bottom: -8px;
+  left: 0;
+  visibility: hidden;
+  transform: scaleX(0);
+  transition: all 0.3s ease-in-out;
+}
+
+a.middle:hover:before {
+  visibility: visible;
+  transform: scaleX(1);
+}
+
+a.line-color-cibo:before {
+  background-color: #f1a8a8;
+}
+
+a.line-color-cibo:hover {
+  color: #f1a8a8;
+}
+
+a.line-color-jango:before {
+  background-color: #32044a;
+}
+
+a.line-color-jango:hover {
+  color: #32044a;
+}
+
+a.line-color-timeoff:before {
+  background-color: #505f2e;
+}
+
+a.line-color-timeoff:hover {
+  color: #505f2e;
+}
+
+a.line-color-deepend:before {
+  background-color: #002a3c;
+}
+
+a.line-color-deepend:hover {
+  color: #002a3c;
+}
+
+/* .line-color-deepend:after {
   background-color: #002a3c;
 }
 
@@ -154,8 +212,7 @@
 }
 
 .line-color-jango:hover {
-  color: #32044a;
-}
+  color: #32044a; */
 
 /* Works Section  */
 

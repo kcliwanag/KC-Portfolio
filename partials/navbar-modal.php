@@ -36,7 +36,7 @@
               <h2>Let's Create Something Great.</h2>
               <h3>Email</h3>
               <a href="mailto:hello@kcliwanag.com" title="Send Email">
-                  <h4>hello@kcliwanag.com</h4>
+                  <h4>kateclarenceliwanag@gmail.com</h4>
               </a>
             </div>
             <div class="col-sm-12 col-md-12 col-lg-6 contact-linkedin">

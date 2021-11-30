@@ -57,7 +57,9 @@
                         </div>
                         <div class="col-sm-12 col-md-12 col-lg-8">
                             <p>The design process begins with initial ideas. After sketching out thumbnails on paper, I chose the best 5 to digitally re-create on Adobe Illustrator. Each logo has elements that signify diving or the ocean.</p>
-                            <a href="../images/deepend-img/thumbnails-meanings.pdf" title="View PDF" target="_blank" class="hover-underline-animation  line-color-<?php echo $data['bg_prefix'] ?> color-<?php echo $data['bg_prefix'] ?>"><i>What do these logos represent?</i></a>
+                            <div class="link-background">
+                                <a href="../images/deepend-img/thumbnails-meanings.pdf" target="_blank" title="View PDF" class="middle color-<?php echo $data['bg_prefix'] ?> line-color-<?php echo $data['bg_prefix'] ?>"><i>What do these logos represent?</i></a>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -196,7 +198,9 @@
                         </div>
                         <div class="col-sm-12 col-md-12 col-lg-8">
                             <p>To build its visual identity system, I first explored inspirations and finalized the brand look and feel on a mood board. I then sketched thumbnails and digitalized roughs for the set items' layout design.</p>
-                            <a href="../images/deepend-img/stationery_ideation.pdf" title="View PDF" target="_blank" class="hover-underline-animation  line-color-<?php echo $data['bg_prefix'] ?> color-<?php echo $data['bg_prefix'] ?>"><i>What does the full process look like?</i></a>
+                            <div class="link-background">
+                                <a href="../images/deepend-img/stationery_ideation.pdf" target="_blank" title="View PDF" class="middle color-<?php echo $data['bg_prefix'] ?> line-color-<?php echo $data['bg_prefix'] ?>"><i>What does the full process look like?</i></a>
+                            </div>
                         </div>
                     </div>
                 </div>

@@ -1,7 +1,7 @@
         <footer class="footer">
             <div class="container">
                 <div class="row">
-                    <div class="col copy">
+                    <div class="col copy less-opacity">
                         &copy; <script>document.write(new Date().getFullYear())</script> KC Liwanag
                     </div>
                     <div class="col">

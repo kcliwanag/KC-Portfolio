@@ -10,7 +10,7 @@
 <div class="container-fluid work-nav sticky-top nav-color-<?php echo $data['bg_prefix'] ?>">
     <div class="row">
         <a href="#introduction" class="col" title="Introduction"><h3>Introduction</h3></a>
-        <a href="#audience" class="col" title="Audience"><h3>Audience</h3></a>
+        <a href="#experience" class="col" title="My Experience"><h3>My Experience</h3></a>
         <a href="#brand-identity" class="col" title="Brand Identity"><h3>Brand Identity</h3></a>
         <a href="#final" class="col" title="Final"><h3>Final</h3></a>
         <a href="#reflection" class="col" title="Reflection"><h3>Reflection</h3></a>
@@ -50,7 +50,7 @@
                 <div class="container-fluid">
                     <div class="row">
                         <div class="solid-color-heading <?php echo $data['bg_prefix'] ?>-solid-color-heading">
-                            <h3 class="white-text">A local seafood Mexican restaurant, serving delicious comfort food. </h3>
+                            <h3 class="white-text">Mariscos El Güero is a Mexican seafood restaurant located in Puerto Vallarta, a resort city on Mexico’s Pacific coast known for its nice beaches. </h3>
                         </div>
                         <div class="solid-color-blurb <?php echo $data['bg_prefix'] ?>-solid-color-blurb">
                             <p class="white-text less-opacity">Cibo is more than a digital cookbook app. It is a kitchen organization tool that will help home cooks be more efficient and save money by keeping track of the ingredients they already have. 
@@ -63,7 +63,7 @@
         </div>
     </div>
 </section> -->
-<section id="audience" class="work-section">
+<section id="experience" class="work-section">
     <div data-aos="fade-up">
         <div class="center-wrapper">
             <div class="section-text-wrapper">
@@ -72,17 +72,17 @@
                         <div class="col-sm-12 col-md-12 col-lg-12 color-<?php echo $data['bg_prefix'] ?>">
                             <h4>01</h4>
                             <br>
-                            <h2>Audience</h2>
+                            <h2>My Experience</h2>
                         </div>
                     </div>
                 </div>
                 <div class="container-fluid">
                     <div class="row">
                         <div class="col-sm-12 col-md-12 col-lg-4 color-<?php echo $data['bg_prefix'] ?>">
-                            <h3 class="color-<?php echo $data['bg_prefix'] ?>">Experience</h3>
+                            <h3 class="color-<?php echo $data['bg_prefix'] ?>">Atmosphere</h3>
                         </div>
                         <div class="col-sm-12 col-md-12 col-lg-8">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+                            <p>The local restaurant is quite traditional in style with a small mariachi band playing in the restaurant. It had a friendly, familiar and cozy atmosphere which a lot of families with children come to eat here. For the redesign, I decided to make the style fun, trendy and modern but still capture the casual and comfortable spirit of the restaurant. </p>
                         </div>
                     </div>
                 </div>

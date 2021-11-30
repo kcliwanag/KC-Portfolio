@@ -96,6 +96,8 @@
   background-color: white;
   border-radius: 25px;
   z-index: 100;
+  visibility: hidden;
+  box-shadow: rgba(99, 99, 99, 0.1) 0px 2px 5px 0px;
 }
 
 @media screen and (max-height: 300px) {
@@ -143,6 +145,37 @@
 
   .work-header-navbar .navbar-nav {
     visibility: hidden;
+  }
+
+  #btn-back-to-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    display: none;
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 25px;
+    z-index: 100;
+    visibility: visible;
+    box-shadow: rgba(99, 99, 99, 0.1) 0px 2px 5px 0px;
+  }
+
+  .btn-jango:hover {
+    color: rgb(142, 69, 237);
+  }
+  .btn-cibo:hover {
+    color: #ff8a8a;
+  }
+  .btn-oceanfins:hover {
+    color: #5c9dde;
+  }
+  .btn-timeoff:hover {
+    color: #849b4d;
+  }
+  .btn-deepend:hover {
+    color: #2886ae;
+  }
+  .btn-mariscos:hover {
+    color: #26dcd9;
   }
 }
 
