@@ -7,6 +7,7 @@
                 "link"          => "jango",
                 "date"          => "JAN 2021 - MAR 2021",
                 "goal"          => "To understand the iterative UX process: research, design and validation.",
+                "meta-title"    => "Jango UX Case Study"
             ),
 
             "cibo" => array(
@@ -15,7 +16,8 @@
                 "title"         => "Cibo",
                 "link"          => "cibo",
                 "date"          => "JUN 2021 - JUL 2021",
-                "goal"          => "To develop an app pitch and create app prototypes. ",
+                "goal"          => "To develop a unique mobile app concept and pitch. ",
+                "meta-title"    => "Cibo App"
             ),
 
             "ocean-fins" => array(
@@ -25,6 +27,7 @@
                 "link"          => "ocean-fins",
                 "date"          => "SEP 2020 - DEC 2020",
                 "goal"          => "To develop a design brief, proposing an improved site with a focus on information architecture.",
+                "meta-title"    => "Ocean Fins Design Brief"
             ),
 
             "time-off" => array(
@@ -33,7 +36,8 @@
                 "title"         => "Time/Off",
                 "link"          => "time-off",
                 "date"          => "OCT 2021 - NOV 2021",
-                "goal"          => "To design an online store and its ordering process.",
+                "goal"          => "To design the interface and purchasing process of an e-commerce site.",
+                "meta-title"    => "Time/Off E-commerce Site"
             ),
 
             "deep-end-diving" => array(
@@ -43,15 +47,17 @@
                 "link"          => "deep-end-diving",
                 "date"          => "MAY 2021",
                 "goal"          => "To develop a visual identity system for a company's brand.",
+                "meta-title"    => "Deep End Diving Branding"
             ),
 
             "mariscos-el-guerro" => array(
                 "role"          => "Graphic Designer | Branding",
-                "title"         => "Mariscos El Guerro",
+                "title"         => "Mariscos El Güerro",
                 "bg_prefix"     => "mariscos",
                 "link"          => "mariscos-el-guerro",
                 "date"          => "NOV 2020",
                 "goal"          => "To brand and re-design a menu with consideration to design principles and elements of design.",
+                "meta-title"    => "Mariscos El Güerro Menu"
             ),
 
             // "yummy-milk" => array(
