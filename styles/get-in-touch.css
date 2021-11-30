@@ -28,6 +28,8 @@
 
 .get-in-touch h2 {
   font-size: 2em;
+  text-transform: none;
+  letter-spacing: 0px;
 }
 
 @media (min-width: 768px) {
