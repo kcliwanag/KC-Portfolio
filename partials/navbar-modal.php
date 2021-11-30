@@ -41,8 +41,11 @@
             </div>
             <div class="col-sm-12 col-md-12 col-lg-6 contact-linkedin">
               <hr>
-              <a href="https://www.linkedin.com/in/kc-liwanag-a83b671b7/" title="LinkedIn">
+              <a href="https://www.linkedin.com/in/kc-liwanag-a83b671b7/" target="_blank" title="LinkedIn">
                 <h3>Go to LinkedIn</h3>
+                <a href="https://www.linkedin.com/in/kc-liwanag-a83b671b7/" title="LinkedIn" target=”_blank” class="linked-in">
+                    <i class="fab fa-linkedin white-text"></i>
+                </a>
               </a>
             </div>
           </div>

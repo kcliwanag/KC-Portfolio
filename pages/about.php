@@ -3,9 +3,9 @@
 <div data-aos="fade-up">
     <div class="container about-container">
         <div class="row">
-            <div class="col-sm-12 col-md-12 col-lg-6 about-pic">
+            <div class="col-sm-12 col-md-12 col-lg-5 about-pic">
             </div>
-            <div class="col-sm-12 col-md-12 col-lg-6 about-desc">
+            <div class="col-sm-12 col-md-12 col-lg-7 about-desc">
                 <h1>Hello,<br>I'm<span> KC Liwanag.</span></h1>
                 <p>I’ve always been fascinated by how design delivers a unique purpose – shaping the way we think and feel. Being a UX/ UI designer, I can craft empathy-driven designs and user-centred solutions. I enjoy combining my creative problem-solving skills with visual communication and storytelling. I’m driven by a mission to improve usability whilst being able to delight.<br><br>
                 As a graduate of BCIT’s New Media Design and Web Development program (2020-2022), I’ve expanded my technical and creative skillsets as a UX/UI and visual designer. I’m passionate about producing work that establishes value, meaning and a connection with an audience. Seeking new experiences and learning from diverse perspectives continues to ignite my creative spark as well as curiosity in life.</p>

@@ -9,13 +9,13 @@
 .about-pic {
   background-image: url(../images/about-img/about-1.jpg);
   height: 400px;
-  border-radius: 20px;
+  /* border-radius: 20px; */
   background-size: cover;
   background-position: center;
 }
 
 .about-desc {
-  padding: 50px 50px 50px 80px;
+  padding: 50px;
   line-height: 2.5em;
 }
 
@@ -76,5 +76,10 @@ a.line-color-resume:hover {
   .about-container {
     max-width: 80%;
     padding: 50px 0px;
+  }
+
+  .about-desc {
+    padding: 50px 50px 50px 80px;
+    line-height: 2.5em;
   }
 }

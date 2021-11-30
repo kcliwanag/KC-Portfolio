@@ -38,7 +38,8 @@ a.line-color-contact:hover {
 } */
 
 .contact h4 {
-  font-size: 2.3em;
+  font-size: 2em;
+  letter-spacing: 0.05em;
 }
 
 .contact-bg {
@@ -60,6 +61,10 @@ a.line-color-contact:hover {
 .contact-linkedin hr {
   height: 1px;
   opacity: 1;
+}
+
+.contact-linkedin .fa-linkedin {
+  font-size: 3em;
 }
 
 .contact-row h2 {
