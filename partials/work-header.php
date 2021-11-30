@@ -30,9 +30,12 @@
         </div>
         <?php require("navbar-modal.php"); ?>
         <div class="parallax container-fluid work-header work-bg-<?php echo $data['bg_prefix'] ?>">
-            <div class="work-header-navbar navbar-lg">
-                <div class="work-header-navbar-content">
-                    <?php require("navbar.php"); ?>
+            <div class="work-header-navbar navbar-lg" data-aos="fade-up">
+                <div class="back-to-home-btn">
+                    <a href="/">
+                        <img src="../images/white-arrow.svg" class="back-to-home-arrow" alt="White Arrow">
+                        <span class="back-to-home-text">Back to Home</span>
+                    </a>    
                 </div>
             </div>
             <div class="work-preview-overlay overlay-<?php echo $data['bg_prefix'] ?>"></div>  

@@ -39,7 +39,7 @@
 .nav-link:after {
   background: none repeat scroll 0 0 transparent;
   bottom: 0;
-  content: '';
+  content: "";
   display: block;
   height: 2px;
   left: 50%;
@@ -71,21 +71,38 @@
 
 .work-header-navbar {
   position: relative;
-  height: 130px;
+  height: 90px;
+  z-index: 5;
 }
 
-.work-header-navbar-content {
+.back-to-home-btn {
   position: absolute;
-  width: 100%;
-  z-index: 2;
+  left: 65px;
+  top: 50%;
+  transform: translateY(-50%);
 }
 
-.work-header-navbar-content .navbar img {
-  transform: none;
+.back-to-home-btn a {
+  color: white;
+  text-decoration: none;
+  text-transform: none;
+  font-size: 1.4em;
+  letter-spacing: 0.1em;
 }
 
-.work-header-navbar-content > .navbar {
-  padding-bottom: 0;
+.back-to-home-arrow {
+  height: 10px;
+  margin-left: 10px;
+  transition: ease 0.5s;
+  transform: rotate(180deg);
+}
+
+.back-to-home-btn:hover .back-to-home-arrow {
+  transform: scale(1.2) rotate(180deg);
+}
+
+.back-to-home-text {
+  margin-left: 10px;
 }
 
 #btn-back-to-top {
