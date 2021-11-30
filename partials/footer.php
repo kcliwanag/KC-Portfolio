@@ -21,14 +21,6 @@
                             <i class="fab fa-linkedin purple-text"></i>
                         </a>
                     </div>
-                    <!-- <div class="col">
-                        <a href="#" title="LinkedIn" target=”_blank”>
-                            <i class="fab fa-linkedin purple-text"></i>
-                        </a>
-                        <a href="#" title="Behance" target=”_blank”>
-                            <i class="fab fa-behance-square purple-text"></i>
-                        </a>
-                    </div> -->
                 </div>
             </div>
         </footer>

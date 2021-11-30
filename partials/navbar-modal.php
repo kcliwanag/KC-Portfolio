@@ -41,7 +41,7 @@
             </div>
             <div class="col-sm-12 col-md-12 col-lg-6 contact-linkedin">
               <hr>
-              <a href="#" title="LinkedIn">
+              <a href="https://www.linkedin.com/in/kc-liwanag-a83b671b7/" title="LinkedIn">
                 <h3>Go to LinkedIn</h3>
               </a>
             </div>

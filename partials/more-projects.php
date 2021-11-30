@@ -9,18 +9,10 @@
 <section class="more-projects-container">
     <div class="container">
         <div class="more-projects">
-            <!-- <div class="col-sm-12 col-lg-6">
-                <h3>More Projects</h3>
-            </div>
-            <div class="col-sm-12 col-lg-6 view-all-btn">
-                <a href="/" .                                                                                                                        >View all
-                    <img src="../images/grey-arrow.svg" alt="Grey Arrow">
-                </a>    
-            </div> -->
             <h3>More Projects</h3>
             <div class="view-all-btn">
-                <a href="/" .                                                                                                                        >View all
-                    <img src="../images/grey-arrow.svg" alt="Grey Arrow">
+                <a href="/" title="View All Works">View all
+                    <img src="../images/grey-arrow.svg" class="view-work-arrow" alt="Grey Arrow">
                 </a>    
             </div>
         </div>
@@ -29,7 +21,7 @@
         <div class="more-projects-preview row">
             <?php foreach($random_keys as $key){ ?>
                     <div class="col-sm-12 col-lg-4 more-projects-bg work-bg-<?php echo $projects[$key]['bg_prefix']?>">
-                        <a href="../<?php echo $projects[$key]['link']?>">
+                        <a href="../<?php echo $projects[$key]['link']?>" title="<?php echo $projects[$key]['title']?>">
                         <div class="more-projects-overlay nav-color-<?php echo $projects[$key]['bg_prefix']?>">
                             <div class="more-projects-title">
                                 <h5><?php echo $projects[$key]['role']?></h5>

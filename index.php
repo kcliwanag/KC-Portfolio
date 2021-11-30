@@ -13,7 +13,7 @@
           </ul>
         </h1>
       </div> 
-      <a class="ca3-scroll-down-link ca3-scroll-down-arrow" data-ca3_iconfont="ETmodules" data-ca3_icon=""></a>
+      <a href="#works" class="ca3-scroll-down-link ca3-scroll-down-arrow" data-ca3_iconfont="ETmodules" data-ca3_icon=""></a>
     </div>
   </section>
 </div>
