@@ -16,9 +16,61 @@
 .footer i {
   margin-left: 20px;
   font-size: 2.3em;
+  color: #707070;
+}
+
+.footer i:hover {
+  color: #babaf9;
 }
 
 .footer .copy {
   justify-content: flex-start;
 }
-/* More Projects */ ;
+
+.col.site-links {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.site-links {
+  visibility: hidden;
+}
+
+.site-links a {
+  font-size: 1em;
+  color: #707070;
+}
+
+.site-links .link-background {
+  margin-top: 0px;
+}
+
+.site-links .link-background:not(:nth-last-of-type(1)) {
+  margin-right: 25px;
+}
+
+a.line-color-footer:before {
+  background-color: #babaf9;
+}
+
+a.line-color-footer:hover {
+  color: #babaf9;
+}
+
+.linked-in {
+  visibility: visible;
+}
+
+@media (min-width: 768px) {
+  .site-links {
+    visibility: visible;
+  }
+  .site-links a {
+    opacity: 0.5;
+  }
+  .site-links a:hover {
+    visibility: visible;
+    opacity: 1;
+  }
+}

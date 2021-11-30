@@ -4,14 +4,31 @@
                     <div class="col copy less-opacity">
                         &copy; <script>document.write(new Date().getFullYear())</script> KC Liwanag
                     </div>
-                    <div class="col">
+                    <div class="col site-links">
+                        <div class="link-background">
+                            <a href="/" title="Home" class="middle color-footer line-color-footer">Home</a>
+                        </div>
+                        <div class="link-background">
+                            <a href="/#works" title="Works" class="middle color-footer line-color-footer">Works</a>
+                        </div>
+                        <div class="link-background">
+                            <a href="/about" title="About" class="middle color-footer line-color-footer">About</a>
+                        </div>
+                        <div class="link-background">
+                            <a type="button" data-bs-toggle="modal" data-bs-target="#contact-modal" aria-controls="navbarNav" aria-expanded="false" aria-label="Contact" title="Contact Me" class="middle color-footer line-color-footer">Contact</a>
+                        </div>
+                        <a href="https://www.linkedin.com/in/kc-liwanag-a83b671b7/" title="LinkedIn" target=”_blank” class="linked-in">
+                            <i class="fab fa-linkedin purple-text"></i>
+                        </a>
+                    </div>
+                    <!-- <div class="col">
                         <a href="#" title="LinkedIn" target=”_blank”>
                             <i class="fab fa-linkedin purple-text"></i>
                         </a>
-                        <!-- <a href="#" title="Behance" target=”_blank”>
+                        <a href="#" title="Behance" target=”_blank”>
                             <i class="fab fa-behance-square purple-text"></i>
-                        </a> -->
-                    </div>
+                        </a>
+                    </div> -->
                 </div>
             </div>
         </footer>

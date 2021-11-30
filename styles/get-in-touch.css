@@ -5,13 +5,15 @@
   align-items: center;
   padding: 100px 40px;
   text-align: center;
-  line-height: 2.8em;
+  line-height: 1em;
   /* border-bottom: solid #d7d7d7 1.3px; */
   font-size: 1.4em;
 }
 
 .get-in-touch p {
   margin-top: 30px;
+  line-height: 1em;
+  font-size: 1.2em;
 }
 
 .get-in-touch a {
@@ -24,6 +26,10 @@
   text-transform: none;
 }
 
+.get-in-touch h2 {
+  font-size: 2em;
+}
+
 @media (min-width: 768px) {
   .get-in-touch {
     justify-content: flex-start;
@@ -34,6 +40,11 @@
 
   .get-in-touch p {
     margin-top: 30px;
+    font-size: 1.4em;
+  }
+
+  .get-in-touch h2 {
+    font-size: 3em;
   }
 
   .see-works {
