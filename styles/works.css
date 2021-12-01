@@ -61,6 +61,12 @@
   animation: showup 15s;
 }
 
+.statement {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 /* .home-intro .poi { */
 /* width: 0px; */
 /* animation-fill-mode: forwards;
@@ -141,7 +147,11 @@
 } */
 
 .home-intro {
-  height: 90vh;
+  height: calc(100vh - 10vh);
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 [data-ca3_icon]::before {
@@ -333,8 +343,8 @@
 
 @media (min-width: 768px) {
   .home-intro {
-    padding: 130px 0px 100px 100px;
-    display: block;
+    padding: 0px 0px 275px 0px;
+    /* display: block; */
   }
   .work-preview {
     display: flex;
