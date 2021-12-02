@@ -30,7 +30,7 @@
                         <p class="white-text">An information architect’s role is to understand the needs of the end-user by incorporating a methodical process and designing strategies for the site’s structure – ultimately creating a positive user experience.</p>
                         <br><br>
                         <p class="white-text">I developed a design brief for a fictional non-profit agency called ‘Ocean Fins, proposing an improved site structure to help achieve their goals and express their important cause. This project is a collaboration with my team members, Sarah Richardson and Michelle Cheng.</p>
-                        <a href="../images/oceanfins-img/IA-design-brief.pdf" title="View PDF" target="_blank"><div class="pdf-btn pdf-btn-<?php echo $data['bg_prefix'] ?>">VIEW FULL PDF</div></a>
+                        <a href="../images/oceanfins-img/ocean-fins-design-brief.pdf" title="View PDF" target="_blank"><div class="pdf-btn pdf-btn-<?php echo $data['bg_prefix'] ?>">VIEW FULL PDF</div></a>
                     </div>
                 </div>
             </div>
@@ -240,13 +240,17 @@
                         </div>
                         <div class="col-sm-12 col-md-12 col-lg-8">
                             <p>We created a flowchart to visually present the complex donation process step by step. I also suggested SEO improvements and metadata to increase website traffic.</p>
+                            <div class="link-background">
+                                <a href="../images/oceanfins-img/donation-flowchart.pdf" target="_blank" title="View PDF" class="visible-pdf middle color-<?php echo $data['bg_prefix'] ?> line-color-<?php echo $data['bg_prefix'] ?>"><i>View PDF</i></a>
+                            </div>
                         </div>
+                        
                     </div>
                 </div>
             </div>  
         </div>
         <div class="center side-padding">
-            <embed class="my-shadow" src="../images/oceanfins-img/donation-flowchart.pdf" alt="Donation Flowchart" style="height:1000px; width:1000px">
+            <embed class="my-shadow embed-pdf pdf-ocean-fins" src="../images/oceanfins-img/donation-flowchart.pdf" alt="Donation Flowchart">
         </div>
     </div>
 </section>

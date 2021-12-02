@@ -170,7 +170,7 @@
   cursor: pointer;
   height: 30px;
   width: 80px;
-  margin: 0px 0 0 -40px;
+  margin: 0px 0 0 -25px;
   line-height: 60px;
   position: absolute;
   left: 50%;
@@ -228,7 +228,7 @@
 }
 
 .home-intro {
-  padding: 300px 20px 50px 20px;
+  /* padding: 300px 20px 50px 20px; */
   /* display: flex; */
   align-items: center;
 }
@@ -236,6 +236,7 @@
 .home-intro h1 {
   padding: 0px 50px;
   line-height: 1.6em;
+  font-size: 2.8em;
 }
 
 .animated-word {
@@ -398,5 +399,9 @@
 
   .see-works {
     height: 300px;
+  }
+
+  .home-intro h1 {
+    font-size: 5em;
   }
 }

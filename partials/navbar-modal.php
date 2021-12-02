@@ -33,9 +33,9 @@
         <div class="container">
           <div class="row contact-row">
             <div class="col-sm-12 col-lg-6">
-              <h2>Let's Create Something Great.</h2>
+              <h2>Let's create <br> something great.</h2>
               <h3>Email</h3>
-              <a href="mailto:hello@kcliwanag.com" title="Send Email">
+              <a href="mailto:kateclarenceliwanag@gmail.com" title="Send Email">
                   <h4>kateclarenceliwanag@gmail.com</h4>
               </a>
             </div>

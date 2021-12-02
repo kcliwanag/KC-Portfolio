@@ -130,13 +130,17 @@
                             <p>Identifying pain points allow us to empathize with users, guiding us to deliver solutions and improve their experience. I created a journey map for the ideal user to further understand and empathize with their pain points throughout their entire interaction.</p>
                             <br><br>
                             <p>This also helps to brainstorm for new and unique opportunities to include in the future state of the site.</p>
+                            <div class="link-background">
+                                <a href="../images/jango-img/jango-journey-map.pdf" target="_blank" title="View PDF" class="visible-pdf middle color-<?php echo $data['bg_prefix'] ?> line-color-<?php echo $data['bg_prefix'] ?>"><i>View PDF</i></a>
+                            </div>
+                        </div>
                         </div>
                     </div>
                 </div>
             </div>  
         </div>
         <div class="center side-padding container-fluid">
-            <embed class="my-shadow" src="../images/jango-img/jango-journey-map.pdf" style="height:1000px; width:1200px">
+            <embed class="my-shadow pdf-jango" src="../images/jango-img/jango-journey-map.pdf">
         </div>
     </div>
 </section>

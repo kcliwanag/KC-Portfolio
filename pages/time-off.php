@@ -103,13 +103,12 @@
         <div class="center-wrapper">
             <div class="section-text-wrapper">
                 <div class="container-fluid">
-                        <div class="row">
-                            <div class="col-sm-12 col-md-12 col-lg-4 color-<?php echo $data['bg_prefix'] ?>">
-                                <h3 class="color-<?php echo $data['bg_prefix'] ?>">Empathy Map</h3>
-                            </div>
-                            <div class="col-sm-12 col-md-12 col-lg-8">
-                                <p>This helps us to gain a deeper understanding into who we are designing for which are the company's consumers and site users. We've observed their behaviours and thoughts in their process of deciding to purchase the products.</p>
-                            </div>
+                    <div class="row">
+                        <div class="col-sm-12 col-md-12 col-lg-4 color-<?php echo $data['bg_prefix'] ?>">
+                            <h3 class="color-<?php echo $data['bg_prefix'] ?>">Empathy Map</h3>
+                        </div>
+                        <div class="col-sm-12 col-md-12 col-lg-8">
+                            <p>This helps us to gain a deeper understanding into who we are designing for which are the company's consumers and site users. We've observed their behaviours and thoughts in their process of deciding to purchase the products.</p>
                         </div>
                     </div>
                 </div>  
@@ -123,6 +122,7 @@
                     </div>
                 </div>
             </div>
+        </div>
         </div>
     </div>
 </section>
@@ -139,7 +139,6 @@
                                 <p> This flowchart shows the step-by-step checkout process. When checking out, customers can sign-in to an existing account or use the guest checkout. For convenience, those who have an existing account would have their information saved and filled in. They can simply review their order details and press confirm.</p>
                             </div>
                         </div>
-                    </div>
                 </div>  
             </div>
         </div>
@@ -152,6 +151,7 @@
                 </div>
             </div>
         </div>
+    </div>
     </div>
 </section>
 <section id="branding" class="work-section white-section">

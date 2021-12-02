@@ -29,7 +29,7 @@
                         <p class="white-text">While travelling to Puerto Vallarta, Mexico – known for its amazing beaches, we discovered a small, local, family restaurant called Mariscos El Güero. Mariscos translated in English is seafood. With their simple, delicious comfort food surrounded by a friendly, welcoming atmosphere and fun, warm tones played by a live mariachi band in the restaurant – I was enjoying the most unforgettable cuisine experience I’ve ever had.</p>
                         <br>
                         <p class="white-text">I chose this amazing restaurant to base the menu redesign for my Graphic Design midterm project. For the menu, I decided to make it fun and trendy to capture the casual and comfortable spirit of the restaurant.</p>
-                        <a href="../images/mariscos-img/MariscosElGuerro-menu.pdf" title="View PDF" target="_blank"><div class="pdf-btn pdf-btn-<?php echo $data['bg_prefix'] ?>">VIEW FULL PDF</div></a>
+                        <a href="../images/mariscos-img/mariscos-el-guerro-menu.pdf" title="View PDF" target="_blank"><div class="pdf-btn pdf-btn-<?php echo $data['bg_prefix'] ?>">VIEW FULL PDF</div></a>
                     </div>
                 </div>
             </div>

@@ -10,7 +10,7 @@
                 <p>I’ve always been fascinated by how design delivers a unique purpose – shaping the way we think and feel. Being a UX/ UI designer, I can craft empathy-driven designs and user-centred solutions. I enjoy combining my creative problem-solving skills with visual communication and storytelling. I’m driven by a mission to improve usability whilst being able to delight.<br><br>
                 As a graduate of BCIT’s New Media Design and Web Development program (2020-2022), I’ve expanded my technical and creative skillsets as a UX/UI and visual designer. I’m passionate about producing work that establishes value, meaning and a connection with an audience. Seeking new experiences and learning from diverse perspectives continues to ignite my creative spark as well as curiosity in life.</p>
                 <div class="link-background">
-                    <a href="../images/KCLiwanag_Resume.pdf" title="View Resume" target=”_blank” class="middle purple-text line-color-resume">Resume</a>
+                    <a href="../images/about-img/kc-liwanag-resume.pdf" title="View Resume" target=”_blank” class="middle purple-text line-color-resume">Resume</a>
                 </div>
             </div>
         </div>

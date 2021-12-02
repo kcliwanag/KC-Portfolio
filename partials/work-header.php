@@ -3,7 +3,7 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title><?php echo $data['meta-title'] ?> – KC Liwanag's Portfolio</title>
+        <title><?php echo $data['meta-title'] ?> - KC Liwanag - <?php echo $data['type'] ?> </title>
         <meta name="description" content="The MDN Web Docs site provides information about Open Web technologies including HTML, CSS, and APIs for both Web sites and progressive web apps.">
         <link rel="icon" type="image/svg+xml" href="/images/kc-liwanag-logo.svg">
         <script src="https://kit.fontawesome.com/c88d4985bb.js" crossorigin="anonymous"></script>
