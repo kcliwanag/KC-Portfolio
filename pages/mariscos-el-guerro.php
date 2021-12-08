@@ -257,7 +257,7 @@
             </div>  
         </div>
         <div class="center">
-            <img class="img-fluid" src="../images/mariscos-img/reflect.png" alt="Fish logo on waves graphic">
+            <img class="img-fluid reflection-img" src="../images/mariscos-img/reflect.png" alt="Fish logo on waves graphic">
         </div>
     </div>
 </section>

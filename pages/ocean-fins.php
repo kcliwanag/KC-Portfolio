@@ -378,7 +378,7 @@
             </div>  
         </div>
         <div class="center">
-            <img class="parallax img-fluid my-shadow max-height-1000" src="../images/oceanfins-img/boat.jpg" alt="Person standing on a boat background">
+            <img class="img-fluid reflection-img" src="../images/oceanfins-img/boat.jpg" alt="Person standing on a boat background">
         </div>
     </div>
 </section>

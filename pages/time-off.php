@@ -146,7 +146,7 @@
             <div class="row side-padding container-fluid">
                 <div class="col-sm-12 col-md-12 col-lg-12">
                     <div class="center">
-                        <img class="img-fluid max-height-1000" src="../images/timeoff-img/timeoff-checkout.svg" alt="Site map of online store">
+                        <img class="img-fluid" src="../images/timeoff-img/timeoff-checkout.svg" alt="Site map of online store">
                     </div>
                 </div>
             </div>
@@ -337,7 +337,7 @@
             </div>  
         </div>
         <div class="center">
-            <img class="img-fluid" src="../images/timeoff-img/timeoff-reflect.jpeg" alt="matcha tea on rocks background">
+            <img class="img-fluid reflection-img" src="../images/timeoff-img/timeoff-reflect.jpeg" alt="matcha tea on rocks background">
         </div>
     </div>
 </section>

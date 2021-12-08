@@ -5,7 +5,7 @@
 }
 
 .navbar img {
-  min-height: 40px;
+  height: 40px;
 }
 
 .navbar {
@@ -77,7 +77,7 @@
 
 .back-to-home-btn {
   position: absolute;
-  left: 65px;
+  left: 8vh;
   top: 80%;
   transform: translateY(-50%);
 }
@@ -135,6 +135,11 @@
   .navbar-collapse {
     justify-content: end;
   }
+
+  .navbar-expand-md .navbar-collapse {
+    justify-content: flex-end;
+  }
+
   .navbar-nav .nav-item:not(:last-child) {
     padding-right: 3.5rem;
   }
@@ -149,7 +154,7 @@
   }
 
   .navbar img {
-    min-height: 70px;
+    height: 70px;
   }
 
   .navbar-sm {

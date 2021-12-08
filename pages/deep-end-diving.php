@@ -274,7 +274,7 @@
             </div>  
         </div>
         <div class="center">
-            <img class="img-fluid my-shadow" src="../images/deepend-img/KC_Liwanag_StationeryMockups.jpg" alt="Deep End Diving stationery set">
+            <img class="img-fluid reflection-img" src="../images/deepend-img/KC_Liwanag_StationeryMockups.jpg" alt="Deep End Diving stationery set">
         </div>
     </div>
 </section>

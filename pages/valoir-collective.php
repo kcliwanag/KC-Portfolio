@@ -233,7 +233,7 @@
             </div>  
         </div>
         <div class="center">
-            <img class="img-fluid" src="../images/cibo-img/cibo-reflect.png" alt="">
+            <img class="img-fluid " src="../images/cibo-img/cibo-reflect.png" alt="">
         </div>
     </div>
 </section>

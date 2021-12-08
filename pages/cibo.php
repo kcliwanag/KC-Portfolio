@@ -438,7 +438,7 @@
             </div>  
         </div>
         <div class="center">
-            <img class="img-fluid" src="../images/cibo-img/cibo-reflect.png" alt="CIBO App background">
+            <img class="img-fluid reflection-img" src="../images/cibo-img/cibo-reflect.png" alt="CIBO App background">
         </div>
     </div>
 </section>

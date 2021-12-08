@@ -77,8 +77,8 @@ a.line-color-resume:hover {
     height: 600px;
   }
   .about-container {
-    max-width: 80%;
-    padding: 50px 0px;
+    /* max-width: 80%; */
+    padding: 3vh 3vh 8vh 3vh;
   }
 
   .about-desc {

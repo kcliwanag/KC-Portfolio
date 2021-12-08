@@ -337,6 +337,10 @@ a.line-color-oceanfins:hover {
   text-align: center;
 }
 
+.reflection-img {
+  width: 100%;
+}
+
 /* Jango Specific Elements */
 
 .solid-color-container h3 {

@@ -496,7 +496,7 @@
             </div>  
         </div>
         <div class="center">
-            <img class="img-fluid max-height-1000" src="../images/jango-img/jango-reflect.jpg" alt="Users in a cafe">
+            <img class="img-fluid reflection-img" src="../images/jango-img/jango-reflect.jpg" alt="Users in a cafe">
         </div>
     </div>
 </section>
