@@ -200,7 +200,7 @@
                 </div>
             </div>  
         </div>
-        <div class="slider-container">
+        <div class="container slider-container slider-<?php echo $data['bg_prefix'] ?>">
             <div class="three-item">
                 <div class="item">
                     <img class="img-fluid slider-image max-height-500 my-shadow" src="../images/timeoff-img/product-1.jpeg" alt="Time/off Full Matcha Pack">
@@ -213,6 +213,9 @@
                 </div>
                 <div class="item">
                     <img class="img-fluid slider-image max-height-500 my-shadow" src="../images/timeoff-img/product-5.jpeg" alt="Time/off Chawan + Chasen Set">
+                </div>
+                <div class="item">
+                    <img class="img-fluid slider-image max-height-500 my-shadow" src="../images/timeoff-img/product-6.jpg" alt="Time/off Chawan + Chasen Set">
                 </div>
             </div>
         </div>
@@ -289,7 +292,7 @@
                 </div>
             </div>  
         </div>
-        <div class="slider-container">
+        <div class="container slider-container slider-<?php echo $data['bg_prefix'] ?>">
             <div class="three-item">
                 <div class="item">
                     <img class="img-fluid my-shadow slider-image max-height-700" src="../images/timeoff-img/checkout-1.png"  alt="Checkout process UI 1/5">

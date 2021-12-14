@@ -104,7 +104,7 @@
 
 .work-section h2 {
   font-size: 3em;
-  padding-bottom: 50px;
+  padding-bottom: 6vh;
 }
 
 .work-section.no-h2-bottom h2 {
@@ -112,34 +112,8 @@
 }
 
 .work-section h3 {
-  padding-bottom: 20px;
+  padding-bottom: 2.4vh;
 }
-
-/* View Button */
-/* .hover-underline-animation {
-  display: inline-block;
-  position: relative;
-  padding-top: 30px;
-  padding-bottom: 5px;
-  font-size: 1.4em;
-}
-
-.hover-underline-animation:after {
-  content: "";
-  position: absolute;
-  width: 100%;
-  transform: scaleX(1);
-  height: 2px;
-  bottom: 0;
-  left: 0;
-  transform-origin: bottom right;
-  transition: transform 0.25s ease-out;
-}
-
-.hover-underline-animation:hover:after {
-  transform: scaleX(1);
-  transform-origin: bottom left;
-} */
 
 .visible-pdf {
   visibility: visible;
@@ -223,26 +197,11 @@ a.line-color-oceanfins:hover {
   color: #235990;
 }
 
-/* .line-color-deepend:after {
-  background-color: #002a3c;
-}
-
-.line-color-deepend:hover {
-  color: #002a3c;
-}
-
-.line-color-jango:after {
-  background-color: #32044a;
-}
-
-.line-color-jango:hover {
-  color: #32044a; */
-
 /* Works Section  */
 
 .work-section {
-  padding-top: 100px;
-  padding-bottom: 100px;
+  padding-top: 12.2vh;
+  padding-bottom: 12.2vh;
 }
 
 .no-padding-bottom {
@@ -293,44 +252,39 @@ a.line-color-oceanfins:hover {
 /* Deep-End Specific Elements */
 
 .deepend-logo-gallery .item img {
-  height: 300px;
-}
-
-.jango-gallery .item img {
+  height: 36.5vh;
 }
 
 .max-height-300 {
-  max-height: 300px;
+  max-height: 36.5vh;
 }
 .max-height-400 {
-  max-height: 400px;
+  max-height: 48.7vh;
 }
 
 .max-height-500 {
-  max-height: 500px;
+  max-height: 60.9vh;
 }
 
 .max-height-1000 {
-  max-height: 1000px;
+  max-height: 100vh;
 }
 
 .max-height-600 {
-  max-height: 600px;
+  max-height: 73vh;
 }
 
 .max-height-700 {
-  max-height: 700px;
+  max-height: 85.3vh;
 }
 .max-height-800 {
-  max-height: 800px;
-}
-.max-height-900 {
-  max-height: 900px;
+  max-height: 97.4vh;
 }
 
 .side-padding {
   padding: 0px 30px;
 }
+
 .before-after-img h4 {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -351,12 +305,12 @@ a.line-color-oceanfins:hover {
 }
 
 .solid-color-heading {
-  padding-left: 20px;
+  padding-left: 2.4vh;
 }
 
 .solid-color-blurb {
-  padding-top: 40px;
-  padding-left: 20px;
+  padding-top: 4.9vh;
+  padding-left: 2.4vh;
 }
 
 .jango-solid-color-bg {
@@ -372,7 +326,7 @@ a.line-color-oceanfins:hover {
 }
 
 .main-heading-blurb {
-  margin-bottom: 80px;
+  margin-bottom: 9.7vh;
 }
 
 @media (min-width: 768px) {
@@ -397,17 +351,13 @@ a.line-color-oceanfins:hover {
   }
 
   .work-section {
-    padding-top: 130px;
-    padding-bottom: 130px;
+    padding-top: 15.8vh;
+    padding-bottom: 15.8vh;
   }
 
   .side-padding {
     padding: 0px 50px;
   }
-
-  /* .work-section h2 {
-    padding-bottom: 80px;
-  } */
 
   .hover-underline-animation:after {
     transform: scaleX(1);
@@ -415,9 +365,6 @@ a.line-color-oceanfins:hover {
   .before-after-img h4 {
     padding-top: 0px;
   }
-  /* .work-section.no-h2-bottom h2 {
-    padding-bottom: 80px;
-  } */
 }
 
 /* Ocean Fins Specific Elements */
@@ -491,8 +438,10 @@ a.line-color-oceanfins:hover {
     transform: scaleX(0);
   }
   .work-section {
-    padding-top: 150px;
-    padding-bottom: 150px;
+    /* padding-top: 150px;
+    padding-bottom: 150px; */
+    padding-top: 18.2vh;
+    padding-bottom: 18.2vh;
   }
   .challenge-container h3 {
     font-size: 2.3em;

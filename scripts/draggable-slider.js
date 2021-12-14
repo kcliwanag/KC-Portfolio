@@ -4,6 +4,11 @@ $(document).ready(function () {
     slidesToShow: 3,
     infinite: false,
     dots: true,
+    arrows: true,
+    prevArrow:
+      "<div class='slick-prev slick-arrow'><img src='/images/arrow-slider.svg' /></div>",
+    nextArrow:
+      "<div class='slick-next slick-arrow'><img src='/images/arrow-slider.svg' /></div>",
     responsive: [
       {
         breakpoint: 992,

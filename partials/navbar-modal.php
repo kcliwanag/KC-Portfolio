@@ -22,6 +22,7 @@
   </div>
 </div>
 
+<!-- Contact modal -->
 <div class="contact">
   <div class="modal fade" id="contact-modal" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="Mobile Menu" aria-hidden="true">
     <div class="modal-dialog modal-fullscreen">
@@ -33,7 +34,7 @@
         <div class="container">
           <div class="row contact-row">
             <div class="col-sm-12 col-lg-6">
-              <h2>Let's create <br> something great.</h2>
+              <h2>Let's create <br> something great!</h2>
               <h3>Email</h3>
               <a href="mailto:kateclarenceliwanag@gmail.com" title="Send Email">
                   <h4>kateclarenceliwanag@gmail.com</h4>

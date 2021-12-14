@@ -3,7 +3,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 100px 40px;
+  padding: 12.2vh 4.9vh;
   text-align: center;
   line-height: 1em;
   /* border-bottom: solid #d7d7d7 1.3px; */
@@ -36,7 +36,7 @@
   .get-in-touch {
     justify-content: flex-start;
     align-items: center;
-    padding: 200px 130px;
+    padding: 24.3vh 15.8vh;
     text-align: left;
   }
 

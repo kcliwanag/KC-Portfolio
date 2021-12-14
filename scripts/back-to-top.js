@@ -8,11 +8,13 @@ window.onscroll = function () {
 
 function scrollFunction() {
   if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+    // display on tablet and desktop
     if (screen.width >= 768) {
       mybutton.style.display = "block";
     } else {
       mybutton.style.display = "none";
     }
+    // hide on mobile
   } else {
     mybutton.style.display = "none";
   }

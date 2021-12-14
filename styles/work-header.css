@@ -2,7 +2,7 @@
   background-size: cover;
   height: 80vh;
   background-position: right;
-  padding-top: 120px;
+  padding-top: 14.7vh;
 }
 
 .work-header .work-preview-overlay {
@@ -11,7 +11,7 @@
 }
 
 .work-header .work-preview-text-wrapper {
-  padding: 100px 30px;
+  padding: 12.2vh 3.6vh;
   position: relative;
 }
 
@@ -27,7 +27,7 @@
 .back-btn {
   display: flex;
   align-items: center;
-  padding-bottom: 80px;
+  padding-bottom: 9.7vh;
 }
 
 .back-btn a {
@@ -37,11 +37,11 @@
 }
 
 .goal {
-  padding-top: 60px;
+  padding-top: 7.3vh;
 }
 
 .goal p {
-  padding-top: 10px;
+  padding-top: 1.2vh;
   max-width: 50vh;
   line-height: 1.5em;
 }

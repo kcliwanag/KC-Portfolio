@@ -123,7 +123,7 @@
             </div>  
         </div>
         <div class="container slider-container slider-<?php echo $data['bg_prefix'] ?>">
-            <div class="single-item">
+            <div class="three-item">
                 <div class="item">
                     <img class="img-fluid my-shadow slider-image slider-img" src="../images/oceanfins-img/persona-2.png"  alt="Wildlife Enthusiast Persona">
                 </div>
